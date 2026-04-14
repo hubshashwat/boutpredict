@@ -1,1 +1,100 @@
-
+{
+  "feed_version": 1,
+  "event": "UFC Fight Night: Burns vs. Malott",
+  "event_date": "April 18, 2026",
+  "venue": "Canada Life Centre, Winnipeg, Canada",
+  "spotlight_image": "/images/hero-fight.jpg",
+  "bouts": [
+    {
+      "title": "Gilbert Burns vs. Mike Malott",
+      "items": [
+        { "fight_news": "Malott is headlining a UFC card for the first time, and does so in Canada — making him the first Canadian to top a UFC card in nearly six years. The crowd factor at Canada Life Centre is expected to be one of the loudest environments for a Fight Night in recent memory." },
+        { "fight_news": "Burns is on a 4-fight losing streak, with his last win coming over Jorge Masvidal in 2023. He has since dropped decisions and stoppages to Belal Muhammad, Jack Della Maddalena, Sean Brady, and Michael Morales — all elite-level opposition, but the slide is real." },
+        { "fight_news": "Burns publicly discussed delayed concussion symptoms following his TKO loss to Michael Morales in May 2025. He has not fought in nearly 11 months heading into this bout, the longest inactivity stretch of his recent career." },
+        { "fight_news": "Malott holds a 3-fight win streak with wins over Kevin Holland, Charles Radtke (KO R2), and Trevin Giles. He has 9 first-round finishes across his career and an overall finish rate above 80%." },
+        { "fight_news": "Prediction models heavily favor Malott. At 34 vs Burns' 39, the age gap, activity advantage, and momentum all point toward the Canadian, though Burns has repeatedly proven he can compete against top opposition even in losing efforts." },
+        { "fight_news": "This is a 5-round main event, which benefits Burns stylistically — he is one of the most experienced welterweights in UFC history and his BJJ is elite. If he can stay durable and take the fight deep, the equation shifts." }
+      ]
+    },
+    {
+      "title": "Kyler Phillips vs. Charles Jourdain",
+      "items": [
+        { "fight_news": "Jourdain is on a 2-fight win streak since moving down to bantamweight, submitting Davey Grant and Victor Henry via guillotine — both earned Performance of the Night bonuses. He arrives as the co-main event favorite fighting in his home country." },
+        { "fight_news": "Phillips is on a 2-fight losing streak, dropping decisions to Rob Font and Vinicius Oliveira. His three-fight win streak was snapped by Font in 2024 and he has not looked like the same fighter since." },
+        { "fight_news": "Jourdain's guillotine has been his signature weapon at 135 — two consecutive finishes with the same submission suggests either an elite setup or opponents walking into it. Phillips' wrestling should change that dynamic compared to Jourdain's recent opponents." }
+      ]
+    },
+    {
+      "title": "Mandel Nallo vs. Jai Herbert",
+      "items": [
+        { "fight_news": "This is Nallo's UFC debut at 36 years old after earning his contract via Dana White's Contender Series in September 2025 with a first-round KO. All 14 of his professional wins have come by stoppage — he has never been to a decision as a winner." },
+        { "fight_news": "Nallo is a former Bellator fighter who trains at TriStar Gym in Montreal alongside elite competition, and was a former training partner of Georges St-Pierre. His late UFC arrival does not reflect his skill level." },
+        { "fight_news": "Herbert is 3-5 in the UFC and coming off a split decision loss to Chris Padilla in March 2025. At 37 years old, he is a durable and experienced opponent but has struggled to string together wins at this level." }
+      ]
+    },
+    {
+      "title": "Jasmine Jasudavicius vs. Karine Silva",
+      "items": [
+        { "fight_news": "Jasudavicius is fighting on home soil in Canada, which the UFC specifically noted when booking this fight. Canadian crowd support for local fighters at Winnipeg is expected to be a significant atmosphere variable on this card." },
+        { "fight_news": "Karine Silva is a Brazilian submission specialist known for her aggressive ground game. If she can get Jasudavicius to the mat, the finishing threat is real — Silva has 11 wins by submission." }
+      ]
+    },
+    {
+      "title": "Thiago Moisés vs. Gauge Young",
+      "items": [
+        { "fight_news": "Moisés is a veteran Brazilian lightweight with elite BJJ who has faced ranked opponents throughout his UFC tenure. Young is a rising prospect still proving himself at this level, making Moisés the clear experience favorite." },
+        { "fight_news": "Young's activity and youth are the key variables here. If he can stay disciplined and avoid Moisés' submission setups on the feet and in the clinch, his physical tools give him a viable path to a decision win." }
+      ]
+    },
+    {
+      "title": "Dennis Buzukja vs. Márcio Barbosa",
+      "items": [
+        { "fight_news": "Barbosa earned his UFC contract through the Contender Series in 2025 and is bringing a high-finishing rate into his early UFC appearances. This is the kind of featherweight matchup where both fighters are looking to make a statement early in their UFC tenure." },
+        { "fight_news": "Buzukja is the more experienced UFC fighter in this pairing and enters as the measured favorite. His striking background and output are the defining advantages against a Barbosa still finding his footing in the Octagon." }
+      ]
+    },
+    {
+      "title": "Robert Valentin vs. Julien Leblanc",
+      "items": [
+        { "fight_news": "Leblanc is a Canadian fighting in front of a home crowd in Winnipeg, adding a storyline weight to this prelim middleweight bout. Canadian fighters on this card have strong fan support, which has historically been a crowd and energy factor." }
+      ]
+    },
+    {
+      "title": "Tanner Boser vs. Gökhan Saricam",
+      "items": [
+        { "fight_news": "Boser is a Canadian heavyweight fan favorite who will receive a significant crowd reception in Winnipeg. A former UFC prospect known for exciting performances, his activity and striking output make him a live watch in any heavyweight bout." },
+        { "fight_news": "Saricam is a Turkish heavyweight with limited UFC exposure. The experience gap between these two fighters is significant, making Boser the clear pick on paper — but heavyweight is always one punch from a different outcome." }
+      ]
+    },
+    {
+      "title": "Melissa Croden vs. Darya Zheleznyakova",
+      "items": [
+        { "fight_news": "Croden is a Canadian women's bantamweight fighting on home turf in Winnipeg. This is a significant opportunity for her to build on her UFC run in front of a crowd that will be loudly behind her from the opening bell." }
+      ]
+    },
+    {
+      "title": "JJ Aldrich vs. Jamey-Lyn Horth",
+      "items": [
+        { "fight_news": "Horth is a Canadian fighter getting a home-crowd fight in Winnipeg. Aldrich is the more experienced UFC fighter with a longer tenure in the women's flyweight division, but Horth's local support adds an intangible factor." }
+      ]
+    },
+    {
+      "title": "Mitch Raposo vs. Allan Nascimento",
+      "items": [
+        { "fight_news": "Raposo is a Canadian flyweight who will benefit from significant crowd support at Canada Life Centre. His finishing instincts and activity have made him a fan favorite in the UFC's flyweight division." }
+      ]
+    },
+    {
+      "title": "John Castañeda vs. Mark Vologdin",
+      "items": [
+        { "fight_news": "Castañeda is a veteran bantamweight with a long UFC run, known for durable and competitive performances. Vologdin is a Russian prospect still building his UFC record — experience is clearly on Castañeda's side in this matchup." }
+      ]
+    },
+    {
+      "title": "Jamie Siraj vs. John Yannis",
+      "items": [
+        { "fight_news": "Siraj is a Canadian veteran making his UFC debut on home soil in Winnipeg after earning his contract at BFL. He is a submission specialist with consecutive rear-naked choke finishes in his most recent fights — a dangerous opener for the card." }
+      ]
+    }
+  ]
+}
