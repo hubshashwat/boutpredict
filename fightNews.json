@@ -35,66 +35,82 @@
     {
       "title": "Jasmine Jasudavicius vs. Karine Silva",
       "items": [
-        { "fight_news": "Jasudavicius is fighting on home soil in Canada, which the UFC specifically noted when booking this fight. Canadian crowd support for local fighters at Winnipeg is expected to be a significant atmosphere variable on this card." },
-        { "fight_news": "Karine Silva is a Brazilian submission specialist known for her aggressive ground game. If she can get Jasudavicius to the mat, the finishing threat is real - Silva has 11 wins by submission." }
-      ]
+        { "fight_news": "Silva is a Brazilian submission specialist with 11 career wins by submission. Her finishing ability from bottom position is the primary threat in this fight. She has submitted opponents from positions that looked like control for the other fighter on the scorecards." },
+        { "fight_news": "Jasudavicius has a meaningful striking advantage on the feet. Her gameplan should be to avoid grappling exchanges and keep Silva at range, where her striking output and footwork give her a consistent scoring edge." },
+        { "fight_news": "This fight has a clear style split: Jasudavicius wins standing, Silva wins on the ground. Whoever dictates where the fight happens will likely dictate the outcome. Any wrestling exchange is a danger for Jasudavicius regardless of who initiates it, because Silva creates submissions from unexpected positions." }
+     ]
     },
     {
       "title": "Thiago Moisés vs. Gauge Young",
       "items": [
-        { "fight_news": "Moisés is a veteran Brazilian lightweight with elite BJJ who has faced ranked opponents throughout his UFC tenure. Young is a rising prospect still proving himself at this level, making Moisés the clear experience favorite." },
-        { "fight_news": "Young's activity and youth are the key variables here. If he can stay disciplined and avoid Moisés' submission setups on the feet and in the clinch, his physical tools give him a viable path to a decision win." }
-      ]
+        { "fight_news": "Moises is a veteran Brazilian lightweight with elite BJJ and a track record of finishing UFC-level opponents with triangles and rear-naked chokes, often from bottom position when opponents believe they have control on the ground." },
+        { "fight_news": "Young is a physical and athletic prospect with a wrestling-first approach. He will look to use top position and ground and pound, which puts him directly in the zone where Moises is most dangerous. The irony is that Young's strengths play into Moises' submission game." },
+        { "fight_news": "Experience is the defining factor in this matchup. Young has the physical tools to win, but managing pace and positional awareness across a full 15 minutes against a veteran submission artist is a different challenge than anything on his resume so far." }
+     ]
     },
     {
       "title": "Dennis Buzukja vs. Márcio Barbosa",
       "items": [
-        { "fight_news": "Barbosa earned his UFC contract through the Contender Series in 2025 and is bringing a high-finishing rate into his early UFC appearances. This is the kind of featherweight matchup where both fighters are looking to make a statement early in their UFC tenure." },
-        { "fight_news": "Buzukja is the more experienced UFC fighter in this pairing and enters as the measured favorite. His striking background and output are the defining advantages against a Barbosa still finding his footing in the Octagon." }
-      ]
+        { "fight_news": "Barbosa earned his UFC contract through the Contender Series in 2025 with sharp hands and aggressive output. His finishing rate is high but his DWCS opponents were a level below what he will face in the Octagon. Whether his power and timing translate against more resilient opposition is the central question." },
+        { "fight_news": "Buzukja is the more experienced UFC fighter and enters as the measured favorite. His striking volume and consistent output have been his calling card in the UFC, and that style plays well against a Barbosa who likes to engage in open exchanges." },
+        { "fight_news": "Both fighters are at the stage of their UFC careers where a finish earns a bonus and a decision earns a next fight. Expect aggression from the opening bell. Barbosa's one-punch power is the biggest upset variable if he catches Buzukja in an early exchange." }
+     ]
     },
     {
       "title": "Robert Valentin vs. Julien Leblanc",
       "items": [
-        { "fight_news": "Leblanc is a Canadian fighting in front of a home crowd in Winnipeg, adding a storyline weight to this prelim middleweight bout. Canadian fighters on this card have strong fan support, which has historically been a crowd and energy factor." }
-      ]
+        { "fight_news": "Leblanc is a Canadian middleweight with a grappling-heavy, forward-pressure style. Valentin is the technical striking favorite who will look to keep the fight at range where his stand-up is more effective than Leblanc's wrestling-first approach." },
+        { "fight_news": "Limited public footage on both fighters makes this one of the harder prelim bouts to assess going in. The fighter who establishes his preferred range early in round 1 is likely to control the scorecards, as neither man has shown the ability to dramatically shift game plans mid-fight based on available tape." },
+        { "fight_news": "Leblanc's forward pressure tends to disrupt technical strikers who rely on consistent range management. If he can close distance and make the fight physically uncomfortable in the clinch, his grappling creates genuine problems even for more skilled stand-up fighters." }
+     ]
     },
     {
       "title": "Tanner Boser vs. Gökhan Saricam",
       "items": [
-        { "fight_news": "Boser is a Canadian heavyweight fan favorite who will receive a significant crowd reception in Winnipeg. A former UFC prospect known for exciting performances, his activity and striking output make him a live watch in any heavyweight bout." },
-        { "fight_news": "Saricam is a Turkish heavyweight with limited UFC exposure. The experience gap between these two fighters is significant, making Boser the clear pick on paper - but heavyweight is always one punch from a different outcome." }
-      ]
+        { "fight_news": "Boser has competed against legitimate UFC heavyweights throughout his career, including Ciryl Gane, Ilir Latifi, and Andrei Arlovski. Those fights produced losses but also confirmed his durability and striking power are real at this level. Against Saricam, he is the clear experience and skill favorite." },
+        { "fight_news": "Saricam enters with minimal public footage at the UFC level, which is a genuine scouting problem for any opponent. Unknown heavyweights with strong regional records are among the most dangerous prelim opponents in the sport precisely because there is no established pattern to prepare against." },
+        { "fight_news": "Boser's tendency to brawl rather than box has historically given opponents more opportunities than the skill gap should allow. A disciplined, structured game plan from his corner matters more in this fight than the talent differential between the two fighters would suggest on paper." }
+     ]
     },
     {
       "title": "Melissa Croden vs. Darya Zheleznyakova",
       "items": [
-        { "fight_news": "Croden is a Canadian women's bantamweight fighting on home turf in Winnipeg. This is a significant opportunity for her to build on her UFC run in front of a crowd that will be loudly behind her from the opening bell." }
-      ]
+        { "fight_news": "Croden is an aggressive women's bantamweight who builds her game around forward pressure and consistent output. Her style is designed to make fights physically uncomfortable through volume rather than technical precision." },
+        { "fight_news": "Zheleznyakova brings a striking-first approach with solid technical fundamentals and has faced stiffer competition on paper heading into this fight. Her edge is in technical refinement and composure, not raw output." },
+        { "fight_news": "The central question is who controls the range. Zheleznyakova wants to box at distance and use footwork to neutralize Croden's pressure. Croden wants to close the gap and make it physical. Whoever imposes their preferred distance in the first two minutes is likely to carry the round and the fight." }
+     ]
     },
     {
       "title": "JJ Aldrich vs. Jamey-Lyn Horth",
       "items": [
-        { "fight_news": "Horth is a Canadian fighter getting a home-crowd fight in Winnipeg. Aldrich is the more experienced UFC fighter with a longer tenure in the women's flyweight division, but Horth's local support adds an intangible factor." }
-      ]
+        { "fight_news": "Aldrich is a UFC veteran in women's flyweight with years of experience managing pace and accumulating volume over three rounds. Her ability to control the tempo of a fight is the core advantage she brings against a less experienced opponent." },
+        { "fight_news": "Horth is a Canadian prospect with real physical tools, but her ability to maintain consistent output and adapt mid-fight against a UFC veteran has not yet been proven over three full rounds at this level." },
+        { "fight_news": "Horth needs to impose aggression early and disrupt Aldrich's rhythm before she settles in. If Aldrich gets comfortable working at range in round 1, her volume and experience compound across rounds 2 and 3 in a way that becomes very difficult for Horth to overcome on the scorecards." }
+     ]
     },
     {
       "title": "Mitch Raposo vs. Allan Nascimento",
       "items": [
-        { "fight_news": "Raposo is a Canadian flyweight who will benefit from significant crowd support at Canada Life Centre. His finishing instincts and activity have made him a fan favorite in the UFC's flyweight division." }
-      ]
+        { "fight_news": "Raposo is a Canadian flyweight with strong finishing instincts and consistent early-fight aggression. He applies pressure from the opening bell and has built his UFC reputation on exciting, finish-oriented performances." },
+        { "fight_news": "Nascimento is a Brazilian flyweight with a solid technical base and meaningful grappling credentials. His ground game gives him a credible path to neutralizing Raposo's stand-up pressure if he can dictate where the fight goes." },
+        { "fight_news": "This is a genuinely competitive prelim bout. Raposo's aggression and finishing instincts on the feet against Nascimento's composure and grappling makes the outcome more uncertain than most flyweight prelims on the card." }
+     ]
     },
     {
       "title": "John Castañeda vs. Mark Vologdin",
       "items": [
-        { "fight_news": "Castañeda is a veteran bantamweight with a long UFC run, known for durable and competitive performances. Vologdin is a Russian prospect still building his UFC record - experience is clearly on Castañeda's side in this matchup." }
-      ]
+        { "fight_news": "Castaneda is a durable UFC bantamweight veteran with a long promotional run and consistent fight IQ. His ability to manage pace, absorb pressure, and counter-strike against aggressive opponents is his primary structural advantage in this fight." },
+        { "fight_news": "Vologdin is a Russian prospect with a strong regional finishing rate. His UFC career is still short and this fight is the most direct test of whether his finishing ability translates against a fighter with Castaneda's timing, resistance, and counter-striking experience." },
+        { "fight_news": "Castaneda's counter-punching style is specifically effective against aggressive, forward-moving prospects who overcommit on power shots. If Vologdin attacks without discipline and control, Castaneda has the experience to make him pay for it across three rounds." }
+     ]
     },
     {
       "title": "Jamie Siraj vs. John Yannis",
       "items": [
-        { "fight_news": "Siraj is a Canadian veteran making his UFC debut on home soil in Winnipeg after earning his contract at BFL. He is a submission specialist with consecutive rear-naked choke finishes in his most recent fights - a dangerous opener for the card." }
-      ]
+        { "fight_news": "Siraj makes his UFC debut after earning his contract at BFL with consecutive rear-naked choke finishes. Both submissions came in round 2, pointing to a deliberate tactical pattern: he reads his opponent in round 1 and applies the finish once he has mapped the entry point." },
+        { "fight_news": "Yannis has been inactive since August 2025 and carries a 2-2-1 professional record. His first two wins came by KO but his career has been inconsistent. Against a submission specialist with a clear finishing template, his ground defense is the most important variable heading in." },
+        { "fight_news": "Siraj's long regional career in Canada and his debut on home soil in Winnipeg adds context to his preparation. Fighters who earn UFC contracts via submission finishes on regional circuits tend to be composed under pressure rather than erratic. A debut-fight nerves collapse is less likely for a 31-year-old veteran than the spotlight framing suggests." }
+     ]
     }
   ]
 }
