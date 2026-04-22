@@ -1,1 +1,113 @@
-
+{
+  "feed_version": 1,
+  "event": "UFC Fight Night: Sterling vs. Zalal",
+  "event_date": "April 25, 2026",
+  "venue": "Meta APEX, Las Vegas, Nevada",
+  "spotlight_image": "/images/hero-fight.jpg",
+  "bouts": [
+    {
+      "title": "Aljamain Sterling vs. Youssef Zalal",
+      "items": [
+        { "fight_news": "Sterling is a former UFC bantamweight champion who defended the title three times before moving up to featherweight in 2024. He is 2-1 at 145 lbs with his only loss coming to Movsar Evloev. His last fight was a unanimous decision win over Brian Ortega in August 2025, putting him on a one-fight win streak heading in." },
+        { "fight_news": "Zalal is in his second UFC stint and has quietly built a strong win streak at featherweight. Ranked #7, he is the type of fighter who beats opponents with a well-rounded, technically composed style rather than highlight-reel finishes. He publicly acknowledged this week that Sterling holds an advantage heading into this fight, a rare and notable pre-fight admission." },
+        { "fight_news": "This is a 5-round main event with direct title implications. The winner will almost certainly be positioned for a featherweight title eliminator next. Sterling at 36 years old is running out of runway for a second title run and knows a loss here effectively ends that chase." },
+        { "fight_news": "Both fighters have nearly identical stats on paper. Sterling averages 52% striking accuracy and Zalal 50%. Both average over two takedowns per 15 minutes with around 30% success rates. When two fighters are this statistically similar, the fight tends to be decided by who dictates scrambles and who manages fatigue better in the later rounds." }
+      ]
+    },
+    {
+      "title": "Norma Dumont vs. Joselyne Edwards",
+      "items": [
+        { "fight_news": "Dumont is ranked #3 in women's bantamweight and has been building toward a title shot for several years. She is a technically precise striker with solid grappling defense and a track record of beating ranked opponents cleanly." },
+        { "fight_news": "Edwards is ranked #11 and also on a win streak. Both fighters are positioned such that the winner of this fight gets a title eliminator next, making this one of the more meaningful non-title bouts on the card despite its co-main placement." },
+        { "fight_news": "The stylistic edge belongs to Dumont in the stand-up, where her technical output and timing are her primary weapons. Edwards tends to be more physically aggressive but less precise. The first two rounds will likely set the tone for whether this is a technical striking fight or a pressure-heavy war." }
+      ]
+    },
+    {
+      "title": "Rafa Garcia vs. Alexander Hernandez",
+      "items": [
+        { "fight_news": "Garcia is a durable, high-output Mexican lightweight who makes fights difficult through relentless pace and forward pressure. He has beaten ranked opponents in the UFC and represents a meaningful stylistic test for anyone who wants to operate at range." },
+        { "fight_news": "Hernandez is a fast, explosive lightweight known for early-fight bursts and knockout power. He has been inconsistent across his UFC career but his best performances are genuinely impressive. This fight favors whoever can sustain their approach past round 1, where the pace and urgency tend to sort out." },
+        { "fight_news": "Garcia's durability is his most important asset here. Hernandez typically peaks early and fades if he cannot get a finish in the first half of a fight. If Garcia can weather the opening exchanges and drag this into rounds 2 and 3, his conditioning advantage becomes the deciding factor." }
+      ]
+    },
+    {
+      "title": "Davey Grant vs. Adrian Luna Martinetti",
+      "items": [
+        { "fight_news": "Grant is 40 years old and has been competing at UFC bantamweight for a long time. He is a durable, experienced fighter with KO power who tends to land clean shots through veteran timing. His age is the primary variable against a decade-younger opponent." },
+        { "fight_news": "Martinetti is a younger bantamweight prospect with speed and activity on his side. He is less experienced at this level but his age, athleticism, and output give him a structural advantage if he can avoid Grant's power and make this a volume fight over three rounds." },
+        { "fight_news": "Grant's veteran timing is his most dangerous weapon. Younger fighters who rush and attack without patience tend to run into his counters at bad moments. If Martinetti fights smart and uses his speed rather than walking into exchanges, he has the tools to win. If he gets reckless, Grant's KO record makes him dangerous in any single moment." }
+      ]
+    },
+    {
+      "title": "Montel Jackson vs. Raoni Barcelos",
+      "items": [
+        { "fight_news": "Jackson is ranked #14 at bantamweight and is a physical, hard-hitting fighter with above-average wrestling. He is coming off wins that have put him in a position where a win over the experienced Barcelos could push him into the top 10 and toward more significant matchups." },
+        { "fight_news": "Barcelos is a Brazilian veteran with strong BJJ and a well-rounded game. He is not a flashy fighter but his technical base and grappling have given him wins over ranked bantamweights throughout his UFC run." },
+        { "fight_news": "This is a stylistic matchup where Jackson's power and wrestling clash with Barcelos' technical submission game. Jackson wants to control with wrestling and land strikes. Barcelos wants to survive the wrestling and find submission entries from bottom position, where his BJJ pedigree makes him dangerous." }
+      ]
+    },
+    {
+      "title": "Marcus Buchecha vs. Ryan Spann",
+      "items": [
+        { "fight_news": "Buchecha is one of the greatest competitive grapplers in BJJ history with 13 world championships. His MMA record stands at 5-2-1 in the UFC and his last fight ended in a narrow result against Kennedy Nzechukwu that required a point deduction to swing in his favor. His UFC run has been mixed despite his elite submission credentials." },
+        { "fight_news": "Spann is 23-11 and a proven UFC heavyweight and light heavyweight veteran with legitimate KO power. He has finished fighters at this level and is the significant striker in this matchup. If the fight stays standing, his striking experience is the primary advantage." },
+        { "fight_news": "The clear style split here is Buchecha on the ground and Spann on the feet. Buchecha needs to get this fight to the mat to unlock his elite submission game. Spann needs to keep it standing and land significant strikes. Whoever dictates the location of the fight in the first minute is heavily favored to win." }
+      ]
+    },
+    {
+      "title": "Rodolfo Vieira vs. Eric McConico",
+      "items": [
+        { "fight_news": "Vieira is a BJJ world champion who made his name through submission grappling before transitioning to MMA. At 11-4, his finishing rate in MMA is high and his ground game is among the most technically elite in the middleweight division." },
+        { "fight_news": "McConico is a 10-4-1 middleweight with a mixed record of finishes and decisions. He is the clear striking favorite in this matchup and his best path to a win involves keeping Vieira off the mat and accumulating damage standing." },
+        { "fight_news": "Like Buchecha, Vieira lives and dies by his ability to get the fight to the ground. McConico's wrestling defense will be the most critical variable. If Vieira can close distance and achieve the clinch, his BJJ becomes the dominant force in the fight." }
+      ]
+    },
+    {
+      "title": "Sedriques Dumas vs. Jackson McVey",
+      "items": [
+        { "fight_news": "Dumas is 10-4 at middleweight with a No Contest on his record. He is a physical, athletic fighter with solid striking who has shown the ability to compete at a decent level in the UFC middleweight division." },
+        { "fight_news": "McVey is 6-2 and on an upward trajectory as a prospect. His UFC appearances have been competitive and he has shown strong fundamentals for a fighter at this stage of development." },
+        { "fight_news": "This is a fight where both fighters are trying to establish themselves in the UFC's middleweight picture. A clean win for either moves them meaningfully up the depth chart. Dumas has the edge in experience and physicality, while McVey's momentum and activity give him a viable route to an upset." }
+      ]
+    },
+    {
+      "title": "Mayra Bueno Silva vs. Michelle Montague",
+      "items": [
+        { "fight_news": "Bueno Silva is 10-6-1 and a well-rounded women's bantamweight with strong grappling and a history of competing against top-ranked opponents. She has been in and around the title picture and brings legitimate technical credentials to this matchup." },
+        { "fight_news": "Montague is 7-0 and unbeaten as a professional, making this her toughest test by a significant margin. Her undefeated record reflects strong regional competition, but Bueno Silva is a step above anything she has faced in terms of UFC-level experience and grappling quality." },
+        { "fight_news": "The experience gap is the defining factor. Montague's unbeaten record is meaningful but has not been tested at this level. Bueno Silva's submission and grappling threats are real and have troubled more experienced fighters than Montague. How Montague handles the pressure of a genuine UFC-caliber grappler in the early rounds will tell you everything about her ceiling." }
+      ]
+    },
+    {
+      "title": "Jafel Filho vs. Cody Durden",
+      "items": [
+        { "fight_news": "Durden is taking this fight on six days notice after Lucas Rocha withdrew with an injury. He enters on a 4-fight losing skid and is 1-6 in his last seven UFC appearances. His back is against the wall and a loss here almost certainly ends his UFC tenure." },
+        { "fight_news": "Filho is 17-4 and coming off a first-round submission win over Clayton Carpenter in October 2025. He is the clear skill favorite in this matchup and benefits from a prepared camp against a short-notice opponent still figuring out the game plan." },
+        { "fight_news": "Short-notice fights are always higher-variance than the talent gap suggests. Durden has nothing to lose and fighters in that position sometimes produce their best performances out of pure competitive desperation. Filho's submission game is the most likely finishing route, but this will not be a walk if Durden comes in emotionally elevated and physically ready." }
+      ]
+    },
+    {
+      "title": "Max Griffin vs. Victor Valenzuela",
+      "items": [
+        { "fight_news": "Griffin is 20-12 and a UFC welterweight veteran known for tough, competitive performances. He is a durable fighter who has beaten ranked opponents and is the more experienced name in this matchup." },
+        { "fight_news": "Valenzuela is 13-4 and a rising welterweight with finishing instincts and solid technical tools. This fight represents his opportunity to establish himself against a legitimate UFC veteran with a recognizable name." },
+        { "fight_news": "Griffin's durability and output make him dangerous across three rounds against a prospect still proving his UFC-level resistance. Valenzuela needs a finish or a dominant performance to move the needle. A close decision likely favors Griffin purely on experience and name recognition in a prelim setting." }
+      ]
+    },
+    {
+      "title": "Talita Alencar vs. Julia Polastri",
+      "items": [
+        { "fight_news": "Alencar is 7-1-1 in women's strawweight and an upward-trending prospect with strong striking and solid overall fundamentals. Her UFC run has been consistent and she is positioned as a fighter who could push toward the ranked picture with continued wins." },
+        { "fight_news": "Polastri is a Brazilian strawweight with grappling credentials and experience at this level. She has faced ranked opponents in the UFC and brings a competitive base that makes this a genuine test for Alencar rather than a development fight." },
+        { "fight_news": "Alencar is the measured favorite based on her more recent form and striking output advantage. Polastri's path to a win likely runs through early grappling and taking the fight out of the stand-up where Alencar is most effective." }
+      ]
+    },
+    {
+      "title": "Francis Marshall vs. Lucas Brennan",
+      "items": [
+        { "fight_news": "This featherweight bout was added to the card late as a last-minute addition. Marshall is a UFC featherweight with finishing instincts and a track record of keeping fights entertaining. Brennan is a newer name at this level and the less proven fighter in the pairing." },
+        { "fight_news": "Late-addition prelim bouts like this one tend to feature fighters who were already in camp and close to fight-ready. Marshall enters as the experience and skill favorite in a matchup that has limited pre-fight analysis available due to its late confirmation." }
+      ]
+    }
+  ]
+}
