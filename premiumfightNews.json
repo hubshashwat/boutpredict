@@ -1,1 +1,118 @@
-
+{
+  "feed_version": 1,
+  "event": "UFC Fight Night: Sterling vs. Zalal",
+  "event_date": "April 25, 2026",
+  "venue": "Meta APEX, Las Vegas, Nevada",
+  "tier": "premium",
+  "spotlight_image": "/images/hero-fight.jpg",
+  "bouts": [
+    {
+      "title": "Aljamain Sterling vs. Youssef Zalal",
+      "items": [
+        { "fight_news": "Zalal publicly said this week that Sterling has an advantage going into this fight. That kind of pre-fight statement from a ranked opponent is unusual and worth analyzing carefully. It could reflect genuine respect and honesty about the skill gap, or it could be a tactical framing to lower expectations and fight loose without pressure. Either way it signals that Zalal sees Sterling as a legitimate technical problem rather than a matchup he expects to dominate." },
+        { "fight_news": "Sterling's stats at featherweight reveal an important pattern. His takedown volume and accuracy at 145 have dropped compared to his bantamweight peak, which makes sense given the larger, stronger opponents. His path to winning at featherweight increasingly relies on striking output and pace management rather than wrestling control, which is a fundamentally different fight model than the one that made him champion at 135." },
+        { "fight_news": "Sterling is 36 and has not fought since August 2025. The eight-month gap between fights at his age in a division where he is already the smaller natural frame is a compounding variable. Inactivity does not hurt all fighters equally. Wrestlers and submission specialists tend to lose more in the ring-rust window because their game requires live reps and timing calibration more than pure strength training can replicate." },
+        { "fight_news": "Zalal's win streak in his second UFC stint has been built on technical composure rather than finishing power. He does not hurt opponents dramatically, but he also does not give away rounds or make costly mistakes. Against Sterling, who will look for takedowns and clinch control to grind out rounds, Zalal's defensive wrestling and positional awareness are the metrics to watch from the opening minute." },
+        { "fight_news": "The APEX environment specifically benefits the more technically composed fighter in high-pace matchups. There is no crowd noise to mask fatigue or mask close-round ambiguity in judging. Both fighters' outputs will be clinically scrutinized by judges with no audience noise to color their perception. Sterling's well-known reputation as a former champion could work for or against him depending on whether judges reward his control-based style or penalize his lower output at featherweight relative to his bantamweight peak." }
+      ]
+    },
+    {
+      "title": "Norma Dumont vs. Joselyne Edwards",
+      "items": [
+        { "fight_news": "Dumont is ranked #3 and has been arguably the most technically precise women's bantamweight outside the top 2 in recent years. Her striking accuracy, defensive head movement, and grappling defense form a well-rounded base that makes her extremely difficult to finish. The pattern across her UFC run is consistent: she wins decisions cleanly and does not get hurt." },
+        { "fight_news": "Edwards at #11 is a significant ranking gap, but the women's bantamweight division is historically thin at the top and rankings do not always reflect competitive proximity. Edwards' physical aggression and forward pressure create problems for fighters who rely on technical positioning, which is precisely Dumont's style. A Dumont who gets disrupted in the first round could have a harder night than her ranking suggests." },
+        { "fight_news": "The title eliminator framing matters for how both fighters approach this strategically. Dumont, as the favorite, is likely to fight conservatively enough to avoid meaningful damage and secure a clear decision. She will not take risks that jeopardize a future title shot. Edwards, as the underdog, must force chaos to stay competitive. The incentive asymmetry means Edwards needs to make this fight ugly from round 1, and Dumont needs to prevent that from the opening bell." },
+        { "fight_news": "Both women are on multi-fight win streaks, which creates a specific judging dynamic at the APEX where both fighters arrive with momentum. In close-round scenarios, judges tend to default to the fighter with the higher ranking or more established UFC reputation. Dumont carries both advantages, which means Edwards needs to win rounds unambiguously to get scorecards, not just compete at an equal level." }
+      ]
+    },
+    {
+      "title": "Rafa Garcia vs. Alexander Hernandez",
+      "items": [
+        { "fight_news": "Garcia's output model is one of the most consistent in the UFC lightweight division. He throws at high volume, presses forward, and does not take rounds off. That consistency makes him extremely difficult to decision and means that opponents who rely on early power bursts to win fights run out of their primary weapon against him as the fight progresses." },
+        { "fight_news": "Hernandez is a fighter whose UFC career has been defined by his ceiling being dramatically higher than his floor. On his best night he is explosive, precise, and dangerous. On his worst night he is passive, flat, and easy to outwork. The version of Hernandez who shows up for Garcia is impossible to predict from film study alone. He has produced both versions against similar opponents at this level." },
+        { "fight_news": "The critical variable in this fight is how Hernandez absorbs Garcia's forward pressure in round 1. Garcia's style is designed to accumulate damage and volume across three rounds, not to produce one clean finish. If Hernandez is forced to answer Garcia's pace without landing clean counters early, the pace differential begins to show on his body language and output by the midpoint of round 2." },
+        { "fight_news": "Garcia's durability is specifically important here because Hernandez has legitimate KO power when he finds range. Garcia has been hurt before but not finished, which gives him a defined floor that Hernandez cannot always punch through regardless of technique. The fight is structurally set up to favor the fighter who can sustain their approach rather than peak early and fade." }
+      ]
+    },
+    {
+      "title": "Davey Grant vs. Adrian Luna Martinetti",
+      "items": [
+        { "fight_news": "Grant at 40 is competing in the window where veteran timing produces its most concentrated value. Older fighters who are still competitive at this level have a specific skill: they have seen every combination and threat so many times that their reaction time and placement are more efficient than younger opponents whose pattern recognition is still developing. Grant does not need to be faster or stronger. He needs to be where Martinetti is going before Martinetti gets there." },
+        { "fight_news": "Martinetti's speed advantage is real but it can become a liability against a counter-striker who understands timing. Young, fast fighters who attack with urgency tend to come forward with predictable weight distribution that veteran counter-punchers exploit. Grant's KO power means that one well-timed counter is enough to end the fight regardless of the rounds-level skill differential." },
+        { "fight_news": "This fight is a strong candidate for a Fight of the Night bonus if Martinetti can avoid getting dropped early. Two fighters with contrasting styles, one trading on pure athletic output and the other on accumulated wisdom, tend to produce entertaining middle rounds when neither can close the fight out quickly. The question is whether Martinetti's youth is enough to outlast Grant's reserves across a full three-round fight." }
+      ]
+    },
+    {
+      "title": "Montel Jackson vs. Raoni Barcelos",
+      "items": [
+        { "fight_news": "Jackson's wrestling is the primary differentiator in this fight. If he can establish top control early and use his ground and pound to accumulate damage, Barcelos' submission threats become secondary to the position problem he faces. Jackson's UFC run has been built on physically imposing his wrestling on opponents and this fight is a test of whether that model holds against an elite grappler rather than just an experienced brawler." },
+        { "fight_news": "Barcelos from bottom position is specifically dangerous for wrestlers who look to pass guard or apply ground and pound with their arms extended. His submission entries from bad positions have caught more experienced wrestlers than Jackson before. The trap for Jackson is assuming that top position equals winning. Against Barcelos, the moment you stop being defensive on the ground is the moment you are in a submission." },
+        { "fight_news": "This matchup is one of the better technical contests on the card precisely because both fighters' strengths directly challenge the other's primary game. Jackson's wrestling versus Barcelos' submission game from bottom is a high-level tactical exchange that tends to produce meaningful scrambles and exciting exchanges even at a UFC prelim level." }
+      ]
+    },
+    {
+      "title": "Marcus Buchecha vs. Ryan Spann",
+      "items": [
+        { "fight_news": "Buchecha's UFC record requires context. His 5-2-1 run includes a near-loss to Kennedy Nzechukwu where a point deduction saved the result. The honest read on his MMA career is that his grappling is among the best in the history of the sport, but his striking defense and movement have not caught up to the level required to survive exchanges with legitimate UFC heavyweights who understand the ground game." },
+        { "fight_news": "Spann's fight IQ specifically around grappling defense has improved through his UFC run. He is not a pushover on the ground. His primary goal in this fight is to keep distance, land significant strikes that accumulate damage, and avoid the tie-up where Buchecha's transition speed becomes overwhelming. If Spann can stay mobile and force Buchecha to chase, he wins. If Buchecha can close distance and clinch, the fight almost certainly ends in a submission." },
+        { "fight_news": "The heavyweight division's single-punch finish risk adds a dimension that does not exist in lighter weight classes. Buchecha closing distance and eating strikes on the way in is not a theoretical risk. Spann has enough power to end the fight with one clean shot before any grappling sequence begins. Buchecha's path to victory requires tolerating that danger and committing to the takedown in a way that his UFC record suggests he still struggles to do cleanly against experienced strikers." },
+        { "fight_news": "If Buchecha loses this fight, his UFC tenure becomes very difficult to justify from a promotional standpoint. He is already 5-2-1 and the most recent result was a narrow, controversial decision. Another loss would put him at 5-3-1 in the UFC. For a fighter marketed on the legacy of his grappling career, that record tells a story about the translation problem between mat dominance and MMA effectiveness that no future matchmaking can easily overcome." }
+      ]
+    },
+    {
+      "title": "Rodolfo Vieira vs. Eric McConico",
+      "items": [
+        { "fight_news": "Vieira's submission game is legitimate at UFC level and his standing clinch transitions are specifically how he bridges the gap between striking and grappling. McConico's best strategy is to prevent the clinch entirely, which requires disciplined footwork and lateral movement throughout the fight. The moment McConico fires a combination and steps in, Vieira's tie-up speed becomes the primary threat." },
+        { "fight_news": "Both Vieira and Buchecha on the same card is an unusual concentration of elite BJJ credentials in MMA crossover fighters. The broader narrative around this card is whether BJJ world champions can consistently translate their ground dominance to the cage against full MMA practitioners. The outcomes of both fights will add genuine data to that ongoing question in the sport." },
+        { "fight_news": "McConico at 10-4-1 has shown competitive grappling defense at UFC level before. He is not a pure striker who has never faced submission threats. His ability to stay disciplined on the feet and avoid being dragged into grappling exchanges, even when hurt, is the most important tactical variable across all three rounds." }
+      ]
+    },
+    {
+      "title": "Sedriques Dumas vs. Jackson McVey",
+      "items": [
+        { "fight_news": "Dumas' athletic profile is strong for the middleweight division. His 10-4 record with a NC reflects a fighter who can compete but has struggled with consistency rather than quality. Against McVey, who is still building his UFC resume, this is Dumas' best opportunity in recent fights to produce a statement performance against a less experienced opponent who will press forward." },
+        { "fight_news": "McVey at 6-2 is on an upward trajectory and fighting at a stage where his ceiling is still unknown. The fighters who develop fastest in the UFC are typically those who face veterans early and learn from adversity without getting finished. A competitive loss to Dumas teaches him more than an easy win over a lesser opponent. The outcome matters, but the development signal in how he handles Dumas' physical tools also matters for his long-term trajectory." },
+        { "fight_news": "The middleweight prelim at an APEX card is typically where the UFC assesses depth. Both fighters are in a position where the UFC needs to see whether they belong in the division's next tier or if they plateau at prelim level. A finish from either moves the conversation forward. A dull decision extends the uncertainty and neither fighter wants that outcome heading into contract discussions." }
+      ]
+    },
+    {
+      "title": "Mayra Bueno Silva vs. Michelle Montague",
+      "items": [
+        { "fight_news": "Montague's 7-0 unbeaten record will be tested against Bueno Silva's grappling in a way her regional career could not simulate. The specific problem Bueno Silva creates is that she is aggressive enough in grappling transitions to catch fighters who have not been threatened from multiple angles simultaneously. Montague's defensive training quality in camp will be more important than her record suggests." },
+        { "fight_news": "Bueno Silva's UFC career has been a sustained argument for why experience against top competition matters more than unbeaten records in regional circuits. She has fought former title challengers and ranked opponents and performed competitively even in losing efforts. That depth of exposure gives her a tactical playbook for breaking down undefeated prospects that is not available to Montague at this stage of her career." },
+        { "fight_news": "The unbeaten prospect versus experienced UFC veteran matchup is one of the most consistently one-sided in the sport when the experienced fighter is specifically strong in the dimension where the prospect has never been tested. Bueno Silva's submission game is exactly that dimension for Montague, and the first takedown of the fight will tell you whether Montague has prepared adequately or whether she is facing a type of threat she has never genuinely encountered." }
+      ]
+    },
+    {
+      "title": "Jafel Filho vs. Cody Durden",
+      "items": [
+        { "fight_news": "Durden's four-fight losing skid and 1-6 run in his last seven UFC fights represents a fighter whose window is effectively closed barring a dramatic performance reversal. Taking a short-notice fight against a prepared submission specialist on six days notice is the highest-variance possible context for a turnaround. The motivation is clear. The physical and tactical preparation for a specific opponent is not." },
+        { "fight_news": "Filho's submission win over Carpenter in October was a clean, purposeful performance that showed his finishing instincts are sharp heading into this camp. Against Durden, who is on a losing skid and coming in underprepared for Filho's specific grappling threats, the path to another first or second round finish is more accessible than in his original matchup against the prepared Rocha." },
+        { "fight_news": "Short-notice replacement fights at the flyweight level have historically produced more competitive results than the narrative suggests. The weight cut for a late-notice flyweight fight is manageable for most athletes, meaning Durden arrives in physical condition even without ideal tactical preparation. His best scenario is to overwhelm Filho early with aggression before any game plan is established, which is a realistic strategy for a fighter with nothing to lose." }
+      ]
+    },
+    {
+      "title": "Max Griffin vs. Victor Valenzuela",
+      "items": [
+        { "fight_news": "Griffin's UFC longevity at 20-12 is itself a useful indicator. Fighters who stay in the promotion through that many fights and losses have elite durability and fight IQ, even if their record looks unimpressive on paper. He does not get finished easily and tends to make opponents work harder than their skill level should require." },
+        { "fight_news": "Valenzuela at 13-4 is at the stage of his UFC career where a win over a recognizable veteran changes the trajectory of his promotional standing. Griffin is exactly the type of opponent that a rising welterweight needs to beat to be taken seriously. A decision win over Griffin means significantly less than a finish, and Valenzuela's team likely knows that heading into the fight." },
+        { "fight_news": "The APEX prelim context is important here. Fights at the APEX without a crowd tend to produce more methodical, less emotionally elevated performances from both fighters. Griffin's grinding style suits that environment. Valenzuela's finishing-first approach requires emotional elevation. The quiet venue is a subtle but real structural advantage for Griffin's style over three rounds." }
+      ]
+    },
+    {
+      "title": "Talita Alencar vs. Julia Polastri",
+      "items": [
+        { "fight_news": "Alencar's 7-1-1 record at strawweight represents a fighter on a genuine upward trajectory within the UFC's women's division. Her striking output and footwork are above the prelim-level average and her ability to control range has been her primary tool in building a consistent win record." },
+        { "fight_news": "Polastri's grappling credentials at this level are the core threat for Alencar. Her ability to impose physical grappling exchanges has given her wins over fighters who relied primarily on stand-up, and Alencar's game is built around staying on the feet. If Polastri can close distance and take the fight to the mat in early rounds, the competitive picture changes significantly." },
+        { "fight_news": "Alencar's most important tactical priority is maintaining distance and avoiding the clinch where Polastri is most dangerous. Her footwork should be designed to reset position whenever Polastri closes range rather than engaging in exchanges against the fence. A clean, active striking performance from the outside is Alencar's optimal path and the version of this fight she should be engineering from the first thirty seconds." }
+      ]
+    },
+    {
+      "title": "Francis Marshall vs. Lucas Brennan",
+      "items": [
+        { "fight_news": "Marshall is a UFC featherweight with finishing ability and a track record of keeping fights active. His addition to the card as a late booking signals that his camp was already in fight-ready condition, which typically means both the physical and tactical preparation are at a high level despite the late confirmation." },
+        { "fight_news": "Late-card additions at the APEX tend to fly under the radar but occasionally produce the most entertaining fight on the card because both fighters arrive with low external pressure and high competitive motivation. Marshall specifically is the type of fighter who performs well in low-stakes, high-freedom environments where the game plan is simpler and the emotional weight is reduced." }
+      ]
+    }
+  ]
+}
