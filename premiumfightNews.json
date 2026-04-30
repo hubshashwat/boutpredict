@@ -1,1 +1,111 @@
-
+{
+  "feed_version": 1,
+  "event": "UFC Fight Night: Della Maddalena vs. Prates",
+  "event_date": "May 2, 2026",
+  "venue": "RAC Arena, Perth, Western Australia",
+  "tier": "premium",
+  "spotlight_image": "/images/hero-fight.jpg",
+  "bouts": [
+    {
+      "title": "Jack Della Maddalena vs. Carlos Prates",
+      "items": [
+        { "fight_news": "JDM's loss to Makhachev came via submission, not striking. That specific finish matters for how to read this fight. He was not broken on the feet by Makhachev, he was taken down and controlled. His striking remains intact and untested at the elite level since his title run. Coming back against Prates, a pure striker, means his primary strength is directly engaged rather than neutralized by a grappling specialist." },
+        { "fight_news": "Prates' KO of Edwards was a left hook counter off an Edwards combination. The setup was patient, the timing was elite. What makes Prates dangerous is not raw power but the precision of his timing on counters. JDM is an aggressive, combination-heavy striker himself, which means he will be throwing the exact type of offense that Prates has been finishing fighters with. The stylistic overlap is the central danger for the home fighter." },
+        { "fight_news": "JDM's prediction that he finishes Prates in deep water is a tactical tell as much as a confidence statement. It signals his camp plans to absorb early pressure, survive whatever Prates throws in rounds 1 and 2, and then leverage Prates' historically untested championship-round cardio. Prates has not been past round 2 in any of his recent wins. If he cannot finish JDM early, his gas tank enters unknown territory." },
+        { "fight_news": "The Perth crowd for JDM is the most powerful home-crowd advantage any fighter will enjoy on a 2026 Fight Night card. RAC Arena will be near capacity and the emotional weight of a former champion returning home after losing his title is a specific crowd narrative that produces extraordinary arena noise. For a fight that may come down to late rounds, that environmental factor has genuine judging and psychological implications." },
+        { "fight_news": "Prates is the slight market favorite but the odds gap is narrow enough to treat this as a genuine pick'em. The important analytical note is that every fighter in Prates' recent run came to him. JDM will also come forward and throw combinations, which means Prates is getting his preferred opponent type. The question is whether JDM's combination output gives Prates the timing windows he needs, or whether JDM's defensive awareness has been upgraded specifically for this camp." }
+      ]
+    },
+    {
+      "title": "Beneil Dariush vs. Quillan Salkilld",
+      "items": [
+        { "fight_news": "Dariush's 16-second KO loss to Saint Denis is the most important piece of film for this fight. He was caught by a straight right hand on the inside while moving forward, a specific and repeatable technical vulnerability. Salkilld is a powerful lightweight with clean hands. If Dariush moves forward early in the same linear pattern he used against Saint Denis, he is walking into the same danger." },
+        { "fight_news": "Salkilld's three first-round UFC finishes have all come within the first two minutes of the fight. His pattern is to close distance fast, apply pressure, and finish before opponents have time to adapt. Dariush's most successful performances come when he is given time to warm up, use his grappling to control pace, and work from the clinch. The fight Salkilld wants is the exact fight Dariush most needs to avoid." },
+        { "fight_news": "Dariush's grappling has historically been his most dangerous weapon and it remains elite even in decline. The correct read on this fight from his side is that he needs to survive the first two minutes of each round by establishing clinch control before Salkilld's punching flurries develop into finish sequences. If he can get Salkilld to the mat and slow the pace, his submission game becomes the dominant threat and the fight changes completely." },
+        { "fight_news": "The market placing Salkilld at -450 reflects both his momentum and the specific damage Dariush's recent KO losses have done to his ceiling projection. Three stoppages in four fights at the elite level is not a sample size issue, it is a pattern. At 33, Dariush's chin has been genuinely tested and found to be a liability in exchanges. Salkilld's power going into that specific vulnerability is the most direct threat model for this fight." }
+      ]
+    },
+    {
+      "title": "Tim Elliott vs. Steve Erceg",
+      "items": [
+        { "fight_news": "Elliott's extended absence in 2024 followed by his return submission win over Asakura in August 2025 is a significant positive signal. Fighters who come back from serious injuries and immediately perform at a high level with finishing output tend to carry actual physical restoration rather than managed decline. His year off may have extended his competitive window rather than shortened it." },
+        { "fight_news": "Erceg's title shot loss to Pantoja revealed specific vulnerabilities that Elliott's unorthodox style is well-positioned to exploit. Erceg struggled with pace-breaking and unusual offensive angles in that fight. Elliott's style is precisely built around disrupting rhythm and pace through unpredictable movement and scramble-heavy exchanges. The matchup alignment for Elliott is better than the rankings suggest." },
+        { "fight_news": "Both fighters are former title challengers who need a win to re-enter championship conversations. The pressure is symmetric but the expression of that pressure is different. Erceg is likely to fight within a structured game plan and use his sharp technique. Elliott is more likely to create chaos and trust his scrambling instincts. In flyweight, where single-fight momentum can rapidly change divisional positioning, this is a genuinely significant bout for both men." }
+      ]
+    },
+    {
+      "title": "Shamil Gaziev vs. Brando Pericic",
+      "items": [
+        { "fight_news": "Gaziev dropping 40-plus pounds for this camp is the most unusual pre-fight data point on the card. Significant weight loss in the weeks before a fight either reflects a deliberate body composition strategy designed to increase speed and conditioning, or it reflects a fighter who has been carrying excess weight and is finally committing to a leaner build. Either reading changes how to model his round 3 cardio against an opponent who finishes fights in under 2 minutes." },
+        { "fight_news": "Pericic's two UFC wins both coming in under two minutes is extraordinary but creates a specific knowledge gap. He has no evidence of how he performs in competitive exchanges past the first round. Gaziev, despite his losses, has gone deep in UFC fights and has experience managing adversity over full 15-minute performances. If Pericic cannot finish early, the fight enters territory where Gaziev has the data advantage." },
+        { "fight_news": "Pericic's City Kickboxing affiliation is the most important camp context in this fight. CKB produces fighters with elite fundamental discipline and structured game plans. Pericic has not been given a serious technical test yet, but his gym environment means he has been sparring with UFC champions and title contenders throughout his development. The question of whether his technique holds up against a ranked opponent is not the same question it would be for a fighter from a lesser training environment." },
+        { "fight_news": "Gaziev's losses have come against the best competition he has faced. His record against lower-ranked opponents is clean and his finishing rate is high. The analysis from his previous camp losses is that he gets exposed when opponents take him out of his comfort zone technically. Pericic is a step up but is not a refined grappler or scrambler. If Gaziev can survive the early KO threat and impose his wrestling, the dynamic of the fight changes significantly by round 2." }
+      ]
+    },
+    {
+      "title": "Tai Tuivasa vs. Louie Sutherland",
+      "items": [
+        { "fight_news": "Tuivasa's 6-fight losing streak requires specific context rather than a blanket decline narrative. His losses have come against ranked opponents with specific physical and technical advantages over him. Against Sutherland, a short-notice replacement who was knocked out six weeks ago by Pericic, the competitive conditions are fundamentally different. This is the most accessible win Tuivasa has been offered in his recent career." },
+        { "fight_news": "Sutherland taking a second fight in six weeks after a KO loss adds a genuine physical and psychological variable. Fighters who return quickly after being knocked out are statistically more likely to be stopped again in the subsequent fight. The neurological recovery window after a stoppage loss is typically longer than six weeks and Sutherland's ability to absorb pressure in round 1 is the most important data point to watch." },
+        { "fight_news": "Tuivasa's coach publicly expressing belief in a title run is easy to dismiss but carries a specific tactical implication. Camps that maintain high aspirations for their fighters tend to train more offensively rather than managing decline conservatively. If Tuivasa arrives with the mentality of a fighter building toward a title shot rather than one trying to stop a losing streak, his aggression and output levels are likely to be elevated from his recent performances." }
+      ]
+    },
+    {
+      "title": "Jacob Malkoun vs. Gerald Meerschaert",
+      "items": [
+        { "fight_news": "Meerschaert's submission game at 37 is specifically dangerous for a confident, physically strong Australian middleweight who has not been extensively tested by veteran submission systems. Younger fighters on win streaks tend to enter scrambles with overconfidence about their positional security. Meerschaert's invitation grappling, where he intentionally appears to offer neck or arm access to bait entries, has caught fighters with far more grappling experience than Malkoun." },
+        { "fight_news": "Malkoun's vocal confidence heading into this fight is analytically relevant. Fighters who speak publicly about expected performances tend to either arrive with their most focused camp or carry the psychological weight of managing external expectations. Meerschaert's entire career has been built on beating overconfident opponents who underestimate his finishing ability. Malkoun's pre-fight statements suggest he sees this as a developmental win rather than a dangerous fight, which is precisely the mental state Meerschaert exploits." },
+        { "fight_news": "The home-crowd environment amplifies Malkoun's most likely weakness in this fight. Perth will be loud and behind him. That energy tends to make forward-pressing fighters more aggressive than their game plan intends, which increases the frequency of engagement and grappling exchanges. More exchanges with Meerschaert means more submission exposure. His optimal performance is disciplined and structured. His crowd-fueled performance may be reckless." }
+      ]
+    },
+    {
+      "title": "Junior Tafa vs. Kevin Christian",
+      "items": [
+        { "fight_news": "Tafa's knockout power is genuine and well-documented but his UFC run has exposed a tendency to get into firefights that he does not need to be in. Against Christian, his best performance comes from using his power early and not allowing the fight to develop into a sustained exchange where Christian's durability becomes a factor. Tafa fighting conservatively and technically is a less exciting but more effective version of what his team is likely working on." },
+        { "fight_news": "Christian's UFC record reflects a fighter who competes hard across full fights and does not fold under pressure. His durability specifically means this fight is unlikely to end on a single shot even if Tafa lands clean early. The scenarios where Tafa struggles are the ones where he needs to solve a durable opponent over multiple rounds without the fight-ending moment arriving when he expects it." }
+      ]
+    },
+    {
+      "title": "Cam Rowston vs. Robert Bryczek",
+      "items": [
+        { "fight_news": "Rowston's grappling credentials on home soil make him the structurally favored fighter in this matchup. The specific advantage of fighting at home is that his pre-fight preparation, sleep, nutrition, and crowd familiarity all operate at a higher baseline than a traveling opponent. Those marginal advantages compound across three rounds for a grappling-first fighter who relies on pace and pressure." },
+        { "fight_news": "Bryczek's path to a win runs through disciplined striking and avoiding extended grappling exchanges where Rowston's submission game creates consistent danger. If Bryczek can keep the fight standing and use lateral movement to avoid clinch tie-ups, his striking tools give him a competitive path to a decision. The moment this fight hits the mat with regularity, the outcome becomes heavily weighted toward Rowston." }
+      ]
+    },
+    {
+      "title": "Jonathan Micallef vs. Themba Gorimbo",
+      "items": [
+        { "fight_news": "Gorimbo's popularity and narrative have outpaced his technical development in the UFC, which is analytically useful. He is a genuine athlete with real physical tools, but his striking precision and grappling defense have been exposed by technically disciplined opponents at this level. Micallef's structured striking game is specifically designed to capitalize on opponents who rely on athleticism and pressure over technical refinement." },
+        { "fight_news": "The Micallef vs Gorimbo outcome is likely to be decided by whether Gorimbo's forward aggression can overwhelm Micallef's technical structure or whether Micallef's output and timing can neutralize Gorimbo's physical advantages. Perth's environment favors Micallef from a crowd standpoint, which matters in a close fight where round-level ambiguity could affect scoring." }
+      ]
+    },
+    {
+      "title": "Colby Thicknesse vs. Vince Morales",
+      "items": [
+        { "fight_news": "Thicknesse's pressure-based bantamweight style is built to make fights uncomfortable through volume and physicality rather than precision. Against Morales, who has genuine finishing ability and UFC-level experience, the first round will determine whether Thicknesse's output can prevent Morales from establishing the rhythm and range he needs to set up his finishing sequences." },
+        { "fight_news": "Morales has the finishing credentials to end this fight at any point but has historically been inconsistent in sustaining his best performance across full fights. If Thicknesse can keep the pace high from the opening bell and prevent Morales from settling into clean striking exchanges, the fight devolves into a competitive, scrappy contest that typically scores well for the forward-pressing local fighter in a hometown arena." }
+      ]
+    },
+    {
+      "title": "Wes Schultz vs. Ben Johnston",
+      "items": [
+        { "fight_news": "Johnston's New Zealand background and technical training base give him a competitive foundation that is easy to underestimate on paper. New Zealand fighters in particular have benefited from the City Kickboxing and allied gym networks that have produced world champions, and Johnston's technical refinement is likely above his current UFC record suggests." },
+        { "fight_news": "Schultz's UFC experience is the primary structural advantage. He has navigated competitive UFC fights before and understands the pace and pressure of Octagon-level competition in a way that Johnston is still developing. The fight is unlikely to be a mismatch, but Schultz's edge is specifically in the later rounds where experience compounds." }
+      ]
+    },
+    {
+      "title": "Kody Steele vs. Dom Mar Fan",
+      "items": [
+        { "fight_news": "Dom Mar Fan's Road to UFC pedigree is a specific kind of credential. The tournament format tests fighters across multiple fights with short turnaround times against regional elite competition, which produces a different kind of durability and adaptability than fighters who come through standard regional promotions. His only losses being to Salkilld, the current -450 favorite on this very card, contextualizes his record meaningfully." },
+        { "fight_news": "Fan's debut as a signed UFC athlete after winning his Road to UFC contract adds a psychological dimension that is easy to overlook. The transition from contract-winner to signed athlete changes how a fighter approaches their preparation because the pressure of earning a spot shifts to the pressure of justifying it. His five-fight win streak and Perth debut combine into a high-motivation opening-fight environment that tends to produce aggressive, urgent performances." }
+      ]
+    },
+    {
+      "title": "Marwan Rahiki vs. Ollie Schmid",
+      "items": [
+        { "fight_news": "Rahiki's quick turnaround for his second UFC fight as a short-notice replacement is the primary analytical variable. How a young undefeated fighter handles a second fight camp on short notice after already navigating the mental and physical demands of a UFC debut tells you something meaningful about their professional maturity. Fighters who perform at a high level under those conditions tend to have a ceiling that is higher than their current record reflects." },
+        { "fight_news": "Schmid making his UFC debut on short notice with limited pre-fight public footage is the highest-variance scenario on the prelim card. Newcomers signed specifically for replacement roles frequently either exceed expectations dramatically or look completely out of place. There is almost no middle ground for a first UFC appearance under short-notice conditions, which makes this fight genuinely unpredictable regardless of the limited tape available on both fighters." }
+      ]
+    }
+  ]
+}
