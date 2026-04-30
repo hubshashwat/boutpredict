@@ -1,1 +1,108 @@
-
+{
+  "feed_version": 1,
+  "event": "UFC Fight Night: Della Maddalena vs. Prates",
+  "event_date": "May 2, 2026",
+  "venue": "RAC Arena, Perth, Western Australia",
+  "spotlight_image": "/images/hero-fight.jpg",
+  "bouts": [
+    {
+      "title": "Jack Della Maddalena vs. Carlos Prates",
+      "items": [
+        { "fight_news": "JDM is a former undisputed UFC welterweight champion who lost the belt to Islam Makhachev at UFC 322. This is his first fight since that loss and he returns to Perth, the city where his UFC career was built. He is ranked #1 at 170 lbs and the home crowd will be firmly behind him." },
+        { "fight_news": "Prates most recently knocked out Leon Edwards at Madison Square Garden, becoming the first person in history to stop the British fighter. That result alone made him one of the most feared strikers in the welterweight division and the logical next step toward a title shot." },
+        { "fight_news": "Prates has publicly stated that a win here earns him the next welterweight title shot, calling out the Islam Makhachev vs Ian Garry winner scheduled for August. His confidence is backed by his recent performances and an unbeaten run through top-ranked welterweights." },
+        { "fight_news": "JDM has predicted he will finish Prates in deep water, suggesting his camp believes the fight needs to go to the later rounds where his durability and output become decisive. Prates meanwhile is predicting another knockout, giving this fight two completely opposing finish narratives heading in." },
+        { "fight_news": "This is the fifth time the UFC has visited Perth and the crowd for JDM will be among the loudest of any Fight Night card in 2026. Perth has been the venue for some of JDM's most important wins and he has never lost on Australian soil in his UFC career." }
+      ]
+    },
+    {
+      "title": "Beneil Dariush vs. Quillan Salkilld",
+      "items": [
+        { "fight_news": "Salkilld is a Perth native fighting at home with a 4-0 UFC record and 11-1 overall. Three of his four UFC wins have come by first-round finish. He is ranked #12 at lightweight and prediction models heavily favor him at -450 to make it five in a row." },
+        { "fight_news": "Dariush had a mixed 2025. He returned from a torn meniscus to beat Renato Moicano at UFC 317, confirming he remained a top-10 lightweight. Then in November he was knocked out in 16 seconds by Benoit Saint Denis, his third stoppage loss in four fights. He is ranked #12 and his back is firmly against the wall." },
+        { "fight_news": "The home crowd factor for Salkilld in Perth is significant. He will likely receive louder support than even JDM in terms of sustained noise from the local fanbase, given he is a Western Australian product fighting in his own city. Dariush will need to impose his game plan early before the atmosphere takes hold." }
+      ]
+    },
+    {
+      "title": "Tim Elliott vs. Steve Erceg",
+      "items": [
+        { "fight_news": "Both fighters are ranked in the flyweight top 15 and both have challenged for the flyweight title in their UFC careers, making this one of the most experienced matchups on the card at 125 lbs. Elliott is #11, Erceg is #12." },
+        { "fight_news": "Elliott missed all of 2024 with an undisclosed injury and returned in August 2025 to submit Kai Asakura in the second round at UFC 319, picking up his second consecutive Performance of the Night bonus. He enters this fight with momentum and a refreshed physical base after his extended break." },
+        { "fight_news": "Erceg is a Perth local who won three straight fights to earn a title shot against Alexandre Pantoja before falling short. He is trying to rebuild his title contendership case and fighting at home in front of a home crowd is the ideal environment for a bounce-back statement performance." }
+      ]
+    },
+    {
+      "title": "Shamil Gaziev vs. Brando Pericic",
+      "items": [
+        { "fight_news": "Pericic is 2-0 in the UFC and both wins have come by first-round knockout in under two minutes. He stopped Elisha Ellison in Perth last September and finished Louie Sutherland in London in March 2026. He is a City Kickboxing product and taking on a ranked opponent for the first time." },
+        { "fight_news": "Gaziev is ranked #14 at heavyweight and comes in after being stopped by Waldo Cortes Acosta last time out. Reports this week confirmed he dropped over 40 pounds in the build-up to this camp, suggesting a significant body composition change heading into the fight." },
+        { "fight_news": "If Pericic wins with another first-round KO he immediately enters the heavyweight rankings and becomes one of the most talked-about new faces in the division. The promotional stakes for his side go far beyond a single win or loss given his current momentum." }
+      ]
+    },
+    {
+      "title": "Tai Tuivasa vs. Louie Sutherland",
+      "items": [
+        { "fight_news": "Tuivasa is on a 6-fight losing streak and has not won since 2022. He lost a decision to Tallison Teixeira at UFC 325 in February 2026. His original opponent Sean Sharaf withdrew with a broken nose this week and was replaced by Sutherland." },
+        { "fight_news": "Sutherland is stepping in on short notice after himself being knocked out by Pericic in London in March 2026. He is taking two fights in close succession, which is an unusual physical demand even on short camp timelines." },
+        { "fight_news": "Despite his losing streak, Tuivasa is still just 33 years old and retains his one-punch knockout power. His coach has publicly expressed belief that a title run is still possible. Against a short-notice replacement in a hometown fight, this is the most accessible win available to him right now." }
+      ]
+    },
+    {
+      "title": "Jacob Malkoun vs. Gerald Meerschaert",
+      "items": [
+        { "fight_news": "Malkoun is on a 2-fight win streak and has been very vocal heading into this fight, stating he expects to shine against Meerschaert. He is an Australian middleweight who trains alongside elite competition and is fighting in front of a home crowd in Perth." },
+        { "fight_news": "Meerschaert is 37 years old and one of the UFC's most experienced submission artists at middleweight. Known as GM3, he has over 30 professional wins and a long track record of catching opponents with guillotines and rear-naked chokes from unexpected positions." },
+        { "fight_news": "Malkoun's striking and physical profile are the advantages here, but Meerschaert's submission game is specifically dangerous for younger fighters who have not navigated his particular style of invitation grappling. How Malkoun handles scrambles will be the defining read from round 1." }
+      ]
+    },
+    {
+      "title": "Junior Tafa vs. Kevin Christian",
+      "items": [
+        { "fight_news": "Tafa is an Australian light heavyweight with serious knockout power who has shown flashes of genuine elite potential in his UFC run. Fighting at home in Perth he will have strong crowd support and the emotional motivation of performing in front of a local fanbase." },
+        { "fight_news": "Christian is a durable and experienced light heavyweight whose UFC record reflects competitive performances against solid opponents. The experience gap and Tafa's power make the Australian the measured favorite, but Christian's durability means this fight is not a guaranteed finish." }
+      ]
+    },
+    {
+      "title": "Cam Rowston vs. Robert Bryczek",
+      "items": [
+        { "fight_news": "Rowston is an Australian middleweight competing on home soil and brings strong grappling credentials to this matchup. His finishing ability and ground game are his primary weapons against a Bryczek who will need to keep this fight standing to stay competitive." },
+        { "fight_news": "Bryczek is a Polish middleweight with a well-rounded game who has shown solid fundamentals across his UFC appearances. The experience differential and Rowston's home crowd advantage make this a difficult environment for Bryczek to produce his best performance." }
+      ]
+    },
+    {
+      "title": "Jonathan Micallef vs. Themba Gorimbo",
+      "items": [
+        { "fight_news": "Gorimbo is a Zimbabwean welterweight whose personal story has made him one of the UFC's most popular fighters. He has been vocal about his preparation for this fight and his athleticism and physical tools are the primary variables against Micallef's technical game." },
+        { "fight_news": "Micallef is an Australian welterweight fighting on home soil who brings solid striking and a disciplined approach to the game. The stylistic contrast between Micallef's technical output and Gorimbo's physical aggression makes the first round the most important indicator of where this fight is headed." }
+      ]
+    },
+    {
+      "title": "Colby Thicknesse vs. Vince Morales",
+      "items": [
+        { "fight_news": "Thicknesse is an Australian bantamweight fighting at home in Perth. His UFC appearances have shown a scrappy, pressure-based fighting style that creates problems through volume and forward aggression rather than technical precision." },
+        { "fight_news": "Morales is an experienced UFC bantamweight with a finishing background who has been in competitive fights throughout his promotional run. His experience gives him a tactical edge but Thicknesse's home-crowd energy and output rate make this a competitive matchup." }
+      ]
+    },
+    {
+      "title": "Wes Schultz vs. Ben Johnston",
+      "items": [
+        { "fight_news": "Johnston is a New Zealand middleweight who trains at a high level and brings a disciplined, technically sound approach to his UFC appearances. This fight represents a meaningful step in building his UFC record against a credible opponent." },
+        { "fight_news": "Schultz is the more established UFC name in this pairing and his experience across multiple fights at this level gives him a structural edge over a Johnston still establishing himself in the promotion." }
+      ]
+    },
+    {
+      "title": "Kody Steele vs. Dom Mar Fan",
+      "items": [
+        { "fight_news": "Dom Mar Fan is making his UFC debut as a signed athlete after winning his contract through the Road to UFC tournament. His only career losses came against Quillan Salkilld. Since his last defeat in 2024 he has won five straight, heading into his UFC debut with strong momentum on home soil in Perth." },
+        { "fight_news": "Steele is a lightweight with UFC experience who enters as the more tested opponent at this level. Fan's five-fight win streak and local crowd support make this a competitive opener, but his UFC debut format and short-notice nature of the booking add uncertainty to how he handles the Octagon environment." }
+      ]
+    },
+    {
+      "title": "Marwan Rahiki vs. Ollie Schmid",
+      "items": [
+        { "fight_news": "Rahiki is an undefeated Moroccan featherweight making a quick turnaround for his second UFC fight. He stepped in as a replacement for Jack Jenkins who withdrew with an injury, meaning this is a short-notice booking for his side as well." },
+        { "fight_news": "Schmid is a New Zealand featherweight making his UFC debut on short notice, signed specifically for this fight after Jenkins withdrew. Limited public footage on both fighters makes this one of the highest-variance matchups on the preliminary card." }
+      ]
+    }
+  ]
+}
