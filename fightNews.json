@@ -1,1 +1,106 @@
-
+{
+  "feed_version": 1,
+  "event": "UFC 328: Chimaev vs. Strickland",
+  "event_date": "May 9, 2026",
+  "venue": "Prudential Center, Newark, New Jersey",
+  "spotlight_image": "/images/hero-fight.jpg",
+  "bouts": [
+    {
+      "title": "Khamzat Chimaev vs. Sean Strickland",
+      "items": [
+        { "fight_news": "Chimaev makes his first title defense after dethroning Dricus du Plessis. He enters this main event completely undefeated at 15-0 and is looking to solidify his era at middleweight." },
+        { "fight_news": "Strickland returns to New Jersey, hoping to repeat his upset magic against Israel Adesanya and regain his middleweight crown in front of a hostile crowd." },
+        { "fight_news": "Former champion Robert Whittaker recently predicted Chimaev will run over Strickland due to his relentless wrestling, adding massive external pressure to Strickland's camp." },
+        { "fight_news": "The hatred here is very real. After escalating threats and bad blood stemming from a gym dispute in Las Vegas, the UFC has reportedly ramped up security and limited their face-off interactions for fight week." }
+      ]
+    },
+    {
+      "title": "Joshua Van vs. Tatsuro Taira",
+      "items": [
+        { "fight_news": "The co-main event is a brilliant clash of flyweight youth, with both men coming off spectacular wins over former champions to earn this title opportunity." },
+        { "fight_news": "Van defends his newly acquired flyweight title for the first time against the undefeated Japanese sensation Taira, marking the first UFC title fight between competitors born in the 21st century." },
+        { "fight_news": "Unlike the main event, Van and Taira are known for their deep mutual respect, ensuring a high-quality martial arts matchup built on pure competition rather than bad blood." }
+      ]
+    },
+    {
+      "title": "Alexander Volkov vs. Waldo Cortes Acosta",
+      "items": [
+        { "fight_news": "Volkov brings massive height and reach advantages into this heavyweight collision against the notoriously heavy-handed Cortes Acosta." },
+        { "fight_news": "Cortes Acosta relies heavily on his boxing background and legendary durability, aiming to push a frantic pace against the highly technical Russian veteran." },
+        { "fight_news": "A definitive win for either man on this main card solidifies a top ranking and a potential number-one contender spot in a shifting heavyweight landscape." }
+      ]
+    },
+    {
+      "title": "Sean Brady vs. Joaquin Buckley",
+      "items": [
+        { "fight_news": "Brady is a smothering grappler looking to bounce back with a statement win and prove he absolutely belongs in the upper echelon of the welterweight title conversation." },
+        { "fight_news": "Buckley brings explosive, fight-ending knockout power and a growing highlight reel of striking finishes to the Octagon." },
+        { "fight_news": "It is a quintessential striker-versus-grappler matchup where Buckley's takedown defense will be tested immediately from the opening seconds." }
+      ]
+    },
+    {
+      "title": "King Green vs. Jeremy Stephens",
+      "items": [
+        { "fight_news": "Two of the most experienced and battle-tested veterans in UFC history clash in a lightweight matchup guaranteed to be a crowd-pleaser." },
+        { "fight_news": "Green's slick boxing and flashy hands-down style meet Stephens' legendary one-punch knockout power." },
+        { "fight_news": "Expect an incredible amount of trash talk inside the Octagon as both of these fighters love to perform and put on a show for the live crowd." }
+      ]
+    },
+    {
+      "title": "Ateba Gautier vs. Ozzy Diaz",
+      "items": [
+        { "fight_news": "Two hungry middleweight prospects look to make a violent statement on the prelims and break into the crowded top 15 conversation." },
+        { "fight_news": "Both fighters are known for their finishing instincts, making this a strong candidate for Fight of the Night honors." }
+      ]
+    },
+    {
+      "title": "Joel Alvarez vs. Yaroslav Amosov",
+      "items": [
+        { "fight_news": "In one of the most anticipated promotional debuts of the year, former Bellator champion Yaroslav Amosov finally steps into the Octagon." },
+        { "fight_news": "Amosov faces a massive welcome test in the towering Spanish finisher Joel Alvarez, promising fireworks for hardcore MMA fans." }
+      ]
+    },
+    {
+      "title": "Grant Dawson vs. Mateusz Rebecki",
+      "items": [
+        { "fight_news": "A pivotal lightweight crossroads fight. Dawson looks to re-establish himself as a top contender, while the heavy-handed Rebecki aims to bounce back and claim a marquee name." },
+        { "fight_news": "This matchup was specifically booked by matchmakers to see who truly belongs in the upper echelon of the 155-pound division." }
+      ]
+    },
+    {
+      "title": "Jim Miller vs. Jared Gordon",
+      "items": [
+        { "fight_news": "The legendary Jim Miller extends his own UFC record for most fights, bringing his iconic submission game to New Jersey for a homecoming bout." },
+        { "fight_news": "Miller faces fellow veteran and tri-state area favorite Jared Gordon, ensuring the Prudential Center crowd will be deafening for this lightweight clash." }
+      ]
+    },
+    {
+      "title": "Roman Kopylov vs. Marco Tulio",
+      "items": [
+        { "fight_news": "Expect a striking masterclass in this middleweight prelim as Kopylov brings his lethal kickboxing resume against the aggressive Brazilian Tulio." },
+        { "fight_news": "Neither man likes to take a backward step, practically guaranteeing an all-action stand-up war." }
+      ]
+    },
+    {
+      "title": "Pat Sabatini vs. William Gomis",
+      "items": [
+        { "fight_news": "A classic international grappler-versus-striker dynamic as the Philadelphia native Sabatini tries to ground the evasive French kickboxer Gomis." },
+        { "fight_news": "Sabatini will have the regional crowd advantage, but Gomis enters the cage with a wave of momentum behind his striking displays." }
+      ]
+    },
+    {
+      "title": "Baisangur Susurkaev vs. Djorden Santos",
+      "items": [
+        { "fight_news": "Russia meets Brazil in a stylistic matchup that promises high-level grappling exchanges and explosive transitions from the opening bell." },
+        { "fight_news": "This bout highlights the global pipeline of talent currently flooding into the UFC's middleweight ranks." }
+      ]
+    },
+    {
+      "title": "Clayton Carpenter vs. Jose Ochoa",
+      "items": [
+        { "fight_news": "Opening the night in Newark, two highly touted flyweight prospects look to set the arena on fire and start UFC 328 with a bang." },
+        { "fight_news": "With both men eager to prove they are the future of the 125-pound division, the pace of this early prelim will be relentless." }
+      ]
+    }
+  ]
+}
