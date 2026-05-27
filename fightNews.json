@@ -1,1 +1,100 @@
-
+{
+  "feed_version": 1,
+  "event": "UFC Fight Night: Song vs. Figueiredo",
+  "event_date": "May 30, 2026",
+  "venue": "Galaxy Arena, Macau SAR, China",
+  "spotlight_image": "/images/hero-fight.jpg",
+  "bouts": [
+    {
+      "title": "Song Yadong vs. Deiveson Figueiredo",
+      "items": [
+        { "fight_news": "Song Yadong looks to secure a massive victory on home soil and cement his status as a legitimate top contender in the bantamweight division." },
+        { "fight_news": "Former flyweight king Deiveson Figueiredo aims to spoil the homecoming. The analytical read here is whether Song's crisp, technical boxing can withstand Figueiredo's sheer forward pressure and physicality." }
+      ]
+    },
+    {
+      "title": "Zhang Mingyang vs. Alonzo Menifield",
+      "items": [
+        { "fight_news": "China's Zhang Mingyang looks to continue his violent ascent in the light heavyweight division against the battle-tested Alonzo Menifield in what promises to be an explosive collision." },
+        { "fight_news": "The strategic battle will hinge on which fighter can control their early aggression: Zhang's combination striking versus Menifield's devastating counter-punching." }
+      ]
+    },
+    {
+      "title": "Sergei Pavlovich vs. Tallison Teixeira",
+      "items": [
+        { "fight_news": "Heavyweight terrifying force Sergei Pavlovich returns against undefeated Brazilian prospect Tallison Teixeira, who has a massive opportunity to instantly crack the divisional rankings." },
+        { "fight_news": "The core analytical question is whether Teixeira's mobility can drag the fight into the later rounds where Pavlovich's cardio is less proven." }
+      ]
+    },
+    {
+      "title": "Kai Asakura vs. Cameron Smotherman",
+      "items": [
+        { "fight_news": "Japanese superstar Kai Asakura makes his highly anticipated UFC debut. Fans expect a high-paced striking battle as his reputation for spectacular knockouts precedes him." },
+        { "fight_news": "Smotherman will attempt to use his reach advantages to defuse the hype. Early analysis suggests Smotherman must target the legs to slow Asakura down." }
+      ]
+    },
+    {
+      "title": "Jake Matthews vs. Carlston Harris",
+      "items": [
+        { "fight_news": "An intriguing welterweight matchup featuring the veteran savvy of Jake Matthews against the dangerous finishing instincts of Carlston Harris." },
+        { "fight_news": "The stylistic question is whether Matthews' well-rounded and disciplined game plan can safely bypass the tricky submission threats that Harris constantly throws up." }
+      ]
+    },
+    {
+      "title": "Alex Perez vs. Su Mudaerji",
+      "items": [
+        { "fight_news": "Former title challenger Alex Perez faces fan-favorite Su Mudaerji in a crucial flyweight showdown that contrasts two entirely different martial arts philosophies." },
+        { "fight_news": "Mudaerji brings a dynamic striking style that clashes beautifully with Perez's gritty wrestling approach. The fight will be determined by who dictates the range." }
+      ]
+    },
+    {
+      "title": "Lee Yi-sak vs. Luis Felipe Dias",
+      "items": [
+        { "fight_news": "Two promising middleweights clash as South Korea's Lee Yi-sak meets Brazil's Luis Felipe Dias, with both fighters looking to make a massive statement on the preliminary card." },
+        { "fight_news": "Expect a classic striker versus grappler dynamic with high stakes, as Lee's striking will be heavily tested by Dias' elite submission credentials." }
+      ]
+    },
+    {
+      "title": "Ding Meng vs. José Henrique Souza",
+      "items": [
+        { "fight_news": "China's Ding Meng gets the opportunity to perform in front of a friendly crowd against the towering Brazilian José Henrique Souza." },
+        { "fight_news": "Souza's physical advantages are evident, but analysis points to Ding's toughness and grit being the ultimate equalizer in deep waters." }
+      ]
+    },
+    {
+      "title": "Aori Qileng vs. Cody Haddon",
+      "items": [
+        { "fight_news": "The Mongolian Murderer Aori Qileng brings his iron chin and aggressive style against the highly technical Australian Cody Haddon." },
+        { "fight_news": "Haddon faces a tough test in enemy territory and needs a disciplined, volume-based performance to outpoint a fighter who seemingly cannot be broken." }
+      ]
+    },
+    {
+      "title": "Rei Tsuruya vs. Luis Gurule",
+      "items": [
+        { "fight_news": "Undefeated Japanese prodigy Rei Tsuruya looks to continue his dominant run against late replacement Luis Gurule, who steps up for the biggest opportunity of his career." },
+        { "fight_news": "Early reads indicate that Tsuruya's suffocating grappling pace will be the primary, and potentially overwhelming, puzzle Gurule must solve." }
+      ]
+    },
+    {
+      "title": "Angela Hill vs. Xiong Jingnan",
+      "items": [
+        { "fight_news": "A massive crossover fight sees ONE Championship superstar Xiong Jingnan making her UFC debut against the legendary, battle-tested veteran Angela Hill." },
+        { "fight_news": "It is a compelling test of striking styles at the highest level: Xiong's raw power and boxing against Hill's polished Muay Thai and cage experience." }
+      ]
+    },
+    {
+      "title": "Zhu Kangjie vs. Rodrigo Vera",
+      "items": [
+        { "fight_news": "Road to UFC winner Zhu Kangjie makes his official debut against the tough Peruvian Rodrigo Vera. Zhu will have the entire arena firmly behind him." },
+        { "fight_news": "Vera enters as the underdog eager to silence the Macau crowd, relying on his gritty style to weather the early storm Zhu is known for." }
+      ]
+    },
+    {
+      "title": "Loma Lookboonmee vs. Jaqueline Amorim",
+      "items": [
+        { "fight_news": "Thailand's Loma Lookboonmee opens the card with her elite Muay Thai skills against Brazilian Jiu-Jitsu specialist Jaqueline Amorim." },
+        { "fight_news": "It is a quintessential clash of martial arts disciplines. The analytical edge belongs to the fighter who successfully forces the bout into their preferred zone of combat." }
+      ]
+    }
+  ]
+}
