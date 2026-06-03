@@ -1,1 +1,93 @@
-
+{
+  "feed_version": 1,
+  "event": "UFC Fight Night: Muhammad vs. Bonfim",
+  "event_date": "June 6, 2026",
+  "venue": "Meta APEX, Las Vegas, Nevada",
+  "spotlight_image": "image_667986.png",
+  "bouts": [
+    {
+      "title": "Belal Muhammad vs. Gabriel Bonfim",
+      "items": [
+        { "fight_news": "Number five ranked Belal Muhammad looks to defend his position in the welterweight elite against the surging number eleven ranked Gabriel Bonfim in the main event." },
+        { "fight_news": "The analytical read here is whether Muhammad's legendary pace and pressure can break the explosive finishing instincts of the highly touted Brazilian prospect." }
+      ]
+    },
+    {
+      "title": "Brendan Allen vs. Edmen Shahbazyan",
+      "items": [
+        { "fight_news": "Brendan Allen and Edmen Shahbazyan square off in a high stakes middleweight clash that promises immediate action from the opening bell." },
+        { "fight_news": "This is a classic grappler versus striker dynamic. Shahbazyan aims for an early knockout, while Allen will undoubtedly try to drag this fight into his world on the mat." }
+      ]
+    },
+    {
+      "title": "Farès Ziam vs. Tom Nolan",
+      "items": [
+        { "fight_news": "France's Farès Ziam looks to continue his climb up the lightweight ranks against the dangerous Australian prospect Tom Nolan." },
+        { "fight_news": "Stylistically, this fight will be determined by range. Ziam wants a technical kickboxing match at a distance, while Nolan prefers to close the gap and enforce his will." }
+      ]
+    },
+    {
+      "title": "Bryce Mitchell vs. Santiago Luna",
+      "items": [
+        { "fight_news": "Fan favorite Bryce Mitchell remains on the card to face late replacement Santiago Luna after Victor Henry was forced to withdraw." },
+        { "fight_news": "Luna steps up on short notice for the opportunity of a lifetime. He must find a way to keep the fight standing against one of the division's most relentless grapplers." }
+      ]
+    },
+    {
+      "title": "Iwo Baraniewski vs. Junior Tafa",
+      "items": [
+        { "fight_news": "Poland's Iwo Baraniewski faces a sudden change of plans as he now takes on the heavy handed Junior Tafa in a light heavyweight collision." },
+        { "fight_news": "Tafa brings massive striking power to the Octagon, forcing Baraniewski to quickly adjust his game plan for a completely different kind of threat." }
+      ]
+    },
+    {
+      "title": "Matt Schnell vs. Alessandro Costa",
+      "items": [
+        { "fight_news": "Veteran Matt Schnell welcomes Alessandro Costa in a 130-pound catchweight bout after Imanol Rodríguez withdrew just nine days before the event." },
+        { "fight_news": "Costa gets a massive short notice opportunity to prove himself against a ranked mainstay, making this a highly volatile and unpredictable preliminary matchup." }
+      ]
+    },
+    {
+      "title": "Marcus McGhee vs. John Yannis",
+      "items": [
+        { "fight_news": "Marcus McGhee looks to keep his momentum going against John Yannis, who steps in to replace an injured Jakub Wikłacz." },
+        { "fight_news": "With a major shift in opponents, McGhee's adaptability will be severely tested by a newcomer eager to make a name for himself under the bright lights." }
+      ]
+    },
+    {
+      "title": "Bruno Gustavo da Silva vs. Édgar Cháirez",
+      "items": [
+        { "fight_news": "Flyweight action kicks into high gear as the explosive Brazilian Bruno Silva takes on Mexico's highly motivated Édgar Cháirez." },
+        { "fight_news": "Both men are known for their finishing abilities, practically guaranteeing a high paced, fan friendly battle from the very first minute." }
+      ]
+    },
+    {
+      "title": "Priscila Cachoeira vs. Chelsea Chandler",
+      "items": [
+        { "fight_news": "Priscila Cachoeira brings her signature aggressive brawling style to the Octagon against the well rounded Chelsea Chandler." },
+        { "fight_news": "The narrative focus is firmly on whether Chandler's technique can weather the inevitable early storm that Cachoeira always brings to her fights." }
+      ]
+    },
+    {
+      "title": "Jordan Leavitt vs. Joanderson Brito",
+      "items": [
+        { "fight_news": "Originally scheduled for a couple of weeks prior, this highly anticipated featherweight bout finally takes place at the Meta APEX." },
+        { "fight_news": "Leavitt's slick submission game meets Brito's terrifying knockout power in a clash of wildly opposing styles that has fans incredibly excited." }
+      ]
+    },
+    {
+      "title": "Jeisla Chaves vs. Yuneisy Duben",
+      "items": [
+        { "fight_news": "Brazil's Jeisla Chaves looks to justify her status as a massive betting favorite against Venezuela's Yuneisy Duben." },
+        { "fight_news": "Duben enters the cage with a huge chip on her shoulder, eager to derail the hype train and secure a massive upset victory." }
+      ]
+    },
+    {
+      "title": "Ketlen Souza vs. Ariane Carnelossi",
+      "items": [
+        { "fight_news": "Two Brazilian strawweights look to make a statement as the technical Ketlen Souza takes on the powerhouse Ariane Carnelossi." },
+        { "fight_news": "It is a battle of finesse versus brute strength, serving as a crucial stepping stone for whoever emerges victorious." }
+      ]
+    }
+  ]
+}
