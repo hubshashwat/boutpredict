@@ -1,1 +1,58 @@
-
+{
+  "feed_version": 1,
+  "event": "UFC Freedom 250",
+  "event_date": "June 14, 2026",
+  "venue": "White House, Washington, D.C.",
+  "spotlight_image": "image_667986.png",
+  "bouts": [
+    {
+      "title": "Ilia Topuria vs. Justin Gaethje",
+      "items": [
+        { "fight_news": "In an unprecedented spectacle on the White House lawn, Ilia Topuria looks to solidify his undisputed lightweight reign against the ultimate action fighter, Justin Gaethje." },
+        { "fight_news": "Analytically, this phenomenal title unification bout hinges entirely on Topuria's crisp pocket boxing matching up against Gaethje's legendary leg kicks and violent forward pressure." }
+      ]
+    },
+    {
+      "title": "Alex Pereira vs. Ciryl Gane",
+      "items": [
+        { "fight_news": "Alex Pereira vacates his 205-pound title to chase two-division supremacy in a highly anticipated interim heavyweight title bout against former interim champ Ciryl Gane." },
+        { "fight_news": "The core stylistic question is whether Pereira's transcendent, one-punch knockout power can find a home against the elusive, movement-heavy approach of the French heavyweight." }
+      ]
+    },
+    {
+      "title": "Sean O'Malley vs. Aiemann Zahabi",
+      "items": [
+        { "fight_news": "Fan-favorite Sean O'Malley faces a highly disciplined test in Aiemann Zahabi as he looks to re-establish his dominance in a crowded bantamweight division." },
+        { "fight_news": "The tactical preview revolves around O'Malley's sniper-like distance management going head-to-head against Zahabi's patient and lethal counter-striking." }
+      ]
+    },
+    {
+      "title": "Josh Hokit vs. Derrick Lewis",
+      "items": [
+        { "fight_news": "A massive heavyweight collision pits the raw wrestling power of Josh Hokit against the UFC's all-time knockout king, Derrick Lewis." },
+        { "fight_news": "The narrative gives us a quintessential grappler-versus-striker matchup, with Hokit desperately needing to survive the terrifying power of Lewis's first-round blitzes to impose his ground game." }
+      ]
+    },
+    {
+      "title": "Maurício Ruffy vs. Michael Chandler",
+      "items": [
+        { "fight_news": "Veteran Michael Chandler brings his explosive, fan-friendly style back to the Octagon against the rapidly rising Brazilian prospect Maurício Ruffy." },
+        { "fight_news": "Expect pure violence early on, as Chandler's hyper-aggressive forward pressure clashes beautifully with Ruffy's sharp, technical striking skills." }
+      ]
+    },
+    {
+      "title": "Bo Nickal vs. Kyle Daukaus",
+      "items": [
+        { "fight_news": "Undefeated wrestling phenom Bo Nickal takes a significant step up in competition against the highly experienced submission specialist Kyle Daukaus." },
+        { "fight_news": "It is an elite grappling showdown that will test whether Nickal's raw wrestling superiority can safely navigate the tricky submission threats that Daukaus is famous for." }
+      ]
+    },
+    {
+      "title": "Diego Lopes vs. Steve Garcia",
+      "items": [
+        { "fight_news": "Opening up the main card, Diego Lopes brings his wildly aggressive submission and striking game against the gritty, battle-tested Steve Garcia." },
+        { "fight_news": "This featherweight bout promises high action from the first bell, with Garcia's technical boxing tested by Lopes' sheer unpredictability and finishing instincts." }
+      ]
+    }
+  ]
+}
