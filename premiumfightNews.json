@@ -1,58 +1,85 @@
 {
   "feed_version": 1,
-  "event": "UFC Freedom 250",
-  "event_date": "June 14, 2026",
-  "venue": "White House, Washington, D.C.",
+  "event": "UFC Fight Night: Kape vs. Horiguchi",
+  "event_date": "June 20, 2026",
+  "venue": "Meta APEX, Enterprise, Nevada",
   "tier": "premium",
   "spotlight_image": "image_667986.png",
   "bouts": [
     {
-      "title": "Ilia Topuria vs. Justin Gaethje",
+      "title": "Manel Kape vs. Kyoji Horiguchi",
       "items": [
-        { "fight_news": "Topuria's elite pocket boxing relies on a tight high guard and slipping inside counter-hooks. Gaethje's primary weapon is the calf kick, which Topuria must consistently check or instantly punish with a straight right hand down the pipe." },
-        { "fight_news": "Gaethje's defensive wrestling is statistically elite, but his tendency to brawl in the pocket could expose him to Topuria's devastating body-snatching combinations. The critical metric is whether Gaethje can maintain kicking distance against Topuria's relentless forward pressure." }
+        { "fight_news": "Kape's southpaw stance and explosive check right hook will be his primary weapon against Horiguchi's darting karate movement. Horiguchi must utilize calf kicks to limit Kape's mobility early in the fight." },
+        { "fight_news": "Horiguchi's tendency to close distance in straight lines could expose him to Kape's counter uppercuts. The critical metric is whether Kape can cut off the cage and trap Horiguchi against the fence." }
       ]
     },
     {
-      "title": "Alex Pereira vs. Ciryl Gane",
+      "title": "Ion Cutelaba vs. Navajo Stirling",
       "items": [
-        { "fight_news": "Pereira's devastating left hook is built on drawing opponents into his range, but Gane's lateral footwork and bounce-step make him exceptionally difficult to corner. Pereira must invest heavily in leg kicks to compromise Gane's mobility early." },
-        { "fight_news": "Moving up in weight, Pereira faces a significant size disadvantage in the clinch. Gane's optimal tactical path involves pushing Pereira against the fence and utilizing defensive wrestling to drain the Brazilian's cardio rather than risking a pure kickboxing exchange." }
+        { "fight_news": "Cutelaba relies heavily on chaotic early pressure, but Stirling's kickboxing fundamentals and lateral movement are designed to neutralize blitzes." },
+        { "fight_news": "If Cutelaba cannot secure a takedown in the first round, his cardio historically drops significantly, heavily favoring Stirling's measured output." }
       ]
     },
     {
-      "title": "Sean O'Malley vs. Aiemann Zahabi",
+      "title": "Andre Fili vs. Vinicius Oliveira",
       "items": [
-        { "fight_news": "O'Malley relies heavily on feints and switch-stance footwork to maintain his preferred kicking range. Zahabi operates highly efficiently as a counter-puncher, particularly relying on his right cross to intercept forward movement." },
-        { "fight_news": "Zahabi cannot afford to wait on the outside against a sniper like O'Malley. The statistical key to victory for Zahabi is cutting off the Octagon and forcing O'Malley into dirty boxing exchanges where the reach differential is completely mitigated." }
+        { "fight_news": "Fili steps in on short notice to replace Giga Chikadze, which makes his pacing a massive variable. Oliveira's powerful leg kicks could immediately compromise Fili's movement." },
+        { "fight_news": "Fili must rely on his wrestling and top control to neutralize Oliveira's explosive striking and drain his energy." }
       ]
     },
     {
-      "title": "Josh Hokit vs. Derrick Lewis",
+      "title": "Hyder Amil vs. Christian Rodriguez",
       "items": [
-        { "fight_news": "Hokit's NCAA Division I wrestling pedigree dictates his entire game plan. He must secure early takedowns and apply heavy, suffocating hip control to prevent Lewis from executing his patented explosive stand-ups." },
-        { "fight_news": "If Hokit separates inside the pocket or attempts sloppy level changes, Lewis's right uppercut is statistically his most lethal counter-weapon. The fight hinges entirely on Hokit's grappling transitions in the first three minutes." }
+        { "fight_news": "Rodriguez excels at slipping strikes and countering in the pocket. Amil needs to utilize his jab and stay on the outside to avoid brawling with the sharper counter puncher." },
+        { "fight_news": "Rodriguez's submission defense will be tested if Amil decides to chain wrestle against the cage." }
       ]
     },
     {
-      "title": "Maurício Ruffy vs. Michael Chandler",
+      "title": "André Lima vs. Kevin Borjas",
       "items": [
-        { "fight_news": "Ruffy possesses pinpoint striking accuracy but must weather severe early danger. Chandler's explosive, linear blitzes leave him highly vulnerable to Ruffy's check hooks and intercepting knees." },
-        { "fight_news": "Ruffy needs flawless lateral movement to avoid being pinned against the cage, which is exactly where Chandler's explosive chain-wrestling becomes an insurmountable problem." }
+        { "fight_news": "Lima's Muay Thai clinch is devastating, but Borjas has the speed advantage on the outside. Borjas must angle off instead of backing up straight when Lima enters." }
       ]
     },
     {
-      "title": "Bo Nickal vs. Kyle Daukaus",
+      "title": "Melsik Baghdasaryan vs. Murtazali Magomedov",
       "items": [
-        { "fight_news": "Nickal's elite freestyle wrestling seamlessly translates to dominant top control, but Daukaus possesses a highly active guard, specifically hunting D'Arce and guillotine chokes during scrambles." },
-        { "fight_news": "Nickal must prioritize perfect posture and heavy ground-and-pound over reckless guard passing. Engaging in pure grappling transitions plays directly into Daukaus's front headlock traps." }
+        { "fight_news": "Baghdasaryan is a lethal kickboxer but struggles against high level chain wrestling. Magomedov's entire path to victory relies on securing early body locks." }
       ]
     },
     {
-      "title": "Diego Lopes vs. Steve Garcia",
+      "title": "Beatriz Mesquita vs. Melissa Mullins",
       "items": [
-        { "fight_news": "Lopes thrives in chaotic scrambles, frequently throwing wild, looping power shots to close the distance for his grappling. Garcia utilizes a much longer, straight-punching approach designed to pick opponents apart from the outside." },
-        { "fight_news": "Garcia's defensive wrestling is the defining metric here. If he can stuff Lopes' initial explosive takedown attempts, his straight punches will easily find openings as Lopes begins to overextend and fatigue." }
+        { "fight_news": "Mesquita's world class grappling makes her a threat from any position on the ground. Mullins must prioritize defensive posture and strike from range to avoid tangling up." }
+      ]
+    },
+    {
+      "title": "Allan Nascimento vs. Mitch Raposo",
+      "items": [
+        { "fight_news": "Nascimento uses long teeps to manage distance. Raposo must time these kicks and counter over the top to close the gap successfully." }
+      ]
+    },
+    {
+      "title": "Gaston Bolanos vs. Michael Aswell Jr.",
+      "items": [
+        { "fight_news": "Bolanos throws spinning attacks that require space. Aswell Jr. needs to crowd Bolanos and fight from the inside to stifle his creativity." }
+      ]
+    },
+    {
+      "title": "Karol Rosa vs. Luana Santos",
+      "items": [
+        { "fight_news": "Rosa's grinding cage control is her best asset, while Santos looks for judo throws. The clinch battle will dictate the entire rhythm of the fight." }
+      ]
+    },
+    {
+      "title": "Leon Shahbazyan vs. Levan Chokheli",
+      "items": [
+        { "fight_news": "Shahbazyan has secured four consecutive first round finishes entering this debut. Chokheli must weather the early storm and extend the fight past the first frame where Shahbazyan's output might wane." }
+      ]
+    },
+    {
+      "title": "Shane Collins vs. Otari Tanzilovi",
+      "items": [
+        { "fight_news": "Collins arrives undefeated with strong finishing ability. Tanzilovi needs to employ defensive wrestling and lateral footwork to frustrate the aggressive newcomer." }
       ]
     }
   ]
