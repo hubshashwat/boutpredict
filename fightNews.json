@@ -1,57 +1,92 @@
 {
   "feed_version": 1,
-  "event": "UFC Freedom 250",
-  "event_date": "June 14, 2026",
-  "venue": "White House, Washington, D.C.",
+  "event": "UFC Fight Night: Kape vs. Horiguchi",
+  "event_date": "June 20, 2026",
+  "venue": "Meta APEX, Enterprise, Nevada",
   "spotlight_image": "image_667986.png",
   "bouts": [
     {
-      "title": "Ilia Topuria vs. Justin Gaethje",
+      "title": "Manel Kape vs. Kyoji Horiguchi",
       "items": [
-        { "fight_news": "In an unprecedented spectacle on the White House lawn, Ilia Topuria looks to solidify his undisputed lightweight reign against the ultimate action fighter, Justin Gaethje." },
-        { "fight_news": "Analytically, this phenomenal title unification bout hinges entirely on Topuria's crisp pocket boxing matching up against Gaethje's legendary leg kicks and violent forward pressure." }
+        { "fight_news": "A highly anticipated flyweight rematch headlines the event as former RIZIN champion Manel Kape takes on fellow former champion Kyoji Horiguchi." },
+        { "fight_news": "The narrative centers on whether Horiguchi's elusive style can outsmart the devastating power and aggression Kape brings to the Octagon." }
       ]
     },
     {
-      "title": "Alex Pereira vs. Ciryl Gane",
+      "title": "Ion Cutelaba vs. Navajo Stirling",
       "items": [
-        { "fight_news": "Alex Pereira vacates his 205-pound title to chase two-division supremacy in a highly anticipated interim heavyweight title bout against former interim champ Ciryl Gane." },
-        { "fight_news": "The core stylistic question is whether Pereira's transcendent, one-punch knockout power can find a home against the elusive, movement-heavy approach of the French heavyweight." }
+        { "fight_news": "Light heavyweight action sees the always entertaining Ion Cutelaba welcoming the undefeated Navajo Stirling." },
+        { "fight_news": "Fans can expect a fiery start, testing whether Stirling's perfect record holds up under Cutelaba's trademark early onslaught." }
       ]
     },
     {
-      "title": "Sean O'Malley vs. Aiemann Zahabi",
+      "title": "Andre Fili vs. Vinicius Oliveira",
       "items": [
-        { "fight_news": "Fan-favorite Sean O'Malley faces a highly disciplined test in Aiemann Zahabi as he looks to re-establish his dominance in a crowded bantamweight division." },
-        { "fight_news": "The tactical preview revolves around O'Malley's sniper-like distance management going head-to-head against Zahabi's patient and lethal counter-striking." }
+        { "fight_news": "Veteran Andre Fili steps up to the plate to replace an injured fighter, facing the dangerous Vinicius Oliveira." },
+        { "fight_news": "This matchup is a classic test of Fili's vast UFC experience against Oliveira's hunger to climb the featherweight ladder." }
       ]
     },
     {
-      "title": "Josh Hokit vs. Derrick Lewis",
+      "title": "Hyder Amil vs. Christian Rodriguez",
       "items": [
-        { "fight_news": "A massive heavyweight collision pits the raw wrestling power of Josh Hokit against the UFC's all-time knockout king, Derrick Lewis." },
-        { "fight_news": "The narrative gives us a quintessential grappler-versus-striker matchup, with Hokit desperately needing to survive the terrifying power of Lewis's first-round blitzes to impose his ground game." }
+        { "fight_news": "Two promising featherweights look to make a statement as the undefeated Hyder Amil collides with the technical Christian Rodriguez." },
+        { "fight_news": "The analytical focus is on Rodriguez's composure when faced with Amil's relentless forward pressure." }
       ]
     },
     {
-      "title": "Maurício Ruffy vs. Michael Chandler",
+      "title": "André Lima vs. Kevin Borjas",
       "items": [
-        { "fight_news": "Veteran Michael Chandler brings his explosive, fan-friendly style back to the Octagon against the rapidly rising Brazilian prospect Maurício Ruffy." },
-        { "fight_news": "Expect pure violence early on, as Chandler's hyper-aggressive forward pressure clashes beautifully with Ruffy's sharp, technical striking skills." }
+        { "fight_news": "Undefeated prospect André Lima looks to keep his perfect record intact against the gritty Kevin Borjas." },
+        { "fight_news": "It is a phenomenal showcase of striking arts in the flyweight division." }
       ]
     },
     {
-      "title": "Bo Nickal vs. Kyle Daukaus",
+      "title": "Melsik Baghdasaryan vs. Murtazali Magomedov",
       "items": [
-        { "fight_news": "Undefeated wrestling phenom Bo Nickal takes a significant step up in competition against the highly experienced submission specialist Kyle Daukaus." },
-        { "fight_news": "It is an elite grappling showdown that will test whether Nickal's raw wrestling superiority can safely navigate the tricky submission threats that Daukaus is famous for." }
+        { "fight_news": "A classic striker versus grappler showdown awaits as the kickboxing specialist Baghdasaryan meets the wrestling heavy Magomedov." },
+        { "fight_news": "The fighter who imposes their preferred venue of combat will undoubtedly leave with their hand raised." }
       ]
     },
     {
-      "title": "Diego Lopes vs. Steve Garcia",
+      "title": "Beatriz Mesquita vs. Melissa Mullins",
       "items": [
-        { "fight_news": "Opening up the main card, Diego Lopes brings his wildly aggressive submission and striking game against the gritty, battle-tested Steve Garcia." },
-        { "fight_news": "This featherweight bout promises high action from the first bell, with Garcia's technical boxing tested by Lopes' sheer unpredictability and finishing instincts." }
+        { "fight_news": "Grappling royalty enters the cage as Beatriz Mesquita puts her undefeated MMA record on the line against Melissa Mullins." },
+        { "fight_news": "Mullins faces the ultimate test of keeping the fight standing against a legendary submission artist." }
+      ]
+    },
+    {
+      "title": "Allan Nascimento vs. Mitch Raposo",
+      "items": [
+        { "fight_news": "Flyweight contenders look to break through the rankings as veteran Nascimento squares off against Raposo." },
+        { "fight_news": "Raposo will look to utilize his speed advantage to counter the rangy attacks of the Brazilian veteran." }
+      ]
+    },
+    {
+      "title": "Gaston Bolanos vs. Michael Aswell Jr.",
+      "items": [
+        { "fight_news": "Fans can expect fireworks as the flashy striking of Gaston Bolanos meets the calculated approach of Michael Aswell Jr.." },
+        { "fight_news": "Bolanos is known for highlight reel finishes and will surely look to add another one to his collection." }
+      ]
+    },
+    {
+      "title": "Karol Rosa vs. Luana Santos",
+      "items": [
+        { "fight_news": "An all Brazilian bantamweight clash pits the battle tested Karol Rosa against the rising Luana Santos." },
+        { "fight_news": "This bout will heavily influence the trajectory of the top fifteen rankings." }
+      ]
+    },
+    {
+      "title": "Leon Shahbazyan vs. Levan Chokheli",
+      "items": [
+        { "fight_news": "Leon Shahbazyan makes his highly anticipated UFC debut looking to capitalize on his massive finishing streak against Levan Chokheli." },
+        { "fight_news": "The pressure is on Shahbazyan to prove his regional dominance translates perfectly to the big stage." }
+      ]
+    },
+    {
+      "title": "Shane Collins vs. Otari Tanzilovi",
+      "items": [
+        { "fight_news": "Two newcomers aim to start their UFC careers with a bang as the undefeated Shane Collins faces Otari Tanzilovi." },
+        { "fight_news": "With both men possessing impressive finishing rates, the judges are unlikely to be needed for this preliminary opener." }
       ]
     }
   ]
