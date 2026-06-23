@@ -1,92 +1,99 @@
 {
   "feed_version": 1,
-  "event": "UFC Fight Night: Kape vs. Horiguchi",
-  "event_date": "June 20, 2026",
-  "venue": "Meta APEX, Enterprise, Nevada",
+  "event": "UFC Fight Night: Fiziev vs. Torres",
+  "event_date": "June 27, 2026",
+  "venue": "National Gymnastics Arena, Baku, Azerbaijan",
   "spotlight_image": "image_667986.png",
   "bouts": [
     {
-      "title": "Manel Kape vs. Kyoji Horiguchi",
+      "title": "Rafael Fiziev vs. Manuel Torres",
       "items": [
-        { "fight_news": "A highly anticipated flyweight rematch headlines the event as former RIZIN champion Manel Kape takes on fellow former champion Kyoji Horiguchi." },
-        { "fight_news": "The narrative centers on whether Horiguchi's elusive style can outsmart the devastating power and aggression Kape brings to the Octagon." }
+        { "fight_news": "A spectacular lightweight main event features the elite striking of Rafael Fiziev going against the devastating finishing instincts of Manuel Torres in Baku." },
+        { "fight_news": "The narrative focus is whether Torres can handle the massive step up in competition against one of the division's most technical Muay Thai practitioners." }
       ]
     },
     {
-      "title": "Ion Cutelaba vs. Navajo Stirling",
+      "title": "Sharabutdin Magomedov vs. Michel Pereira",
       "items": [
-        { "fight_news": "Light heavyweight action sees the always entertaining Ion Cutelaba welcoming the undefeated Navajo Stirling." },
-        { "fight_news": "Fans can expect a fiery start, testing whether Stirling's perfect record holds up under Cutelaba's trademark early onslaught." }
+        { "fight_news": "Undefeated striking sensation Sharabutdin Magomedov faces the wildest challenge of his career against the explosive and unpredictable Michel Pereira." },
+        { "fight_news": "This middleweight bout guarantees fireworks, with both men known for their incredibly unorthodox and fan-friendly stand-up styles." }
       ]
     },
     {
-      "title": "Andre Fili vs. Vinicius Oliveira",
+      "title": "Nazim Sadykhov vs. Matheus Camilo",
       "items": [
-        { "fight_news": "Veteran Andre Fili steps up to the plate to replace an injured fighter, facing the dangerous Vinicius Oliveira." },
-        { "fight_news": "This matchup is a classic test of Fili's vast UFC experience against Oliveira's hunger to climb the featherweight ladder." }
+        { "fight_news": "Hometown favorite Nazim Sadykhov looks to put on a show for the Baku crowd against the dangerous Matheus Camilo." },
+        { "fight_news": "Expect a high-paced striking battle as Sadykhov aims to climb the lightweight ranks with a definitive victory on home soil." }
       ]
     },
     {
-      "title": "Hyder Amil vs. Christian Rodriguez",
+      "title": "Asu Almabayev vs. Charles Johnson",
       "items": [
-        { "fight_news": "Two promising featherweights look to make a statement as the undefeated Hyder Amil collides with the technical Christian Rodriguez." },
-        { "fight_news": "The analytical focus is on Rodriguez's composure when faced with Amil's relentless forward pressure." }
+        { "fight_news": "Rising flyweight contender Asu Almabayev puts his impressive grappling skills to the test against the ever-durable Charles Johnson." },
+        { "fight_news": "It is a classic matchup of early wrestling pressure versus veteran conditioning and striking volume." }
       ]
     },
     {
-      "title": "André Lima vs. Kevin Borjas",
+      "title": "Ikram Aliskerov vs. Brunno Ferreira",
       "items": [
-        { "fight_news": "Undefeated prospect André Lima looks to keep his perfect record intact against the gritty Kevin Borjas." },
-        { "fight_news": "It is a phenomenal showcase of striking arts in the flyweight division." }
+        { "fight_news": "Ikram Aliskerov returns to action aiming to impose his sambo dominance against the heavy-handed Brazilian Brunno Ferreira." },
+        { "fight_news": "The stakes are massive in the middleweight division, as one clean shot from Ferreira could completely alter Aliskerov's trajectory." }
       ]
     },
     {
-      "title": "Melsik Baghdasaryan vs. Murtazali Magomedov",
+      "title": "Abusupiyan Magomedov vs. Michał Oleksiejczuk",
       "items": [
-        { "fight_news": "A classic striker versus grappler showdown awaits as the kickboxing specialist Baghdasaryan meets the wrestling heavy Magomedov." },
-        { "fight_news": "The fighter who imposes their preferred venue of combat will undoubtedly leave with their hand raised." }
+        { "fight_news": "This middleweight clash remains a massive test for both Abusupiyan Magomedov and Michał Oleksiejczuk." },
+        { "fight_news": "Fans can look forward to a gritty battle as Oleksiejczuk's forward-marching boxing meets Magomedov's well-rounded grappling." }
       ]
     },
     {
-      "title": "Beatriz Mesquita vs. Melissa Mullins",
+      "title": "Farman Hasanov vs. Eric Nolan",
       "items": [
-        { "fight_news": "Grappling royalty enters the cage as Beatriz Mesquita puts her undefeated MMA record on the line against Melissa Mullins." },
-        { "fight_news": "Mullins faces the ultimate test of keeping the fight standing against a legendary submission artist." }
+        { "fight_news": "Farman Hasanov makes his walk to the Octagon looking to secure a crucial welterweight victory against Eric Nolan." },
+        { "fight_news": "This preliminary matchup serves as a vital proving ground for both fighters to advance in the weight class." }
       ]
     },
     {
-      "title": "Allan Nascimento vs. Mitch Raposo",
+      "title": "Abdul-Rakhman Yakhyaev vs. Julius Walker",
       "items": [
-        { "fight_news": "Flyweight contenders look to break through the rankings as veteran Nascimento squares off against Raposo." },
-        { "fight_news": "Raposo will look to utilize his speed advantage to counter the rangy attacks of the Brazilian veteran." }
+        { "fight_news": "Abdul-Rakhman Yakhyaev will attempt to assert his dominance in the light heavyweight division against the powerful Julius Walker." },
+        { "fight_news": "Walker enters as the underdog but possesses the power to abruptly shift the momentum of the fight." }
       ]
     },
     {
-      "title": "Gaston Bolanos vs. Michael Aswell Jr.",
+      "title": "Nursulton Ruziboev vs. Andrey Pulyaev",
       "items": [
-        { "fight_news": "Fans can expect fireworks as the flashy striking of Gaston Bolanos meets the calculated approach of Michael Aswell Jr.." },
-        { "fight_news": "Bolanos is known for highlight reel finishes and will surely look to add another one to his collection." }
+        { "fight_news": "The towering Nursulton Ruziboev brings his intimidating presence to the cage against the resilient Andrey Pulyaev." },
+        { "fight_news": "Pulyaev will need to overcome significant physical disadvantages to pull off the upset." }
       ]
     },
     {
-      "title": "Karol Rosa vs. Luana Santos",
+      "title": "Kaan Ofli vs. Javier Reyes",
       "items": [
-        { "fight_news": "An all Brazilian bantamweight clash pits the battle tested Karol Rosa against the rising Luana Santos." },
-        { "fight_news": "This bout will heavily influence the trajectory of the top fifteen rankings." }
+        { "fight_news": "Featherweight prospects collide as Kaan Ofli takes on Javier Reyes in a bout that promises high-paced action." },
+        { "fight_news": "Both fighters are eager to break out and make a name for themselves in one of the most talent-rich divisions." }
       ]
     },
     {
-      "title": "Leon Shahbazyan vs. Levan Chokheli",
+      "title": "Daniil Donchenko vs. Theodor Berggren",
       "items": [
-        { "fight_news": "Leon Shahbazyan makes his highly anticipated UFC debut looking to capitalize on his massive finishing streak against Levan Chokheli." },
-        { "fight_news": "The pressure is on Shahbazyan to prove his regional dominance translates perfectly to the big stage." }
+        { "fight_news": "Promotional newcomer Theodor Berggren steps up to the plate to face Daniil Donchenko after an injury forced the original opponent out of the bout." },
+        { "fight_news": "Berggren gets the opportunity of a lifetime to make an instant impact under the bright lights." }
       ]
     },
     {
-      "title": "Shane Collins vs. Otari Tanzilovi",
+      "title": "Bekzat Almakhan vs. Jean Matsumoto",
       "items": [
-        { "fight_news": "Two newcomers aim to start their UFC careers with a bang as the undefeated Shane Collins faces Otari Tanzilovi." },
-        { "fight_news": "With both men possessing impressive finishing rates, the judges are unlikely to be needed for this preliminary opener." }
+        { "fight_news": "Bantamweight talent is on full display as Bekzat Almakhan squares off against the undefeated Jean Matsumoto." },
+        { "fight_news": "The judges are unlikely to be needed given the finishing instincts of these two promising athletes." }
+      ]
+    },
+    {
+      "title": "Tahir Abdullayev vs. Jefferson Nascimento",
+      "items": [
+        { "fight_news": "Opening the card, Tahir Abdullayev looks to set the tone for the hometown fans against Jefferson Nascimento." },
+        { "fight_news": "This bout will heavily dictate the energy of the arena for the rest of the night." }
       ]
     }
   ]
