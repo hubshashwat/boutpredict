@@ -1,1 +1,102 @@
-
+{
+  "feed_version": 1,
+  "event": "UFC 329: McGregor vs Holloway 2",
+  "event_date": "July 11, 2026",
+  "venue": "T-Mobile Arena, Las Vegas, Nevada",
+  "spotlight_image": "image_667986.png",
+  "bouts": [
+    {
+      "title": "Conor McGregor vs. Max Holloway",
+      "items": [
+        { "fight_news": "The biggest star in UFC history returns as Conor McGregor faces Max Holloway in a highly anticipated welterweight rematch, 13 years after their first meeting." },
+        { "fight_news": "The massive main event narrative centers on whether McGregor's legendary one-punch knockout power can finally crack Holloway's incredible durability and relentless pace." }
+      ]
+    },
+    {
+      "title": "Benoît Saint Denis vs. Paddy Pimblett",
+      "items": [
+        { "fight_news": "A monumental European showdown takes place in the co-main event as gritty French powerhouse Benoît Saint Denis clashes with Liverpool's superstar Paddy Pimblett." },
+        { "fight_news": "Fans expect pure chaos, with Saint Denis looking to firmly establish his contender status against the fan-favorite Pimblett's unpredictable style." }
+      ]
+    },
+    {
+      "title": "Cory Sandhagen vs. Mario Bautista",
+      "items": [
+        { "fight_news": "In a high-stakes bantamweight clash, Cory Sandhagen looks to bounce back into immediate title contention against the red-hot Mario Bautista." },
+        { "fight_news": "Bautista enters the Octagon having won nine of his last ten fights, setting up a beautiful stylistic clash of striking versus grinding pressure." }
+      ]
+    },
+    {
+      "title": "Brandon Royval vs. Lone'er Kavanagh",
+      "items": [
+        { "fight_news": "A classic veteran versus prospect matchup is set as former title challenger Brandon Royval tests the undefeated British sensation Lone'er Kavanagh." },
+        { "fight_news": "The flyweight bout promises high-speed action, contrasting Royval's wild scrambles against Kavanagh's pristine kickboxing." }
+      ]
+    },
+    {
+      "title": "King Green vs. Terrance McKinney",
+      "items": [
+        { "fight_news": "Opening the main card, the battle-tested King Green looks to weather the terrifying early storm of Terrance McKinney." },
+        { "fight_news": "With McKinney boasting 17 first-round finishes, the tension in the arena will be palpable from the very first second of the fight." }
+      ]
+    },
+    {
+      "title": "Robert Whittaker vs. Nikita Krylov",
+      "items": [
+        { "fight_news": "Former middleweight champion Robert Whittaker takes a massive risk by testing the waters at light heavyweight against the dangerous Russian veteran Nikita Krylov." },
+        { "fight_news": "Whittaker's speed and technique will be heavily tested by Krylov's significant size and finishing instincts." }
+      ]
+    },
+    {
+      "title": "Gable Steveson vs. Elisha Ellison",
+      "items": [
+        { "fight_news": "Olympic gold medalist Gable Steveson continues his highly anticipated MMA run in the heavyweight division." },
+        { "fight_news": "Elisha Ellison steps up to face the terrifying grappling pedigree of the decorated prospect in what is sure to be a spectacle." }
+      ]
+    },
+    {
+      "title": "Cody Garbrandt vs. Adrian Yanez",
+      "items": [
+        { "fight_news": "A bantamweight banger guaranteed to deliver, as former champion Cody Garbrandt's lightning-fast hands meet the crisp boxing of Adrian Yanez." },
+        { "fight_news": "Both men are known for their highlight-reel knockouts, making a judges' decision highly unlikely." }
+      ]
+    },
+    {
+      "title": "Luke Riley vs. Kai Kamaka III",
+      "items": [
+        { "fight_news": "Undefeated prospect Luke Riley takes a massive leap in competition against the incredibly durable and experienced Kai Kamaka III." },
+        { "fight_news": "This preliminary bout serves as a crucial litmus test for Riley's potential in the featherweight division." }
+      ]
+    },
+    {
+      "title": "Tracy Cortez vs. Wang Cong",
+      "items": [
+        { "fight_news": "A pivotal women's flyweight bout sees Tracy Cortez looking to impose her grappling will against the highly touted Chinese striking specialist Wang Cong." }
+      ]
+    },
+    {
+      "title": "Damian Pinas vs. Cesar Almeida",
+      "items": [
+        { "fight_news": "Middleweight action heats up as the undefeated Damian Pinas looks to solve the high-level striking puzzle presented by Brazilian kickboxer Cesar Almeida." }
+      ]
+    },
+    {
+      "title": "Farid Basharat vs. John Garza",
+      "items": [
+        { "fight_news": "The undefeated Farid Basharat aims to continue his flawless rise through the bantamweight ranks against the hungry and motivated John Garza." }
+      ]
+    },
+    {
+      "title": "Ryan Gandra vs. Zachary Reese",
+      "items": [
+        { "fight_news": "A classic striker clash in the middleweight division features Ryan Gandra attempting to chop down the towering Zachary Reese in an intriguing stylistic matchup." }
+      ]
+    },
+    {
+      "title": "Alessandro Costa vs. Cody Durden",
+      "items": [
+        { "fight_news": "Setting the tone for the night, Alessandro Costa looks to unleash his heavy hands against the gritty, wrestling-heavy style of veteran Cody Durden to open the early prelims." }
+      ]
+    }
+  ]
+}
