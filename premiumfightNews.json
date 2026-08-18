@@ -1,1 +1,201 @@
-
+{
+  "feed_version": 1,
+  "event": "UFC Fight Night: Hernandez vs. Rodrigues",
+  "event_date": "August 22, 2026",
+  "venue": "Golden 1 Center, Sacramento, California",
+  "tier": "premium",
+  "spotlight_image": "/images/hero-fight.jpg",
+  "bouts": [
+    {
+      "title": "Anthony Hernandez vs. Gregory Rodrigues",
+      "items": [
+        {
+          "fight_news": "The most important Hernandez question is whether he can safely enter clinch range without giving Rodrigues the pocket exchanges he needs. Hernandez's pressure works best when opponents retreat in straight lines or accept collar ties. Rodrigues is dangerous because he does not need long combinations to punish entry timing; one clean intercepting shot can reset Hernandez's confidence before the wrestling chain begins."
+        },
+        {
+          "fight_news": "Rodrigues' defensive priority is not simply stopping the first takedown. It is breaking the second and third efforts before Hernandez turns one failed shot into fence control, mat returns, and cumulative fatigue. If Rodrigues is still hand-fighting calmly after two minutes of cage wrestling, that is a major signal that he can keep his power available late."
+        },
+        {
+          "fight_news": "The Strickland loss creates a tactical shadow for Hernandez because it showed how damaging disciplined anti-wrestling and straight punching can be against his pressure. Rodrigues is not Strickland defensively, but he has the power to make each failed entry more expensive. Hernandez needs layered entries rather than naked pressure, especially in round 1."
+        },
+        {
+          "fight_news": "Rodrigues' best win condition may be forcing Hernandez to wrestle from damage instead of from initiative. There is a major difference between Hernandez shooting after dictating pace and Hernandez shooting after eating a hard right hand. The second version invites front-headlock stalls, sprawls, and stand-ups that burn more energy than they bank."
+        },
+        {
+          "fight_news": "In rounds 4 and 5, the fight likely becomes a question of whose attrition is more visible. Hernandez can win ugly if he has already taxed Rodrigues' hips and shoulders, but Rodrigues can steal late moments if Hernandez's entries slow enough for clean counters. Judges may have to choose between control sequences and the heavier isolated damage."
+        }
+      ]
+    },
+    {
+      "title": "Reinier de Ridder vs. Roman Dolidze",
+      "items": [
+        {
+          "fight_news": "De Ridder's move to 205 should improve durability and pacing, but it may also remove the size squeeze that helped him at middleweight. Against Dolidze, the question is whether the added physical comfort produces sharper grappling or simply places him against a naturally sturdier opponent who can deny positions with strength rather than scramble mechanics."
+        },
+        {
+          "fight_news": "Dolidze's light heavyweight history matters tactically because he has shown he can carry clinch strength and top-position balance at this size. De Ridder cannot assume that back takes and body-lock trips will develop the same way they did against drained middleweights. The first over-under exchange should reveal a lot about real division translation."
+        },
+        {
+          "fight_news": "Both fighters are coming off confidence-testing stretches, so defensive decision-making may matter more than aggression. De Ridder can lose this fight by overcommitting to grappling entries from too far out, while Dolidze can lose it by accepting slow clinches that let de Ridder advance position without taking striking risk."
+        },
+        {
+          "fight_news": "If this becomes a low-output positional fight, Dolidze's moments of visible impact could score disproportionately well. De Ridder needs clean positional dominance, not just body contact, because judges tend to undervalue grappling pressure when no damage or near-submission develops from it."
+        }
+      ]
+    },
+    {
+      "title": "Serghei Spivac vs. Vitor Petrino",
+      "items": [
+        {
+          "fight_news": "Spivac's path depends on making Petrino defend weight before he can plant and punch. Single entries in open space are risky against Petrino's athletic burst, but clinch-to-trip sequences along the fence can force Petrino into a slower fight where each stand-up costs him meaningful energy."
+        },
+        {
+          "fight_news": "Petrino's takedown defense has to be proactive rather than reactive. If he waits until Spivac is already connected at the hips, the exchange becomes a heavyweight strength drain. His cleanest route is lateral exits after the first contact, then immediate punishment before Spivac can reset into another clinch."
+        },
+        {
+          "fight_news": "The danger for Spivac is that heavyweight grapplers sometimes accept damage as the tax for closing distance. That is a bad bargain here if Petrino lands early enough to discourage follow-up shots. Spivac needs low-risk entries and layered pressure, not heroic level changes through the center."
+        }
+      ]
+    },
+    {
+      "title": "Kennedy Nzechukwu vs. Shamil Gaziev",
+      "items": [
+        {
+          "fight_news": "Nzechukwu's length is only useful if he keeps the fight at a range where Gaziev has to reset his feet. If Nzechukwu backs himself to the fence, his reach becomes less of a weapon and more of a lever for Gaziev to crowd, clinch, and force heavy exchanges."
+        },
+        {
+          "fight_news": "Gaziev's best tactical read is body language after the first failed rush. If he accepts a reset and builds behind feints, he can close distance intelligently. If he chases in straight lines, Nzechukwu has the kind of intercepting offense that can make a physically strong heavyweight look suddenly predictable."
+        },
+        {
+          "fight_news": "Cardio could become the hidden swing factor because both men carry heavyweight finishing intent, but neither wants to be forced into a high-volume kickboxing match. The fighter who loses the first round without a knockdown may have to choose between patient recovery and desperate escalation."
+        }
+      ]
+    },
+    {
+      "title": "MarQuel Mederos vs. Mason Jones",
+      "items": [
+        {
+          "fight_news": "Mederos needs to avoid being drawn into Jones' preferred tempo. Jones is at his best when he turns clean opponents into high-volume participants, because exchanges that start tactical often become attritional. Mederos' first job is to keep his exits clean after landing rather than admiring single shots."
+        },
+        {
+          "fight_news": "Jones' wrestling threat can function even without extended top control. If he forces Mederos to defend level changes, Mederos' boxing rhythm becomes less settled and his counters lose some timing. Watch whether Mederos is punching freely or constantly bracing for clinch entries."
+        },
+        {
+          "fight_news": "This could be decided by optics as much as clean damage. Jones' pace can make rounds look busy, while Mederos may land the sharper individual shots. In a close decision, cage positioning and visible forward pressure may become the difference between perceived control and actual efficiency."
+        }
+      ]
+    },
+    {
+      "title": "Carli Judice vs. Jeisla Chaves",
+      "items": [
+        {
+          "fight_news": "Judice's output creates a scoring floor, but it also gives opponents exchange windows if she exits on predictable lines. Chaves does not need to match volume punch for punch if she can make Judice pay at the end of combinations and reduce the clean optics of Judice's activity."
+        },
+        {
+          "fight_news": "The premium read on Chaves is defensive composure under UFC pace. Unbeaten prospects often look polished until the first opponent refuses to reset at regional rhythm. If Chaves keeps her guard structure and footwork intact after Judice's first extended burst, the upset probability rises."
+        },
+        {
+          "fight_news": "Judice's takedown choices should be selective. Wrestling for variety can help her bank rounds, but reactive shots after messy exchanges could invite scrambles that make Chaves more comfortable. The better version of Judice uses level changes to punctuate pressure rather than escape it."
+        }
+      ]
+    },
+    {
+      "title": "Anthony Wint vs. Terrance Chatman",
+      "items": [
+        {
+          "fight_news": "Wint's football background and fast Contender Series finish point toward burst athleticism, but the deeper variable is how he handles resistance after the first explosion. Heavyweight prospects who are used to early success can become less efficient once an opponent survives the opening power phase."
+        },
+        {
+          "fight_news": "Chatman's leg-kick finishing note is more than trivia because low kicks are one of the simplest ways to interrupt a power athlete's launch mechanics. If he attacks Wint's lead leg early, he can take some urgency out of Wint's entries and make the fight less about pure hand speed."
+        },
+        {
+          "fight_news": "Nine days' notice changes the defensive layer of this fight more than the offensive one. Power travels with short preparation, but clinch habits, cage exits, and panic responses are harder to sharpen quickly. That tilts the matchup toward whoever has the calmer first defensive sequence."
+        }
+      ]
+    },
+    {
+      "title": "Jamall Emmers vs. Lerryan Douglas",
+      "items": [
+        {
+          "fight_news": "Emmers' best veteran tactic is to make Douglas work through feints before committing. Fighters with finishing confidence can become less dangerous when they are forced to show entries repeatedly without getting the exchange they want. Emmers should be testing reactions before giving Douglas clean counters."
+        },
+        {
+          "fight_news": "Douglas' finishing upside depends on whether he can hurt Emmers without overextending. Emmers has seen enough UFC-level looks to capitalize on rushed offense, so Douglas needs layered pressure rather than highlight-hunting. The first missed power shot may reveal whether he can stay disciplined."
+        },
+        {
+          "fight_news": "Featherweight judging often rewards clean moments because the pace can blur extended exchanges. If Douglas lands the louder shots but Emmers manages more minutes, this could become a classic damage-versus-control scorecard."
+        }
+      ]
+    },
+    {
+      "title": "Nasrat Haqparast vs. Chris Padilla",
+      "items": [
+        {
+          "fight_news": "Haqparast's boxing base gives him a reliable way to manage exchanges, but his risk is becoming too linear. Padilla's chance improves if he can angle off after drawing the left hand and force Haqparast to reset instead of marching forward behind familiar combinations."
+        },
+        {
+          "fight_news": "Padilla should be looking for momentum pockets rather than trying to out-veteran Haqparast minute by minute. A fast start, body work, or clinch interruptions could prevent Haqparast from settling into the kind of measured three-round boxing match he usually understands well."
+        },
+        {
+          "fight_news": "The decisive read may be who wins the space just outside boxing range. If Haqparast is stepping in on his own terms, he can bank rounds cleanly. If Padilla is forcing entries through kicks, clinches, or counters, the veteran advantage becomes much less comfortable."
+        }
+      ]
+    },
+    {
+      "title": "Marcio Barbosa vs. Ryan Kuse",
+      "items": [
+        {
+          "fight_news": "The limited public data makes this a live-read fight. Instead of leaning too hard on records, the smarter premium angle is stance discipline, first-contact reactions, and how each fighter responds when their initial speed or power does not immediately create separation."
+        },
+        {
+          "fight_news": "Barbosa's route should be to establish one clear layer early, whether that is pressure, kicking range, or clinch control. In lower-information matchups, the fighter who defines the first repeatable phase often forces the opponent into reactive decisions before their corner can diagnose the pattern."
+        },
+        {
+          "fight_news": "Kuse's best chance may be making this chaotic before Barbosa has enough reads. Clean technical fights favor the side with better preparation visibility, while sudden scrambles and high-pace exchanges can flatten the information gap."
+        }
+      ]
+    },
+    {
+      "title": "Gauge Young vs. Stan Dorsainvil",
+      "items": [
+        {
+          "fight_news": "Young should treat this as a position-first fight, because lightweight prospects can lose momentum by accepting unnecessary 50-50 exchanges. If he controls center and exits safely, he can make Dorsainvil chase instead of letting the underdog create equal moments."
+        },
+        {
+          "fight_news": "Dorsainvil's upset path is tied to disruption. He needs to make Young uncomfortable with pace changes, clinch breaks, or early body work rather than allowing a cleaner skill comparison. A predictable rhythm would make Young's record and confidence feel more relevant."
+        },
+        {
+          "fight_news": "The first round matters because judges and corners will quickly decide whether this is a showcase or a trap fight. If Dorsainvil wins enough early exchanges to create uncertainty, Young may be forced into riskier offense than his side probably wants."
+        }
+      ]
+    },
+    {
+      "title": "Wes Schultz vs. Jackson McVey",
+      "items": [
+        {
+          "fight_news": "Schultz's submission-heavy profile makes his transition timing the key, not just his grappling credentials. If he can blend strikes into body locks, McVey has to defend several threats at once. If Schultz shoots from too far out, McVey gets cleaner chances to punish entries."
+        },
+        {
+          "fight_news": "McVey's finishing mix gives him a real counter to Schultz's control game because he can threaten both strikes and submissions in messy phases. He should not accept bottom position cheaply, but he also does not need to fight scared in scrambles."
+        },
+        {
+          "fight_news": "Middleweight depth fights often swing on gas tank honesty. The fighter who looks stronger in the first clinch is not always the fighter who owns minute twelve. Watch whether Schultz's pressure remains technical or whether McVey starts winning separations as fatigue builds."
+        }
+      ]
+    },
+    {
+      "title": "Shanelle Dyer vs. Elise Reed",
+      "items": [
+        {
+          "fight_news": "Dyer's aggression must be organized enough to avoid Reed's experience traps. Reed has been in enough UFC rounds to recognize when a prospect is forcing offense for optics. If Dyer overcommits after early success, Reed can slow the fight with clinches, counters, and positional resets."
+        },
+        {
+          "fight_news": "Reed's best route is to make Dyer fight through layers rather than meet her in the first exchange. Angles, stance changes, and interruptions after Dyer's combinations can test whether Dyer's pressure is adaptable or simply athletic momentum."
+        },
+        {
+          "fight_news": "The critical scoring dynamic is whether Dyer's forward movement produces clean damage or just visual pressure. Judges will reward aggression if it lands, but Reed can steal rounds if she makes Dyer miss and answers with the cleaner final strike of exchanges."
+        }
+      ]
+    }
+  ]
+}
