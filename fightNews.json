@@ -1,1 +1,180 @@
-
+{
+  "feed_version": 1,
+  "event": "UFC Fight Night: Hernandez vs. Rodrigues",
+  "event_date": "August 22, 2026",
+  "venue": "Golden 1 Center, Sacramento, California",
+  "tier": "free",
+  "spotlight_image": "/images/hero-fight.jpg",
+  "bouts": [
+    {
+      "title": "Anthony Hernandez vs. Gregory Rodrigues",
+      "items": [
+        {
+          "fight_news": "Anthony Hernandez returns in a five-round middleweight main event in Sacramento, close to his Northern California base, after his long winning streak was stopped by Sean Strickland earlier this year. The local setting makes this more than a standard rebound fight. Hernandez is not just trying to regain ranking momentum; he is trying to do it in front of a crowd that should be strongly invested in his comeback."
+        },
+        {
+          "fight_news": "Gregory Rodrigues enters with real momentum after three straight wins, including a first-round knockout of Brunno Ferreira in March. That form makes him a dangerous opponent for a favorite who is coming off a damaging loss. Rodrigues has always carried fight-changing power at middleweight, and his recent run gives this headliner immediate upset tension."
+        },
+        {
+          "fight_news": "The basic style contrast is clear for casual users: Hernandez is the pressure grappler with submission upside, while Rodrigues is the heavier-handed striker with more knockout wins on his record. That kind of contrast usually gives the main event an easy read early, because the first sustained clinch or clean Rodrigues exchange will tell viewers which fighter is controlling the terms."
+        },
+        {
+          "fight_news": "This fight matters because both men sit inside the ranked middleweight picture but arrive from opposite emotional positions. Hernandez needs to prove the Strickland loss did not expose a ceiling, while Rodrigues can turn a fourth straight win into the strongest top-tier argument of his UFC run."
+        },
+        {
+          "fight_news": "The five-round format favors whichever fighter can make the other uncomfortable early. Hernandez has shown he can build pressure over time, but Rodrigues has enough finishing power to change the entire fight before volume and grappling accumulation become decisive."
+        }
+      ]
+    },
+    {
+      "title": "Reinier de Ridder vs. Roman Dolidze",
+      "items": [
+        {
+          "fight_news": "Reinier de Ridder is moving back to light heavyweight after a difficult stretch at middleweight, making this one of the most important reset fights on the card. He entered the UFC with major credentials from ONE Championship, but recent losses slowed his rise. Sacramento gives him a cleaner physical frame and a fresh divisional lane."
+        },
+        {
+          "fight_news": "Roman Dolidze is also trying to stop a two-fight slide, so this matchup pairs two ranked-level names looking for a new direction at 205 pounds. Dolidze has already won in the UFC at light heavyweight before, which gives him a practical proof point in the division that de Ridder still has to reestablish under UFC conditions."
+        },
+        {
+          "fight_news": "This is the card's most obvious co-main-level technical story even if bout order shifts. Both fighters have credible grappling, both have been through ranked middleweight fights, and both are treating light heavyweight as an answer to recent career friction."
+        }
+      ]
+    },
+    {
+      "title": "Serghei Spivac vs. Vitor Petrino",
+      "items": [
+        {
+          "fight_news": "Serghei Spivac enters as the established heavyweight name and the ranked fighter in this pairing. His UFC identity is built around grappling, top pressure, and making bigger athletes fight from uncomfortable positions. Against a physical opponent like Vitor Petrino, Spivac's experience in ugly heavyweight rounds is one of the clearest advantages on the card."
+        },
+        {
+          "fight_news": "Vitor Petrino brings a strong record and real athletic upside into his heavyweight opportunity. He is still building the kind of resume Spivac already owns, but his power and explosiveness make this a meaningful test of whether his tools translate upward against a veteran who knows how to drain opponents."
+        },
+        {
+          "fight_news": "Heavyweight fights with a grappler-versus-athlete shape can change quickly. If Petrino lands early, he can make the rankings conversation move fast. If Spivac turns the fight into clinches and mat returns, the experience gap becomes much harder for Petrino to hide."
+        }
+      ]
+    },
+    {
+      "title": "Kennedy Nzechukwu vs. Shamil Gaziev",
+      "items": [
+        {
+          "fight_news": "Kennedy Nzechukwu and Shamil Gaziev give the card a second heavyweight matchup with a very different feel. Nzechukwu is the longer, more rangy athlete, while Gaziev has built his career around heavier pressure and finishing instincts. The winner gets a valuable bounce in a division where one impressive stoppage can shift matchmaking quickly."
+        },
+        {
+          "fight_news": "Gaziev's record and finishing profile keep him dangerous even when fights become messy. Nzechukwu's experience across multiple UFC weight classes gives him a broader problem-solving base, but heavyweight rewards immediate damage more than long technical arguments. That makes this a high-variance fight even before the first exchange."
+        }
+      ]
+    },
+    {
+      "title": "MarQuel Mederos vs. Mason Jones",
+      "items": [
+        {
+          "fight_news": "MarQuel Mederos enters this lightweight fight with a strong overall record and an unbeaten-looking UFC run that has kept him moving forward. Mason Jones is the more internationally established name, with a deeper professional resume and a reputation for pace. This is a classic prospect-versus-tested-action-fighter booking."
+        },
+        {
+          "fight_news": "Jones has been in higher-volume fights and tends to force opponents into sustained exchanges. Mederos has the chance to show that his early UFC form is not just about matchmaking, but about being ready for a fighter who can make every minute physically expensive."
+        },
+        {
+          "fight_news": "Lightweight depth makes this bout more important than its placement might suggest. A clean win for Mederos keeps him in the rising-prospect lane, while a Jones win would reassert him as a difficult out for the division's next wave."
+        }
+      ]
+    },
+    {
+      "title": "Carli Judice vs. Jeisla Chaves",
+      "items": [
+        {
+          "fight_news": "Carli Judice has quickly become one of the more watchable action fighters on this card because of her output and finishing record. She has already produced memorable UFC moments and brings a fan-friendly striking style that should translate well in a lively arena."
+        },
+        {
+          "fight_news": "Jeisla Chaves arrives unbeaten, which creates the clean prospect test around this matchup. Undefeated fighters often carry confidence and momentum, but Judice is the more visible UFC product and has already shown she can handle the speed and pressure of the promotion."
+        },
+        {
+          "fight_news": "This fight has strong momentum stakes for the women's divisions. Judice can turn another win into a bigger push, while Chaves can instantly validate her record by beating a more familiar name on a major Fight Night card."
+        }
+      ]
+    },
+    {
+      "title": "Anthony Wint vs. Terrance Chatman",
+      "items": [
+        {
+          "fight_news": "Anthony Wint is making an unusually fast turnaround after earning a UFC opportunity through Dana White's Contender Series. He won in just 34 seconds and immediately pushed for another fight, which gives this debut a rare same-month momentum story."
+        },
+        {
+          "fight_news": "Terrance Chatman is also entering as a newcomer, making this heavyweight bout a debut-versus-debut test under bright lights. Chatman brings his own finishing profile, so the fight is less about one prospect being showcased and more about which athlete handles the UFC jump with fewer mistakes."
+        },
+        {
+          "fight_news": "Short-notice heavyweight debuts are naturally volatile. Both fighters have reasons to feel dangerous, but neither has had a normal UFC fight-week runway, which makes the opening minute one of the more interesting reads on the entire card."
+        }
+      ]
+    },
+    {
+      "title": "Jamall Emmers vs. Lerryan Douglas",
+      "items": [
+        {
+          "fight_news": "Jamall Emmers is the veteran featherweight in this matchup and brings the kind of UFC-level experience that can complicate a younger or less familiar opponent's rhythm. His record reflects a long career against solid competition, which matters in a division where speed and decision margins are often tight."
+        },
+        {
+          "fight_news": "Lerryan Douglas enters with a strong finishing reputation and the chance to make a sharper impression against a recognizable opponent. Beating Emmers would be a useful signal that Douglas can carry his offensive game into deeper UFC-level waters."
+        }
+      ]
+    },
+    {
+      "title": "Nasrat Haqparast vs. Chris Padilla",
+      "items": [
+        {
+          "fight_news": "Nasrat Haqparast is the established lightweight name here and has spent years fighting credible UFC opposition. That experience gives him a clear recognition edge over Chris Padilla, especially in a matchup where pace, boxing exchanges, and pocket discipline are likely to matter."
+        },
+        {
+          "fight_news": "Padilla enters with a sturdy record and a chance to turn a veteran matchup into a breakout moment. Haqparast has more name value, but that also makes him the exact kind of opponent who can elevate Padilla if the underdog wins cleanly."
+        }
+      ]
+    },
+    {
+      "title": "Marcio Barbosa vs. Ryan Kuse",
+      "items": [
+        {
+          "fight_news": "Marcio Barbosa and Ryan Kuse sit in the part of the card where name recognition is lower but opportunity is high. These fights often matter because one decisive finish can move a newcomer or fringe roster fighter into much better matchmaking."
+        },
+        {
+          "fight_news": "With less public UFC footage available compared with the ranked fights, this matchup carries more uncertainty for casual prediction. That does not make it less useful; it means early composure, defensive reactions, and corner instructions may reveal more than pre-fight narratives."
+        }
+      ]
+    },
+    {
+      "title": "Gauge Young vs. Stan Dorsainvil",
+      "items": [
+        {
+          "fight_news": "Gauge Young brings the stronger public record into this lightweight matchup and has an opportunity to separate himself on a card with several lightweight storylines. A composed win would help him avoid being lost beneath the higher-profile names in the division."
+        },
+        {
+          "fight_news": "Stan Dorsainvil gets a valuable UFC platform against an opponent with more visible momentum. For fighters in this slot, the difference between a competitive showing and a clear win can be enormous because matchmaking options open quickly at lightweight."
+        }
+      ]
+    },
+    {
+      "title": "Wes Schultz vs. Jackson McVey",
+      "items": [
+        {
+          "fight_news": "Wes Schultz and Jackson McVey meet in a middleweight bout between fighters still defining their UFC ceilings. Schultz has the stronger overall record, while McVey has enough finishing ability to keep the matchup from becoming a simple experience test."
+        },
+        {
+          "fight_news": "This is a developmental fight with real roster stakes. The winner can argue for a step forward against more proven middleweights, while the loser risks being treated as depth in a division that constantly filters prospects through physical, high-output matchups."
+        }
+      ]
+    },
+    {
+      "title": "Shanelle Dyer vs. Elise Reed",
+      "items": [
+        {
+          "fight_news": "Shanelle Dyer enters with a strong record and a nickname-backed reputation for aggression. She is still early in her UFC story, but this is the kind of fight where a prospect can move from curiosity to serious watch-list status."
+        },
+        {
+          "fight_news": "Elise Reed is the more familiar UFC name and has shared the cage with a wider range of opponents. That experience matters against a fighter like Dyer, because prospects often look different once their first plan is denied for multiple rounds."
+        },
+        {
+          "fight_news": "The matchup gives the card a useful veteran-prospect contrast. Dyer has more momentum, Reed has more UFC context, and that makes the first round important for judging whether potential or experience is setting the terms."
+        }
+      ]
+    }
+  ]
+}
