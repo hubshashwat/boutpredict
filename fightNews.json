@@ -1,178 +1,178 @@
 {
   "feed_version": 1,
-  "event": "UFC Fight Night: Hernandez vs. Rodrigues",
-  "event_date": "August 22, 2026",
-  "venue": "Golden 1 Center, Sacramento, California",
+  "event": "UFC Fight Night: Nurmagomedov vs. Song",
+  "event_date": "August 29, 2026",
+  "venue": "Shanghai Oriental Sports Center, Shanghai, China",
   "tier": "free",
   "spotlight_image": "/images/hero-fight.jpg",
   "bouts": [
     {
-      "title": "Anthony Hernandez vs. Gregory Rodrigues",
+      "title": "Umar Nurmagomedov vs. Song Yadong",
       "items": [
         {
-          "fight_news": "Anthony Hernandez returns in a five-round middleweight main event in Sacramento, close to his Northern California base, after his long winning streak was stopped by Sean Strickland earlier this year. The local setting makes this more than a standard rebound fight. Hernandez is not just trying to regain ranking momentum; he is trying to do it in front of a crowd that should be strongly invested in his comeback."
+          "fight_news": "Umar Nurmagomedov headlines in a five-round bantamweight main event with a 20-1 record and one of the division's strongest control games. His only loss came in top-tier company, so this booking works as a fast test of whether he can reassert title-contender status without taking a softer reset fight."
         },
         {
-          "fight_news": "Gregory Rodrigues enters with real momentum after three straight wins, including a first-round knockout of Brunno Ferreira in March. That form makes him a dangerous opponent for a favorite who is coming off a damaging loss. Rodrigues has always carried fight-changing power at middleweight, and his recent run gives this headliner immediate upset tension."
+          "fight_news": "Song Yadong gets a home-country main event in Shanghai with a 23-9-1 record and years of UFC experience against ranked bantamweights. The crowd angle is real here: Song is not just protecting his place in the division, he is carrying the card's biggest local spotlight."
         },
         {
-          "fight_news": "The basic style contrast is clear for casual users: Hernandez is the pressure grappler with submission upside, while Rodrigues is the heavier-handed striker with more knockout wins on his record. That kind of contrast usually gives the main event an easy read early, because the first sustained clinch or clean Rodrigues exchange will tell viewers which fighter is controlling the terms."
+          "fight_news": "The broad public read is grappling pressure against fast boxing. Nurmagomedov is expected to threaten level changes and positional control, while Song's clearest appeal is speed, power, and the ability to turn one clean exchange into momentum in front of a favorable crowd."
         },
         {
-          "fight_news": "This fight matters because both men sit inside the ranked middleweight picture but arrive from opposite emotional positions. Hernandez needs to prove the Strickland loss did not expose a ceiling, while Rodrigues can turn a fourth straight win into the strongest top-tier argument of his UFC run."
-        },
-        {
-          "fight_news": "The five-round format favors whichever fighter can make the other uncomfortable early. Hernandez has shown he can build pressure over time, but Rodrigues has enough finishing power to change the entire fight before volume and grappling accumulation become decisive."
+          "fight_news": "Five rounds make this more than a simple style clash. Song has to manage long stretches where defending takedowns can cost energy even when he stays upright, while Nurmagomedov has to prove he can keep winning minutes if the first few entries meet real resistance."
         }
       ]
     },
     {
-      "title": "Reinier de Ridder vs. Roman Dolidze",
+      "title": "Yan Xiaonan vs. Denise Gomes",
       "items": [
         {
-          "fight_news": "Reinier de Ridder is moving back to light heavyweight after a difficult stretch at middleweight, making this one of the most important reset fights on the card. He entered the UFC with major credentials from ONE Championship, but recent losses slowed his rise. Sacramento gives him a cleaner physical frame and a fresh divisional lane."
+          "fight_news": "Yan Xiaonan enters the co-feature slot as the established Chinese strawweight name at 19-5. Her presence gives the Shanghai card a second major local hook, and a win would keep her visible in a division where a familiar contender can move quickly with one strong performance."
         },
         {
-          "fight_news": "Roman Dolidze is also trying to stop a two-fight slide, so this matchup pairs two ranked-level names looking for a new direction at 205 pounds. Dolidze has already won in the UFC at light heavyweight before, which gives him a practical proof point in the division that de Ridder still has to reestablish under UFC conditions."
+          "fight_news": "Denise Gomes brings a 12-3 record and a more compact, aggressive style profile into a difficult road assignment. She is the less locally celebrated fighter, but her pressure and willingness to exchange make her a dangerous opponent for a cleaner technician."
         },
         {
-          "fight_news": "This is the card's most obvious co-main-level technical story even if bout order shifts. Both fighters have credible grappling, both have been through ranked middleweight fights, and both are treating light heavyweight as an answer to recent career friction."
+          "fight_news": "For public users, the story is experience and home support against physical urgency. Yan has seen longer elite-level fights, while Gomes can change the feel of the bout if she forces messy pocket exchanges before Yan settles into range."
         }
       ]
     },
     {
-      "title": "Serghei Spivac vs. Vitor Petrino",
+      "title": "Aoriqileng vs. Kai Asakura",
       "items": [
         {
-          "fight_news": "Serghei Spivac enters as the established heavyweight name and the ranked fighter in this pairing. His UFC identity is built around grappling, top pressure, and making bigger athletes fight from uncomfortable positions. Against a physical opponent like Vitor Petrino, Spivac's experience in ugly heavyweight rounds is one of the clearest advantages on the card."
+          "fight_news": "Aoriqileng carries a 26-13 record into a bantamweight main-card fight that should draw local interest. He has been a familiar action fighter for UFC audiences, and this setting gives him a chance to turn crowd energy into a notable late-career moment."
         },
         {
-          "fight_news": "Vitor Petrino brings a strong record and real athletic upside into his heavyweight opportunity. He is still building the kind of resume Spivac already owns, but his power and explosiveness make this a meaningful test of whether his tools translate upward against a veteran who knows how to drain opponents."
+          "fight_news": "Kai Asakura enters at 22-6 with major Japanese name value and a reputation for explosive offense. He is not being eased into an anonymous undercard spot; this placement asks whether his power and timing can translate against a tough, experienced opponent."
         },
         {
-          "fight_news": "Heavyweight fights with a grappler-versus-athlete shape can change quickly. If Petrino lands early, he can make the rankings conversation move fast. If Spivac turns the fight into clinches and mat returns, the experience gap becomes much harder for Petrino to hide."
+          "fight_news": "This bout has a simple fan-friendly setup: Aoriqileng is durable and willing to trade, while Asakura is the sharper finisher when exchanges open. That mix makes early momentum important because both men are comfortable in high-contact stretches."
         }
       ]
     },
     {
-      "title": "Kennedy Nzechukwu vs. Shamil Gaziev",
+      "title": "Alex Perez vs. Sumudaerji",
       "items": [
         {
-          "fight_news": "Kennedy Nzechukwu and Shamil Gaziev give the card a second heavyweight matchup with a very different feel. Nzechukwu is the longer, more rangy athlete, while Gaziev has built his career around heavier pressure and finishing instincts. The winner gets a valuable bounce in a division where one impressive stoppage can shift matchmaking quickly."
+          "fight_news": "Alex Perez brings the deeper UFC resume and a 26-10 record into this flyweight main-card matchup. He has spent years near high-level opposition, which gives this fight a veteran-versus-home-region angle rather than a pure prospect test."
         },
         {
-          "fight_news": "Gaziev's record and finishing profile keep him dangerous even when fights become messy. Nzechukwu's experience across multiple UFC weight classes gives him a broader problem-solving base, but heavyweight rewards immediate damage more than long technical arguments. That makes this a high-variance fight even before the first exchange."
+          "fight_news": "Sumudaerji is 19-7 and gives the Shanghai audience another Chinese fighter in a prominent card position. His striking-first reputation makes him an easy fighter for casual users to track, especially if he can keep the fight in open space."
+        },
+        {
+          "fight_news": "The basic stakes are divisional relevance and style control. Perez has more proven wrestling and all-around experience, while Sumudaerji's best public-facing route is distance striking and making the fight feel like a kickboxing match."
         }
       ]
     },
     {
-      "title": "MarQuel Mederos vs. Mason Jones",
+      "title": "Ce Liu vs. Junior Tafa",
       "items": [
         {
-          "fight_news": "MarQuel Mederos enters this lightweight fight with a strong overall record and an unbeaten-looking UFC run that has kept him moving forward. Mason Jones is the more internationally established name, with a deeper professional resume and a reputation for pace. This is a classic prospect-versus-tested-action-fighter booking."
+          "fight_news": "Ce Liu is listed at 3-1 in a light heavyweight main-card matchup, giving him a fast visibility jump on a China-based UFC card. That kind of placement can accelerate a fighter's profile quickly if he looks composed under the bigger broadcast spotlight."
         },
         {
-          "fight_news": "Jones has been in higher-volume fights and tends to force opponents into sustained exchanges. Mederos has the chance to show that his early UFC form is not just about matchmaking, but about being ready for a fighter who can make every minute physically expensive."
+          "fight_news": "Junior Tafa enters at 7-6 and is the more familiar UFC name to many viewers because of his heavyweight and light heavyweight appearances. His record is uneven, but his power and willingness to engage make him dangerous against a less tested opponent."
         },
         {
-          "fight_news": "Lightweight depth makes this bout more important than its placement might suggest. A clean win for Mederos keeps him in the rising-prospect lane, while a Jones win would reassert him as a difficult out for the division's next wave."
+          "fight_news": "This is a placement-driven opportunity for Liu and a reset chance for Tafa. The public angle is straightforward: Liu gets the local-stage upside, while Tafa brings known finishing threat and experience in bigger athletes' exchanges."
         }
       ]
     },
     {
-      "title": "Carli Judice vs. Jeisla Chaves",
+      "title": "Bilal Hasan vs. Nilson Rojas",
       "items": [
         {
-          "fight_news": "Carli Judice has quickly become one of the more watchable action fighters on this card because of her output and finishing record. She has already produced memorable UFC moments and brings a fan-friendly striking style that should translate well in a lively arena."
+          "fight_news": "Bilal Hasan and Nilson Rojas are both listed at 9-0, making this flyweight bout one of the cleanest undefeated-versus-undefeated fights on the card. Even without major name recognition, that record pairing gives users an easy reason to watch closely."
         },
         {
-          "fight_news": "Jeisla Chaves arrives unbeaten, which creates the clean prospect test around this matchup. Undefeated fighters often carry confidence and momentum, but Judice is the more visible UFC product and has already shown she can handle the speed and pressure of the promotion."
+          "fight_news": "Hasan represents Indonesia and Rojas represents Chile, adding an international prospect angle to the main card. For a lower-weight fight in this slot, a clear win can matter because flyweight often rewards fighters who immediately show pace, confidence, and finishing ambition."
         },
         {
-          "fight_news": "This fight has strong momentum stakes for the women's divisions. Judice can turn another win into a bigger push, while Chaves can instantly validate her record by beating a more familiar name on a major Fight Night card."
+          "fight_news": "The matchup carries natural uncertainty because neither fighter has a loss on the public ledger. The first round should tell casual viewers who is more comfortable when the opponent does not back down from an unbeaten record."
         }
       ]
     },
     {
-      "title": "Anthony Wint vs. Terrance Chatman",
+      "title": "Namsrai Batbayar vs. Andre Lima",
       "items": [
         {
-          "fight_news": "Anthony Wint is making an unusually fast turnaround after earning a UFC opportunity through Dana White's Contender Series. He won in just 34 seconds and immediately pushed for another fight, which gives this debut a rare same-month momentum story."
+          "fight_news": "Namsrai Batbayar opens the ESPN-listed prelim slate at 9-1 against a strong flyweight opponent. His Mongolian flag and record give this fight regional interest on an Asia card, especially because a win over Andre Lima would be a meaningful resume step."
         },
         {
-          "fight_news": "Terrance Chatman is also entering as a newcomer, making this heavyweight bout a debut-versus-debut test under bright lights. Chatman brings his own finishing profile, so the fight is less about one prospect being showcased and more about which athlete handles the UFC jump with fewer mistakes."
+          "fight_news": "Andre Lima is 11-1 and has already built a reputation as a powerful flyweight. He enters as the more familiar name to many UFC viewers, and his ability to make small-weight-class fights feel physically damaging is the obvious public hook."
         },
         {
-          "fight_news": "Short-notice heavyweight debuts are naturally volatile. Both fighters have reasons to feel dangerous, but neither has had a normal UFC fight-week runway, which makes the opening minute one of the more interesting reads on the entire card."
+          "fight_news": "This is one of the better prelim fights for prediction users because both fighters have strong records and clear forward momentum. The winner can leave Shanghai with a much stronger argument for a more visible flyweight assignment."
         }
       ]
     },
     {
-      "title": "Jamall Emmers vs. Lerryan Douglas",
+      "title": "Rei Tsuruya vs. Kevin Borjas",
       "items": [
         {
-          "fight_news": "Jamall Emmers is the veteran featherweight in this matchup and brings the kind of UFC-level experience that can complicate a younger or less familiar opponent's rhythm. His record reflects a long career against solid competition, which matters in a division where speed and decision margins are often tight."
+          "fight_news": "Rei Tsuruya comes in at 11-1 and remains one of Japan's notable flyweight names on this card. His placement on the prelims keeps the pressure lower than a main-card slot, but the regional spotlight still makes this an important performance window."
         },
         {
-          "fight_news": "Lerryan Douglas enters with a strong finishing reputation and the chance to make a sharper impression against a recognizable opponent. Beating Emmers would be a useful signal that Douglas can carry his offensive game into deeper UFC-level waters."
+          "fight_news": "Kevin Borjas is 11-5 and gives Tsuruya an opponent with enough experience to make the fight more than a showcase. Borjas has been around high-level flyweight matchups, so his value here is making Tsuruya prove control rather than just promise."
         }
       ]
     },
     {
-      "title": "Nasrat Haqparast vs. Chris Padilla",
+      "title": "Jack Jenkins vs. Sean Woodson",
       "items": [
         {
-          "fight_news": "Nasrat Haqparast is the established lightweight name here and has spent years fighting credible UFC opposition. That experience gives him a clear recognition edge over Chris Padilla, especially in a matchup where pace, boxing exchanges, and pocket discipline are likely to matter."
+          "fight_news": "Jack Jenkins brings a 14-4 record into a featherweight prelim against one of the longest frames in the division. He has already been through UFC-level tempo, and this matchup gives him a chance to rebuild momentum against a recognizable opponent."
         },
         {
-          "fight_news": "Padilla enters with a sturdy record and a chance to turn a veteran matchup into a breakout moment. Haqparast has more name value, but that also makes him the exact kind of opponent who can elevate Padilla if the underdog wins cleanly."
+          "fight_news": "Sean Woodson is 13-2-1 and remains a difficult style assignment because of his height, reach, and volume at featherweight. The public story is whether Jenkins can get inside often enough or whether Woodson keeps the fight at his preferred long range."
         }
       ]
     },
     {
-      "title": "Marcio Barbosa vs. Ryan Kuse",
+      "title": "Xiao Long vs. Francesco Nuzzi",
       "items": [
         {
-          "fight_news": "Marcio Barbosa and Ryan Kuse sit in the part of the card where name recognition is lower but opportunity is high. These fights often matter because one decisive finish can move a newcomer or fringe roster fighter into much better matchmaking."
+          "fight_news": "Xiao Long enters at 27-11 and adds another Chinese fighter to the Shanghai prelims. His experience level is high for this part of the card, which makes the bout useful for users who value record depth over prospect shine."
         },
         {
-          "fight_news": "With less public UFC footage available compared with the ranked fights, this matchup carries more uncertainty for casual prediction. That does not make it less useful; it means early composure, defensive reactions, and corner instructions may reveal more than pre-fight narratives."
+          "fight_news": "Francesco Nuzzi is listed at 11-2 and brings Italy into the bantamweight matchup. The fight has a classic road-underdog feel: Nuzzi needs to show that his cleaner record can travel against a veteran with local crowd support."
         }
       ]
     },
     {
-      "title": "Gauge Young vs. Stan Dorsainvil",
+      "title": "Lawrence Lui vs. Hector Santiago",
       "items": [
         {
-          "fight_news": "Gauge Young brings the stronger public record into this lightweight matchup and has an opportunity to separate himself on a card with several lightweight storylines. A composed win would help him avoid being lost beneath the higher-profile names in the division."
+          "fight_news": "Lawrence Lui is 8-1 and gets a bantamweight prelim slot representing New Zealand. This is the kind of fight where a young record can gain value quickly, because a composed UFC-card win matters more than raw numbers alone."
         },
         {
-          "fight_news": "Stan Dorsainvil gets a valuable UFC platform against an opponent with more visible momentum. For fighters in this slot, the difference between a competitive showing and a clear win can be enormous because matchmaking options open quickly at lightweight."
+          "fight_news": "Hector Santiago enters at 6-1 from Brazil, giving the fight a prospect-versus-prospect shape. With both fighters carrying only one listed loss, the result should tell users more about readiness than name value."
         }
       ]
     },
     {
-      "title": "Wes Schultz vs. Jackson McVey",
+      "title": "Jingnan Xiong vs. Julia Polastri",
       "items": [
         {
-          "fight_news": "Wes Schultz and Jackson McVey meet in a middleweight bout between fighters still defining their UFC ceilings. Schultz has the stronger overall record, while McVey has enough finishing ability to keep the matchup from becoming a simple experience test."
+          "fight_news": "Jingnan Xiong is listed at 19-3 and brings major Chinese combat-sports recognition to the UFC strawweight prelims. Even lower on the bout order, her name gives the card a significant local-interest piece beyond the headliner."
         },
         {
-          "fight_news": "This is a developmental fight with real roster stakes. The winner can argue for a step forward against more proven middleweights, while the loser risks being treated as depth in a division that constantly filters prospects through physical, high-output matchups."
+          "fight_news": "Julia Polastri is 14-6 and has the role of experienced spoiler against a highly recognizable opponent. The public angle is clear: Polastri can disrupt a local showcase if she turns the fight into a hard, practical three-round test."
+        },
+        {
+          "fight_news": "This fight matters for more than placement because Xiong's broader reputation can create immediate expectations. A strong UFC performance in Shanghai would make her a much easier athlete for casual users to track going forward."
         }
       ]
     },
     {
-      "title": "Shanelle Dyer vs. Elise Reed",
+      "title": "Ding Meng vs. Cameron Nelson",
       "items": [
         {
-          "fight_news": "Shanelle Dyer enters with a strong record and a nickname-backed reputation for aggression. She is still early in her UFC story, but this is the kind of fight where a prospect can move from curiosity to serious watch-list status."
+          "fight_news": "Ding Meng is listed with a 35-10 record, the deepest pro ledger on the card by total fights. That experience gives the welterweight prelim a veteran angle, especially on a China-hosted event where his name can still stand out early."
         },
         {
-          "fight_news": "Elise Reed is the more familiar UFC name and has shared the cage with a wider range of opponents. That experience matters against a fighter like Dyer, because prospects often look different once their first plan is denied for multiple rounds."
-        },
-        {
-          "fight_news": "The matchup gives the card a useful veteran-prospect contrast. Dyer has more momentum, Reed has more UFC context, and that makes the first round important for judging whether potential or experience is setting the terms."
+          "fight_news": "Cameron Nelson enters at 7-1 and brings a much shorter but cleaner record. The public-facing read is volume of experience against fresher upside, a contrast that often makes early composure the first thing to watch."
         }
       ]
     }
