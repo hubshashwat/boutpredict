@@ -1,178 +1,195 @@
 {
   "feed_version": 1,
-  "event": "UFC Fight Night: Nurmagomedov vs. Song",
-  "event_date": "August 29, 2026",
-  "venue": "Shanghai Oriental Sports Center, Shanghai, China",
+  "event": "UFC Fight Night: Hooker vs. Parnasse",
+  "event_date": "September 5, 2026",
+  "venue": "Accor Arena, Paris, France",
   "tier": "free",
   "spotlight_image": "/images/hero-fight.jpg",
   "bouts": [
     {
-      "title": "Umar Nurmagomedov vs. Song Yadong",
+      "title": "Dan Hooker vs. Salahdine Parnasse",
       "items": [
         {
-          "fight_news": "Umar Nurmagomedov headlines in a five-round bantamweight main event with a 20-1 record and one of the division's strongest control games. His only loss came in top-tier company, so this booking works as a fast test of whether he can reassert title-contender status without taking a softer reset fight."
+          "fight_news": "Dan Hooker headlines UFC Paris as the ranked lightweight name on the card, bringing a 24-14 record and years of UFC experience against elite opposition. The public stakes are clear: he is being asked to defend his top-10 visibility against a newcomer whose reputation was built outside the Octagon."
         },
         {
-          "fight_news": "Song Yadong gets a home-country main event in Shanghai with a 23-9-1 record and years of UFC experience against ranked bantamweights. The crowd angle is real here: Song is not just protecting his place in the division, he is carrying the card's biggest local spotlight."
+          "fight_news": "Salahdine Parnasse enters his UFC debut at 23-2 with a major French spotlight behind him. A main-event debut is an unusually direct test, and a win over Hooker would immediately move him from high-profile signing to live lightweight contender in front of a home-region crowd."
         },
         {
-          "fight_news": "The broad public read is grappling pressure against fast boxing. Nurmagomedov is expected to threaten level changes and positional control, while Song's clearest appeal is speed, power, and the ability to turn one clean exchange into momentum in front of a favorable crowd."
+          "fight_news": "This is a veteran-versus-arrival fight more than a normal rankings matchup. Hooker has the UFC mileage, five-round familiarity, and bigger-name schedule, while Parnasse brings momentum, youth, and the pressure of validating his non-UFC resume on the biggest stage of his career."
         },
         {
-          "fight_news": "Five rounds make this more than a simple style clash. Song has to manage long stretches where defending takedowns can cost energy even when he stays upright, while Nurmagomedov has to prove he can keep winning minutes if the first few entries meet real resistance."
+          "fight_news": "The Paris setting matters because Parnasse will likely receive the louder arena reaction, but Hooker has spent much of his UFC run in hostile or high-pressure fights. For users scanning the matchup, the question is whether proven UFC experience can slow a debuting fighter with major local energy."
         }
       ]
     },
     {
-      "title": "Yan Xiaonan vs. Denise Gomes",
+      "title": "Fares Ziam vs. Axel Sola",
       "items": [
         {
-          "fight_news": "Yan Xiaonan enters the co-feature slot as the established Chinese strawweight name at 19-5. Her presence gives the Shanghai card a second major local hook, and a win would keep her visible in a division where a familiar contender can move quickly with one strong performance."
+          "fight_news": "Fares Ziam gets a prominent lightweight slot on the Paris main card with an 18-5 record and a chance to convert another France appearance into a cleaner step forward. His UFC familiarity gives the bout an established-local angle rather than a pure prospect showcase."
         },
         {
-          "fight_news": "Denise Gomes brings a 12-3 record and a more compact, aggressive style profile into a difficult road assignment. She is the less locally celebrated fighter, but her pressure and willingness to exchange make her a dangerous opponent for a cleaner technician."
+          "fight_news": "Axel Sola is listed at 12-1-1 and meets Ziam in an all-French lightweight matchup. That makes the fight easy to frame for casual users: two domestic names, one with more UFC exposure and one trying to use the same stage to announce himself."
         },
         {
-          "fight_news": "For public users, the story is experience and home support against physical urgency. Yan has seen longer elite-level fights, while Gomes can change the feel of the bout if she forces messy pocket exchanges before Yan settles into range."
+          "fight_news": "The co-main placement gives this fight more weight than a standard lightweight booking. Ziam has the broader audience name recognition, but Sola's record keeps the matchup competitive on paper and makes the result meaningful for France's deeper lightweight picture."
         }
       ]
     },
     {
-      "title": "Aoriqileng vs. Kai Asakura",
+      "title": "Michael Venom Page vs. Nursulton Ruziboev",
       "items": [
         {
-          "fight_news": "Aoriqileng carries a 26-13 record into a bantamweight main-card fight that should draw local interest. He has been a familiar action fighter for UFC audiences, and this setting gives him a chance to turn crowd energy into a notable late-career moment."
+          "fight_news": "Michael Venom Page is listed as the ranked middleweight on the card with a 25-3 record. His name value and unorthodox striking make this one of the easiest main-card fights for casual users to identify, especially with Page still chasing marquee UFC momentum."
         },
         {
-          "fight_news": "Kai Asakura enters at 22-6 with major Japanese name value and a reputation for explosive offense. He is not being eased into an anonymous undercard spot; this placement asks whether his power and timing can translate against a tough, experienced opponent."
+          "fight_news": "Nursulton Ruziboev brings a deep 37-9-2 record and real finishing history into the matchup. He is not just a record-padding opponent; his long professional resume makes him a dangerous test for any striker who gives him clean entries or extended grappling windows."
         },
         {
-          "fight_news": "This bout has a simple fan-friendly setup: Aoriqileng is durable and willing to trade, while Asakura is the sharper finisher when exchanges open. That mix makes early momentum important because both men are comfortable in high-contact stretches."
+          "fight_news": "The public style contrast is distance and movement against physical finishing threat. Page wants space, reads, and highlight counters, while Ruziboev's appeal is that he can make a clean technical fight turn chaotic if he forces exchanges or clinch contact."
         }
       ]
     },
     {
-      "title": "Alex Perez vs. Sumudaerji",
+      "title": "Daniil Donchenko vs. Punahele Soriano",
       "items": [
         {
-          "fight_news": "Alex Perez brings the deeper UFC resume and a 26-10 record into this flyweight main-card matchup. He has spent years near high-level opposition, which gives this fight a veteran-versus-home-region angle rather than a pure prospect test."
+          "fight_news": "Daniil Donchenko is listed at 15-2 by CBS and 14-2 by Sherdog, so his profile should be treated as strong but still fluid during fight week. The important public angle is that he arrives as the fresher welterweight name in a main-card slot."
         },
         {
-          "fight_news": "Sumudaerji is 19-7 and gives the Shanghai audience another Chinese fighter in a prominent card position. His striking-first reputation makes him an easy fighter for casual users to track, especially if he can keep the fight in open space."
+          "fight_news": "Punahele Soriano enters at 13-4 with a recognizable UFC profile and experience against tough opposition. Even when his results have been uneven, his physicality and power make him a difficult measuring stick for an opponent trying to establish himself quickly."
         },
         {
-          "fight_news": "The basic stakes are divisional relevance and style control. Perez has more proven wrestling and all-around experience, while Sumudaerji's best public-facing route is distance striking and making the fight feel like a kickboxing match."
+          "fight_news": "This fight is a classic main-card opportunity fight: Donchenko can use a win to prove he belongs in a bigger UFC lane, while Soriano can use the same matchup to remind users that proven UFC rounds still matter against newer arrivals."
         }
       ]
     },
     {
-      "title": "Ce Liu vs. Junior Tafa",
+      "title": "Morgan Charriere vs. Felipe Lima",
       "items": [
         {
-          "fight_news": "Ce Liu is listed at 3-1 in a light heavyweight main-card matchup, giving him a fast visibility jump on a China-based UFC card. That kind of placement can accelerate a fighter's profile quickly if he looks composed under the bigger broadcast spotlight."
+          "fight_news": "Morgan Charriere fights in France with a 21-12-1 record and one of the card's clearer crowd connections. His record has mileage, but that also means he has been through enough different fight types to be more than a simple hometown-action pick."
         },
         {
-          "fight_news": "Junior Tafa enters at 7-6 and is the more familiar UFC name to many viewers because of his heavyweight and light heavyweight appearances. His record is uneven, but his power and willingness to engage make him dangerous against a less tested opponent."
+          "fight_news": "Felipe Lima enters at 14-2 and gives Brazil one of its key representatives on the Paris card. His cleaner record creates a straightforward contrast with Charriere: the local favorite with experience and support against the visiting fighter with stronger recent profile optics."
         },
         {
-          "fight_news": "This is a placement-driven opportunity for Liu and a reset chance for Tafa. The public angle is straightforward: Liu gets the local-stage upside, while Tafa brings known finishing threat and experience in bigger athletes' exchanges."
+          "fight_news": "The broad public read is pressure and atmosphere against a dangerous, composed underdog spoiler. Charriere's popularity can make momentum feel amplified in the arena, while Lima has the kind of record that keeps this from being a crowd showcase."
         }
       ]
     },
     {
-      "title": "Bilal Hasan vs. Nilson Rojas",
+      "title": "Losene Keita vs. Muhammad Naimov",
       "items": [
         {
-          "fight_news": "Bilal Hasan and Nilson Rojas are both listed at 9-0, making this flyweight bout one of the cleanest undefeated-versus-undefeated fights on the card. Even without major name recognition, that record pairing gives users an easy reason to watch closely."
+          "fight_news": "Losene Keita is listed at 16-2 and gets a main-card featherweight spot after building a strong European reputation. For public users, the card placement signals that UFC is giving him a real visibility push rather than hiding him in a low-leverage debut lane."
         },
         {
-          "fight_news": "Hasan represents Indonesia and Rojas represents Chile, adding an international prospect angle to the main card. For a lower-weight fight in this slot, a clear win can matter because flyweight often rewards fighters who immediately show pace, confidence, and finishing ambition."
+          "fight_news": "Muhammad Naimov brings a 13-4 record and more UFC name recognition than many opponents used to introduce regional standouts. He gives Keita a credible first major test because he has already operated inside UFC pacing, pressure, and broadcast expectations."
         },
         {
-          "fight_news": "The matchup carries natural uncertainty because neither fighter has a loss on the public ledger. The first round should tell casual viewers who is more comfortable when the opponent does not back down from an unbeaten record."
+          "fight_news": "This bout has prospect-evaluation stakes. Keita can turn local-region momentum into immediate featherweight relevance, while Naimov can slow that rise by showing that established UFC experience remains a different standard."
         }
       ]
     },
     {
-      "title": "Namsrai Batbayar vs. Andre Lima",
+      "title": "Mario Pinto vs. Ryan Spann",
       "items": [
         {
-          "fight_news": "Namsrai Batbayar opens the ESPN-listed prelim slate at 9-1 against a strong flyweight opponent. His Mongolian flag and record give this fight regional interest on an Asia card, especially because a win over Andre Lima would be a meaningful resume step."
+          "fight_news": "Mario Pinto is listed at 12-0 and opens the televised prelim stretch against a far more familiar name. An undefeated heavyweight with a main-card-adjacent prelim position is exactly the kind of fighter casual users may track as a fast-rising watchlist entry."
         },
         {
-          "fight_news": "Andre Lima is 11-1 and has already built a reputation as a powerful flyweight. He enters as the more familiar name to many UFC viewers, and his ability to make small-weight-class fights feel physically damaging is the obvious public hook."
+          "fight_news": "Ryan Spann brings a 24-11 record, long UFC experience, and a history of competing at light heavyweight before this heavyweight booking. That makes him the known-risk side of the matchup: inconsistent results, but real finishing danger and veteran poise."
         },
         {
-          "fight_news": "This is one of the better prelim fights for prediction users because both fighters have strong records and clear forward momentum. The winner can leave Shanghai with a much stronger argument for a more visible flyweight assignment."
+          "fight_news": "The public hook is unbeaten upside against veteran volatility. Pinto has the cleaner record and fresher trajectory, while Spann's experience means he can still turn one mistake into a fight-changing moment."
         }
       ]
     },
     {
-      "title": "Rei Tsuruya vs. Kevin Borjas",
+      "title": "Kurtis Campbell vs. Trevor Peek",
       "items": [
         {
-          "fight_news": "Rei Tsuruya comes in at 11-1 and remains one of Japan's notable flyweight names on this card. His placement on the prelims keeps the pressure lower than a main-card slot, but the regional spotlight still makes this an important performance window."
+          "fight_news": "Kurtis Campbell enters at 8-1 in a featherweight prelim against a recognizable action fighter. His record and placement suggest a developmental opportunity, but it is not a quiet one because Trevor Peek fights tend to draw attention quickly."
         },
         {
-          "fight_news": "Kevin Borjas is 11-5 and gives Tsuruya an opponent with enough experience to make the fight more than a showcase. Borjas has been around high-level flyweight matchups, so his value here is making Tsuruya prove control rather than just promise."
+          "fight_news": "Trevor Peek is listed at 9-3 and is familiar to UFC viewers for his aggressive, physical approach. His style gives the fight an obvious public angle: Campbell may have the cleaner prospect profile, but Peek can make technical plans messy."
         }
       ]
     },
     {
-      "title": "Jack Jenkins vs. Sean Woodson",
+      "title": "Oumar Sy vs. Modestas Bukauskas",
       "items": [
         {
-          "fight_news": "Jack Jenkins brings a 14-4 record into a featherweight prelim against one of the longest frames in the division. He has already been through UFC-level tempo, and this matchup gives him a chance to rebuild momentum against a recognizable opponent."
+          "fight_news": "Oumar Sy fights in France with a 12-2 record and gets another chance to build momentum in front of a friendly crowd. At light heavyweight, a decisive win can travel quickly because the division often rewards size, finishing threat, and visible athleticism."
         },
         {
-          "fight_news": "Sean Woodson is 13-2-1 and remains a difficult style assignment because of his height, reach, and volume at featherweight. The public story is whether Jenkins can get inside often enough or whether Woodson keeps the fight at his preferred long range."
+          "fight_news": "Modestas Bukauskas brings a 20-7 record and the deeper UFC resume. He is a useful test for Sy because he has enough experience to punish a younger fighter who relies only on physical advantages or crowd emotion."
+        },
+        {
+          "fight_news": "The public matchup is local upside against veteran durability. Sy has the cleaner momentum story, while Bukauskas has been around enough high-level situations to make the fight more demanding than a simple showcase."
         }
       ]
     },
     {
-      "title": "Xiao Long vs. Francesco Nuzzi",
+      "title": "Nathaniel Wood vs. Mairon Santos",
       "items": [
         {
-          "fight_news": "Xiao Long enters at 27-11 and adds another Chinese fighter to the Shanghai prelims. His experience level is high for this part of the card, which makes the bout useful for users who value record depth over prospect shine."
+          "fight_news": "Nathaniel Wood is listed at 23-6 and appears on multiple current card listings after some official-preview uncertainty around his opponent slot. His UFC familiarity makes this featherweight prelim one of the more notable fights below the main card."
         },
         {
-          "fight_news": "Francesco Nuzzi is listed at 11-2 and brings Italy into the bantamweight matchup. The fight has a classic road-underdog feel: Nuzzi needs to show that his cleaner record can travel against a veteran with local crowd support."
+          "fight_news": "Mairon Santos is listed at 18-1 by CBS and gives Wood a high-record-risk assignment. Even without the biggest mainstream name, Santos' record makes him the type of opponent who can immediately change how users view Wood's divisional standing."
+        },
+        {
+          "fight_news": "The broad public read is proven UFC experience against a fighter with a much cleaner record. Wood has the recognizable schedule, while Santos brings the statistical profile of someone who should not be treated like a routine prelim opponent."
         }
       ]
     },
     {
-      "title": "Lawrence Lui vs. Hector Santiago",
+      "title": "Michael Aljarouj vs. Fabia Sintes",
       "items": [
         {
-          "fight_news": "Lawrence Lui is 8-1 and gets a bantamweight prelim slot representing New Zealand. This is the kind of fight where a young record can gain value quickly, because a composed UFC-card win matters more than raw numbers alone."
+          "fight_news": "Michael Aljarouj is listed at 13-3 and gives the Paris prelims another French presence. A flyweight win at home would give him immediate visibility in a division where new names can stand out quickly with pace and clean finishing sequences."
         },
         {
-          "fight_news": "Hector Santiago enters at 6-1 from Brazil, giving the fight a prospect-versus-prospect shape. With both fighters carrying only one listed loss, the result should tell users more about readiness than name value."
+          "fight_news": "Fabia Sintes enters at 11-3 and brings a similar record range into the matchup. The public-facing angle is a closely matched flyweight fight where neither side is being presented as a record-based showcase opponent."
         }
       ]
     },
     {
-      "title": "Jingnan Xiong vs. Julia Polastri",
+      "title": "Nora Cornolle vs. Klaudia Sygula",
       "items": [
         {
-          "fight_news": "Jingnan Xiong is listed at 19-3 and brings major Chinese combat-sports recognition to the UFC strawweight prelims. Even lower on the bout order, her name gives the card a significant local-interest piece beyond the headliner."
+          "fight_news": "Nora Cornolle is listed as the ranked women's bantamweight on the card with a 9-4 record. Her France connection and ranking tag give this prelim a clearer stakes line than many lower-card fights."
         },
         {
-          "fight_news": "Julia Polastri is 14-6 and has the role of experienced spoiler against a highly recognizable opponent. The public angle is clear: Polastri can disrupt a local showcase if she turns the fight into a hard, practical three-round test."
+          "fight_news": "Klaudia Sygula enters at 8-2 and gets a chance to disrupt a ranked opponent's home-country appearance. For public users, the fight is easy to read as Cornolle defending position while Sygula tries to turn a road assignment into a rankings conversation."
         },
         {
-          "fight_news": "This fight matters for more than placement because Xiong's broader reputation can create immediate expectations. A strong UFC performance in Shanghai would make her a much easier athlete for casual users to track going forward."
+          "fight_news": "Women's bantamweight can move quickly when ranked names stumble. Cornolle has more visible standing to protect, while Sygula's cleaner record gives her enough credibility to make this more than a stay-busy fight."
         }
       ]
     },
     {
-      "title": "Ding Meng vs. Cameron Nelson",
+      "title": "Matthieu Duclos vs. Luis Felipe Dias",
       "items": [
         {
-          "fight_news": "Ding Meng is listed with a 35-10 record, the deepest pro ledger on the card by total fights. That experience gives the welterweight prelim a veteran angle, especially on a China-hosted event where his name can still stand out early."
+          "fight_news": "Matthieu Duclos fights at home with a 10-3 record in a middleweight prelim. The placement gives French fans another local storyline before the main card, and a win would help separate him from the crowded group of developing European names."
         },
         {
-          "fight_news": "Cameron Nelson enters at 7-1 and brings a much shorter but cleaner record. The public-facing read is volume of experience against fresher upside, a contrast that often makes early composure the first thing to watch."
+          "fight_news": "Luis Felipe Dias is listed at 18-5 and gives Brazil a second card representative after Felipe Lima. His higher fight count makes the matchup useful for measuring Duclos against someone who has already handled a longer professional road."
+        }
+      ]
+    },
+    {
+      "title": "Delphine Benouaich vs. Sofia Montenegro",
+      "items": [
+        {
+          "fight_news": "Delphine Benouaich opens the card in France with a 7-2 record and a clear local-interest role. Early prelim placement still matters here because a sharp home performance can make users remember a newer strawweight before the heavier names arrive."
+        },
+        {
+          "fight_news": "Sofia Montenegro is listed at 6-2 and enters as a similarly experienced opponent on paper. The public angle is a balanced strawweight opener: two developing fighters, close records, and a first chance to set the tone for the Paris card."
         }
       ]
     }
