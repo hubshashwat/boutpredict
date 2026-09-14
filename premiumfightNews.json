@@ -1,195 +1,196 @@
 {
   "feed_version": 1,
-  "event": "UFC Fight Night: Hooker vs. Parnasse",
-  "event_date": "September 5, 2026",
-  "venue": "Accor Arena, Paris, France",
+  "event": "Crypto.com UFC 331: Van vs. Pantoja 2",
+  "event_date": "September 19, 2026",
+  "venue": "Crypto.com Arena, Los Angeles, CA, United States",
   "tier": "premium",
   "spotlight_image": "/images/hero-fight.jpg",
   "bouts": [
     {
-      "title": "Dan Hooker vs. Salahdine Parnasse",
+      "title": "Joshua Van vs. Alexandre Pantoja",
       "items": [
         {
-          "fight_news": "Hooker's first tactical checkpoint is whether he can make Parnasse pay during range entries before the Frenchman settles into rhythm. If Hooker lands straight shots, knees, or low kicks on the first two steps, he can turn the debut pressure into a slower, more hesitant fight for Parnasse."
+          "fight_news": "Van's key checkpoint is whether his volume survives Pantoja's first-layer clinch and back-take threats. If Van is landing combinations but giving up collar ties or reactive shots on exits, the round optics can swing quickly from striking pace to grappling danger."
         },
         {
-          "fight_news": "Parnasse's best predictive signal is how quickly he can layer his attacks instead of accepting single exchanges. If he mixes stance changes, body work, and takedown threats, Hooker's veteran reads become harder to trust because the next phase is not obvious from the first contact."
+          "fight_news": "Pantoja's best early signal is how cleanly he can turn Van's speed into scrambles instead of chasing him in open space. The former champion does not need long control immediately; he needs enough body locks and mat returns to make Van strike with defensive hesitation."
         },
         {
-          "fight_news": "The five-round model makes body durability and reset discipline more important than crowd momentum. Hooker has historically been willing to absorb damage to keep applying pressure, but that only helps if his offense is taxing Parnasse rather than giving the debutant clean countering windows."
+          "fight_news": "The first fight's injury finish makes historical modeling thin, so live reads matter more than the result line. Watch whether Pantoja's arm and posting reactions look fully trustworthy when Van forces him to frame, peel, and recover under fast combinations."
         },
         {
-          "fight_news": "Judging could swing on whether Parnasse's cleaner moments look like control or just flair. If Hooker is moving forward, touching the legs, and forcing clinch breaks, he can make rounds close even while losing the highlight exchanges. Parnasse needs visible damage or positional separation to bank minutes cleanly."
+          "fight_news": "Championship-round durability favors the fighter who makes the other spend effort defensively. Van's pace can bank minutes, but Pantoja's grappling can create higher-tax exchanges if he repeatedly forces Van to stand, hand-fight, and reset from bad hip positions."
         }
       ]
     },
     {
-      "title": "Fares Ziam vs. Axel Sola",
+      "title": "Arman Tsarukyan vs. Mauricio Ruffy",
       "items": [
         {
-          "fight_news": "Ziam's safest route is to keep the fight at the edge of boxing range, where he can use kicks and straight counters before Sola builds combinations. If he backs himself to the fence too often, Sola's pressure can turn a technical matchup into a judging-volume problem."
+          "fight_news": "Tsarukyan's cleanest route is to make the first two rounds about chain wrestling rather than single-shot entries. Ruffy is dangerous when he can reset after one defended takedown, so Tsarukyan needs mat returns, fence rides, and body work that turn defense into fatigue."
         },
         {
-          "fight_news": "Sola should be measured early rather than chasing the home-card moment. The key is forcing Ziam to defend second and third actions: jab entries into low kicks, clinch touches after exchanges, and body work that makes Ziam's exits less automatic by round 2."
+          "fight_news": "Ruffy's best path is not simply landing one counter; it is forcing Tsarukyan to shoot from too far away. If Ruffy wins the jab-feint battle and punishes level changes with knees or uppercuts, Tsarukyan has to wrestle through damage instead of rhythm."
         },
         {
-          "fight_news": "Because both fighters share the same national spotlight, composure matters more than arena energy. The fighter who avoids forcing momentum after a big crowd reaction is likely to own the cleaner minutes, especially if neither man creates a decisive finishing threat."
+          "fight_news": "The five-round format adds a cardio split that normal three-round contender fights do not reveal. Tsarukyan can win through accumulation if he makes Ruffy carry weight early, while Ruffy's upset chances rise if the fight stays upright long enough for entries to slow."
+        },
+        {
+          "fight_news": "Premium users should watch Ruffy's first defensive stand-up. If he posts safely, clears hips, and exits without giving his back, the matchup becomes a striking risk for Tsarukyan; if he needs big explosions to stand, the later rounds can narrow fast."
         }
       ]
     },
     {
-      "title": "Michael Venom Page vs. Nursulton Ruziboev",
+      "title": "Patricio Pitbull vs. Dooho Choi",
       "items": [
         {
-          "fight_news": "Page's defensive geography is the core read. When he controls the center and exits laterally, his counters are difficult to track; when he floats backward in straight lines, Ruziboev can close distance and make Page work from positions where his creativity is less useful."
+          "fight_news": "Pitbull's success depends on making Choi react to layered threats instead of settling into boxing exchanges. Calf kicks, level-change feints, and pocket exits can keep Choi from building the kind of forward rhythm that makes his combinations dangerous."
         },
         {
-          "fight_news": "Ruziboev's path is not just finding a takedown, but making Page respect contact long enough to reduce the stance-switching show. Clinch entries, body locks, and delayed punches off level changes can make Page defend before he can set the trap counters he prefers."
+          "fight_news": "Choi's pressure has to be selective because Pitbull is at his best when opponents overcommit into counters. The early read is whether Choi can touch the body and legs without hanging in the pocket long enough for Pitbull to answer cleanly."
         },
         {
-          "fight_news": "The volatility window is early because Page often uses the first round to collect reads, while Ruziboev is dangerous when opponents have not yet calibrated his reach and timing. If Page exits round 1 untouched and loose, the matchup tilts toward his range management."
+          "fight_news": "Durability is the hidden variable. Pitbull's experience helps him survive bad moments, but Choi's speed and pressure can make age show if Pitbull is forced into repeated high-output exchanges before he has established timing."
         }
       ]
     },
     {
-      "title": "Daniil Donchenko vs. Punahele Soriano",
+      "title": "Renato Moicano vs. Brian Ortega",
       "items": [
         {
-          "fight_news": "Donchenko should prioritize clean first-layer defense against Soriano's power before opening up. If he can make Soriano miss without retreating all the way to the fence, he gets counter windows and keeps the fight from becoming a strength-on-strength pocket exchange."
+          "fight_news": "Moicano's best tactical look is pressure behind safe entries, then forcing Ortega to defend top position before he can hunt transitional submissions. He cannot get careless on the way in, because Ortega's guillotine and front-headlock threats punish rushed wrestling."
         },
         {
-          "fight_news": "Soriano's best adjustment is to attack the body and clinch instead of headhunting early. Donchenko's newer UFC profile means there may be unanswered questions under sustained physical pressure, and Soriano can expose those only if he makes him carry weight and defend exits."
+          "fight_news": "Ortega's lightweight question is whether the extra weight improves his durability and physicality without costing speed. If he can meet Moicano in clinches without being turned or flattened, his submission danger stays live deeper into exchanges."
         },
         {
-          "fight_news": "The fight model changes sharply after the first damaging exchange. Donchenko has the cleaner listed trajectory, but Soriano's value rises if he can make rounds feel messy, slow the tempo, and turn isolated power moments into visible control sequences."
+          "fight_news": "The rematch dynamic makes top-side discipline more important than highlight grappling. Moicano can win minutes with control, but Ortega is dangerous in the exact messy spaces where fighters think they are safely advancing position."
         }
       ]
     },
     {
-      "title": "Morgan Charriere vs. Felipe Lima",
+      "title": "Alonzo Menifield vs. Iwo Baraniewski",
       "items": [
         {
-          "fight_news": "Charriere's pressure needs layers. If he simply walks Lima down behind emotion and crowd noise, Lima can counter the entries and win exchanges with cleaner timing. Charriere has to mix feints, body shots, and clinch touches to make the pressure score rather than just look active."
+          "fight_news": "Menifield should test Baraniewski's pocket composure early with feints before committing to big swings. If the unbeaten fighter bites hard on first looks, Menifield can draw counters and punish exits without needing a prolonged volume fight."
         },
         {
-          "fight_news": "Lima's most important read is whether he can quiet the arena with early accuracy. A disciplined first round built around exits and counter selection would make Charriere chase, and chasing is where the local fighter's defensive shape can become more expensive."
+          "fight_news": "Baraniewski's upset path likely runs through making Menifield reset repeatedly. Angled entries, clinch breaks, and body work can drain the explosiveness that makes Menifield dangerous in short exchanges."
         },
         {
-          "fight_news": "Judging risk is real if Charriere throws more and Lima lands cleaner. Premium users should separate volume from effect: Charriere needs exchanges that visibly move Lima or trap him, while Lima needs enough damage cues to overcome any crowd-amplified activity."
+          "fight_news": "The main-card spotlight changes the prospect variable. If Baraniewski starts too fast chasing a statement, Menifield's veteran timing becomes more valuable; if he stays measured through the first power exchanges, his unbeaten confidence becomes more predictive."
         }
       ]
     },
     {
-      "title": "Losene Keita vs. Muhammad Naimov",
+      "title": "Gable Steveson vs. Sean Sharaf",
       "items": [
         {
-          "fight_news": "Keita's first UFC-level test is defensive patience after his own offense. Explosive athletes often look best when they can reset on their terms, but Naimov can punish wide exits and overcommitted combinations if Keita treats every exchange like a regional showcase."
+          "fight_news": "Steveson's key is whether he can chain takedowns without giving Sharaf clean separation after the first defended shot. Heavyweight wrestling dominance often depends less on one entry than on repeated mat returns that make opponents accept bottom position."
         },
         {
-          "fight_news": "Naimov should test Keita's wrestling and clinch responses even if the goal is not pure control. Making Keita defend grips, pummeling, and mat returns can lower the speed advantage and force him to win minutes in less comfortable phases."
+          "fight_news": "Sharaf's first assignment is hand fighting before the shot arrives. If he lets Steveson lock around the hips without damage or frames, he is playing the wrong game; if he forces collar ties and exits with punches, he can test Steveson's MMA transitions."
         },
         {
-          "fight_news": "The matchup hinges on whether Keita's athletic edge survives under UFC pacing. If his output stays sharp after the first round, his upside is obvious. If Naimov drags him into resets and fence exchanges, the prospect narrative becomes much less stable."
+          "fight_news": "Short MMA records increase volatility because both fighters may have untested second plans. Watch the first failed takedown: Steveson's reaction after a stuffed entry and Sharaf's response after a scramble will say more than their listed records."
         }
       ]
     },
     {
-      "title": "Mario Pinto vs. Ryan Spann",
+      "title": "Marlon Vera vs. Charles Jourdain",
       "items": [
         {
-          "fight_news": "Pinto's priority is denying Spann the first clean grappling or power moment. Heavyweight unbeaten records can hide defensive questions, so the first clinch break and first pocket exchange will say more than the record gap about whether Pinto's composure translates."
+          "fight_news": "Vera cannot afford another slow data-collection round if Jourdain is banking volume. His best reads are body kicks, low kicks, and counters that make Jourdain's movement pay a visible price before the Canadian builds a lead."
         },
         {
-          "fight_news": "Spann needs to make the fight ugly before Pinto settles into an athlete's rhythm. Early level-change threats, overhands into clinches, and front-foot pressure can test whether Pinto is comfortable solving veteran problems instead of managing a clean range fight."
+          "fight_news": "Jourdain's route is to make Vera reset after every exchange rather than standing in Vera's preferred counter range. Angled exits and jab-to-kick layers can make Vera look late even if Vera lands the harder isolated shots."
         },
         {
-          "fight_news": "This has upset volatility because Spann's best moments can arrive without sustained momentum. Pinto may be winning until one defensive lapse appears, so live reads should track head position on exits and whether he is leaving his hips available after throwing."
+          "fight_news": "Judging risk sits at the center of this fight. Vera's damage often reads louder, but Jourdain can win minutes if his activity is clean enough. Users should separate single heavy moments from sustained round control."
         }
       ]
     },
     {
-      "title": "Kurtis Campbell vs. Trevor Peek",
+      "title": "Tai Tuivasa vs. Robelis Despaigne",
       "items": [
         {
-          "fight_news": "Campbell's tactical discipline has to survive Peek's chaos. The cleanest path is jabs, low kicks, and immediate angle changes after contact; staying in front of Peek after throwing gives the veteran the brawl he wants and erases Campbell's cleaner development profile."
+          "fight_news": "Tuivasa's best version pressures behind leg kicks and forces Despaigne to punch while backing up. If he lets Despaigne stay long at kicking range, he risks absorbing the first clean power connection before his own pocket boxing matters."
         },
         {
-          "fight_news": "Peek's best chance is forcing exchanges before Campbell can establish a scoring rhythm. He should make the first round physical with body shots and clinch collisions, because technical gaps matter less when Campbell is defending balance and impact instead of choosing shots."
+          "fight_news": "Despaigne's defensive footwork is the main premium read. His offense is dangerous when he has space, but Tuivasa can punish tall heavyweights who retreat in straight lines or leave their lead leg available."
+        },
+        {
+          "fight_news": "The fight may hinge on who handles the first clinch collision better. Tuivasa can turn rough breaks into boxing range, while Despaigne needs frames and exits that preserve distance instead of inviting a brawl."
         }
       ]
     },
     {
-      "title": "Oumar Sy vs. Modestas Bukauskas",
+      "title": "Edmen Shahbazyan vs. Brunno Ferreira",
       "items": [
         {
-          "fight_news": "Sy's size and athleticism matter most if he can turn them into positional control, not just bursts. If he wins underhooks, pins Bukauskas to the fence, and exits on his terms, he can make the veteran fight from behind without needing reckless exchanges."
+          "fight_news": "Shahbazyan's first priority is keeping his back off the fence, where Ferreira's power becomes easier to load. If Shahbazyan owns the center with jabs and pivots, he can make Ferreira reset instead of blitzing in straight lines."
         },
         {
-          "fight_news": "Bukauskas should attack Sy's pacing with calf kicks, body work, and layered feints. Sy can look dominant in isolated sequences, but veteran pressure that forces repeated resets may reveal whether his gas tank and shot selection hold over three rounds."
+          "fight_news": "Ferreira should attack the body and legs before hunting the head. Shahbazyan is harder to read when fresh and balanced, but layered damage can slow the exits that keep him safe at range."
         },
         {
-          "fight_news": "The scoring read is whether Sy's strongest moments are frequent enough. A few powerful entries may impress, but Bukauskas can steal close rounds if he is touching the legs, building volume, and making Sy wait between explosive efforts."
+          "fight_news": "The confidence swing is important. If Shahbazyan wins the first exchanges cleanly, he may open up; if Ferreira lands early, Shahbazyan has to show he can recover without becoming purely defensive."
         }
       ]
     },
     {
-      "title": "Nathaniel Wood vs. Mairon Santos",
+      "title": "Giga Chikadze vs. Joanderson Brito",
       "items": [
         {
-          "fight_news": "Wood's task is to keep Santos from turning a record advantage into confidence early. Fast starts, layered boxing into kicks, and clean pocket exits can remind Santos that UFC timing is different from record optics before the Brazilian builds comfort."
+          "fight_news": "Chikadze's key is protecting the space after his kicks. If he lands and exits before Brito can crash forward, he can build a clean striking fight; if kicks become entries for Brito, the matchup turns physical quickly."
         },
         {
-          "fight_news": "Santos should pressure Wood's exits rather than admire single shots. If he can force Wood to defend after combinations and mix takedown looks behind striking, the fight becomes less about Wood's experience and more about who controls the next phase."
+          "fight_news": "Brito should test Chikadze's balance with pressure after blocked kicks, not just wing counters in open space. The moments immediately after Chikadze throws are where clinch entries and level changes can be most useful."
         },
         {
-          "fight_news": "This fight may be decided by round-2 adaptation. Wood's experience should show in the first set of reads, but Santos' upside becomes more meaningful if he adjusts to the tempo and starts meeting Wood at the end of exchanges."
+          "fight_news": "Round 2 may reveal the winner's terms. Chikadze needs Brito reacting to feints by then, while Brito needs enough early contact to make Chikadze hesitant about throwing the weapons that score best at range."
         }
       ]
     },
     {
-      "title": "Michael Aljarouj vs. Fabia Sintes",
+      "title": "Casey O'Neill vs. Eduarda Moura",
       "items": [
         {
-          "fight_news": "Aljarouj needs to avoid letting the home-card role rush his decisions. At flyweight, overextending by a half-step can create immediate back-takes or counters, so his best signal is controlled pressure rather than simply throwing more in front of the crowd."
+          "fight_news": "O'Neill needs to make Moura work through layered entries instead of allowing clean clinch connections. Her best minutes should come when she keeps exchanges active, frames early, and turns defense into return volume."
         },
         {
-          "fight_news": "Sintes' route is to make the first round technical and low-emotion. If he can draw Aljarouj forward, counter into clinch contact, and force scrambles on his timing, he can make the road assignment feel much smaller."
+          "fight_news": "Moura's control game becomes more valuable if she can force O'Neill into long fence sequences. Even without immediate takedowns, making O'Neill pummel, widen her base, and restart can drain the output that wins close rounds."
+        },
+        {
+          "fight_news": "Because the rankings are adjacent, judging optics matter. O'Neill's activity may read well in open space, while Moura's best scoring case comes from positional control and visibly heavier clinch moments."
         }
       ]
     },
     {
-      "title": "Nora Cornolle vs. Klaudia Sygula",
+      "title": "Ryan Gandra vs. Ozzy Diaz",
       "items": [
         {
-          "fight_news": "Cornolle's ranking tag creates a scoring burden: she has to look like the more established fighter, not just win isolated exchanges. Kicks, clinch control, and visible physicality can help her own rounds even if Sygula keeps the boxing numbers close."
+          "fight_news": "Gandra should not let Diaz turn the bout into isolated power exchanges. His most reliable route is building layers behind range control, then forcing Diaz to reset after missing instead of giving him stationary targets."
         },
         {
-          "fight_news": "Sygula's best path is making Cornolle reset defensively after every entry. If she can counter the first kick, force boxing exchanges, and avoid long clinch holds, she can turn the fight into a pace and accuracy contest instead of a positional one."
+          "fight_news": "Diaz's best chance is to make Gandra answer physical pressure before Gandra settles. If Diaz can cut the cage and touch the body early, he can make the cleaner-record fighter prove his composure under damage."
         },
         {
-          "fight_news": "Watch the final minute of each round. Cornolle may get crowd credit for strong starts, but Sygula can create upset equity if she finishes rounds throwing cleaner combinations while Cornolle is managing distance or recovering from clinch efforts."
+          "fight_news": "The first minute after Gandra absorbs a clean shot is the key live read. If he returns to structure, his skill edge likely matters; if he starts trading back emotionally, Diaz's upset window opens."
         }
       ]
     },
     {
-      "title": "Matthieu Duclos vs. Luis Felipe Dias",
+      "title": "Michael Aswell Jr. vs. Joosang Yoo",
       "items": [
         {
-          "fight_news": "Duclos has to make his home advantage show through tempo, not emotion. If he keeps Dias reacting to feints and angle changes, he can fight like the fresher middleweight; if he loads up early, Dias' experience can turn misses into counters and clinch control."
+          "fight_news": "Aswell's clearest path is to make Yoo fight through interruptions rather than letting him run a clean first layer. Clinch touches, stance changes, and body work can test whether Yoo is comfortable when the rhythm is not his."
         },
         {
-          "fight_news": "Dias should lean on professional mileage by extending exchanges into second efforts. Body work, level changes, and pressure after Duclos exits can test whether Duclos is ready for a fight that becomes attritional instead of clean and explosive."
-        }
-      ]
-    },
-    {
-      "title": "Delphine Benouaich vs. Sofia Montenegro",
-      "items": [
-        {
-          "fight_news": "Benouaich's key is starting the event with composure. Openers can be awkward when a local fighter tries to energize the building immediately, so controlled jabs, low kicks, and safe clinch exits matter more than chasing an early statement."
+          "fight_news": "Yoo should prioritize disciplined exits after combinations. Against the more experienced fighter, early success only matters if he avoids giving Aswell counter-grappling or pocket-trading windows after his offense."
         },
         {
-          "fight_news": "Montenegro can make the matchup uncomfortable by forcing pocket exchanges before Benouaich settles. If she pressures behind combinations and exits with her guard tight, she can mute the local start and make the fight a close volume read."
+          "fight_news": "Because this opens the card, nerves and pacing are real variables. The fighter who looks settled after the first scramble or hard exchange is likely to own the cleaner tactical minutes from there."
         }
       ]
     }
