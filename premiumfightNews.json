@@ -1,1 +1,160 @@
-
+{
+  "feed_version": 1,
+  "event": "UFC Fight Night: Rosas Jr. vs. Barcelos",
+  "event_date": "September 26, 2026",
+  "venue": "Meta APEX, Las Vegas, NV, United States",
+  "tier": "premium",
+  "spotlight_image": "/images/hero-fight.jpg",
+  "bouts": [
+    {
+      "title": "Raul Rosas Jr. vs Raoni Barcelos",
+      "items": [
+        {
+          "fight_news": "The premium read starts with five-round pacing. Rosas can bank early control if his chain wrestling is clean, but a 25-minute fight asks whether he can re-shoot after Barcelos has timed the level change and forced him to carry veteran resistance in clinches."
+        },
+        {
+          "fight_news": "Barcelos' best tactical window is not simply stuffing the first takedown; it is making Rosas reset in open space after failed entries. If Barcelos can frame, angle off, and make Rosas restart without a grip, the veteran can turn the fight into repeated striking exchanges."
+        },
+        {
+          "fight_news": "Rosas' top-control threat creates judging gravity even when damage is limited. Barcelos needs visible defensive wins: hip escapes, underhooks, and immediate stand-ups that tell judges the grappling exchanges are being neutralized rather than merely survived."
+        },
+        {
+          "fight_news": "Live reads should focus on Barcelos' first layer of hand fighting. If he is losing wrist control and giving up body locks near the fence, Rosas' round-winning path is live; if Barcelos is turning Rosas before the hips connect, the veteran's attritional plan becomes stronger."
+        }
+      ]
+    },
+    {
+      "title": "Rodolfo Vieira vs Robert Bryczek",
+      "items": [
+        {
+          "fight_news": "Vieira's fastest route is a clinch-to-trip sequence rather than naked shots from range, because Bryczek's striking threat is most dangerous when Vieira has to cross open space. If Vieira gets chest contact early, Bryczek's power becomes secondary to mat-return defense."
+        },
+        {
+          "fight_news": "Bryczek's premium key is punishing entries without overloading on one-shot counters. A hard first layer can make Vieira hesitant, but wide swings that leave Bryczek squared up give Vieira the underhook or body lock he needs."
+        },
+        {
+          "fight_news": "Cardio matters more than reputation here. Vieira can dominate once he is on top, but failed grappling bursts are expensive at middleweight; if Bryczek forces multiple clinch breaks in round one, later striking exchanges may tilt toward him."
+        }
+      ]
+    },
+    {
+      "title": "Mehemmedeli Osmanli vs Ilimbek Akylbek Uulu",
+      "items": [
+        {
+          "fight_news": "Osmanli's cleaner record matters less than whether his first UFC-stage reads stay disciplined. Fighters coming out of tournament environments can hunt a statement too quickly, and Akylbek Uulu's upset path improves if Osmanli gives him counter windows."
+        },
+        {
+          "fight_news": "Akylbek Uulu needs to stress transitions rather than concede a rhythm fight. If he turns striking exchanges into fence battles and fence battles into scrambles, he can make the bout less about Osmanli's form and more about messy-minute management."
+        }
+      ]
+    },
+    {
+      "title": "Melissa Amaya vs Valesca Machado",
+      "items": [
+        {
+          "fight_news": "Amaya's unbeaten label can hide the real question: how she handles experienced pressure when the first clean sequence does not settle the round. Machado should test her with resets, clinch interruptions, and tempo changes that make Amaya rebuild offense."
+        },
+        {
+          "fight_news": "Machado's veteran edge is most useful if she makes the fight ugly before Amaya builds confidence. Long-range exchanges favor the cleaner athlete; fence ties, half-breaks, and late-round flurries give Machado a better chance to turn experience into scoreable moments."
+        }
+      ]
+    },
+    {
+      "title": "Brady Hiestand vs Rinya Nakamura",
+      "items": [
+        {
+          "fight_news": "Nakamura's athletic wrestling gives him early control equity, but the premium concern is efficiency. If he needs explosive doubles every time rather than chaining from strikes into body locks, Hiestand can make him spend too much energy for each minute of top time."
+        },
+        {
+          "fight_news": "Hiestand should be judged by scramble quality rather than simple takedown defense. Even if Nakamura lands early shots, Hiestand can change the fight by forcing ride-breaks, building to his knees quickly, and making Nakamura choose between control and exposure."
+        }
+      ]
+    },
+    {
+      "title": "Josiah Harrell vs Elves Brener",
+      "items": [
+        {
+          "fight_news": "Harrell's physical tools are most valuable if he can define where the fight happens. Brener is comfortable in broken exchanges, so Harrell should prefer pressure that ends in controlled fence positions rather than pocket trades."
+        },
+        {
+          "fight_news": "Brener's edge is his ability to stay dangerous after losing early minutes. If Harrell wins the first layer but cannot discourage return fire, Brener can pull him into the type of lightweight fight where one defensive lapse outweighs clean control."
+        }
+      ]
+    },
+    {
+      "title": "Rodolfo Bellato vs Christian Edwards",
+      "items": [
+        {
+          "fight_news": "Bellato's danger is strongest when he layers pressure without rushing the finish. Edwards has enough athletic offense to punish a reckless chase, so Bellato's best version is measured damage, forced retreats, and grappling threats that make Edwards defend first."
+        },
+        {
+          "fight_news": "Edwards needs early boundary control. If he spends round one with his back near the fence, Bellato can mix body work, clinches, and takedown feints; if Edwards holds center, his speed gives him a better chance to reset Bellato."
+        }
+      ]
+    },
+    {
+      "title": "Montel Jackson vs Ricky Simon",
+      "items": [
+        {
+          "fight_news": "Jackson's length only matters if he keeps Simon entering from too far away. If Simon can jab or feint into level changes, Jackson's reach becomes less protective and more of a lever Simon can crowd against the fence."
+        },
+        {
+          "fight_news": "Simon should not need clean takedowns to make his game work; repeated clinch entries can reduce Jackson's volume and narrow the striking gap. The question is whether Simon can do that without eating enough long straight shots to lose the visual scoring battle."
+        },
+        {
+          "fight_news": "Jackson's best adjustment is punishing Simon's second effort. Simon often wins through persistence, so the highest-value counters are on the re-shot, mat return, or clinch break where Simon expects opponents to pause."
+        }
+      ]
+    },
+    {
+      "title": "Norma Dumont vs Ailin Perez",
+      "items": [
+        {
+          "fight_news": "Dumont's clinch strength gives her a route to mute Perez's wrestling, but only if she wins head position first. Perez is dangerous when she gets beneath frames; Dumont needs underhooks that force Perez to work laterally instead of driving straight through."
+        },
+        {
+          "fight_news": "Perez's best path is pace layering: shots, clinch returns, and mat pressure that make Dumont defend repeatedly. A single failed takedown does not hurt Perez if it leads to a second and third effort, but stalled entries let Dumont bank cleaner breaks."
+        },
+        {
+          "fight_news": "The premium scoring question is whether Perez's activity creates control or only motion. Judges usually reward visible advances, so Dumont can win close rounds if Perez is busy but not improving position."
+        }
+      ]
+    },
+    {
+      "title": "John Castaneda vs Alateng Heili",
+      "items": [
+        {
+          "fight_news": "Castaneda's roundedness gives him multiple paths, but that can become a problem if he lets Alateng Heili dictate a low-volume durability fight. Castaneda needs layered offense that clearly separates him before late counters make rounds feel closer."
+        },
+        {
+          "fight_news": "Alateng Heili's upset lane is timing over volume. If he can make Castaneda overextend while trying to show activity, single clean counters and late-round surges could outweigh stretches where Castaneda is busier but not landing with authority."
+        }
+      ]
+    },
+    {
+      "title": "Mickey Gall vs Sedriques Dumas",
+      "items": [
+        {
+          "fight_news": "Gall's grappling is most useful if he reaches dominant positions without accepting long clinch stalemates. At middleweight, failed body locks against a bigger athlete can cost energy fast, so he needs clean transitions from entry to mat."
+        },
+        {
+          "fight_news": "Dumas should make Gall pay for linear entries. Gall's historical success has come when he can connect phases quickly; if Dumas uses front kicks, frames, and short counters to interrupt that bridge, Gall's best weapon becomes harder to access."
+        }
+      ]
+    },
+    {
+      "title": "Vanessa Demopoulos vs Yazmin Jauregui",
+      "items": [
+        {
+          "fight_news": "Jauregui's favorite status depends on keeping the bout in open striking layers. Her output can overwhelm Demopoulos if she exits at angles, but extended pocket exchanges give Demopoulos chances to grab, trip, or create scramble threats."
+        },
+        {
+          "fight_news": "Demopoulos should not chase low-percentage shots from too far out. Her better grappling opportunities likely come off Jauregui's combinations, especially if she can catch Jauregui squared after throwing rather than wrestling through prepared footwork."
+        },
+        {
+          "fight_news": "The live tell is Jauregui's discipline after landing early. If she builds volume without overcommitting, the matchup can become one-way; if she gets eager for a finish, Demopoulos' submission awareness becomes more relevant."
+        }
+      ]
+    }
+  ]
+}
