@@ -1,158 +1,184 @@
 {
   "feed_version": 1,
-  "event": "UFC Fight Night: Rosas Jr. vs. Barcelos",
-  "event_date": "September 26, 2026",
-  "venue": "Meta APEX, Las Vegas, NV, United States",
+  "event": "UFC 332: Silva vs. Wang",
+  "event_date": "October 3, 2026",
+  "venue": "Delta Center, Salt Lake City, UT, United States",
   "tier": "premium",
   "spotlight_image": "/images/hero-fight.jpg",
   "bouts": [
     {
-      "title": "Raul Rosas Jr. vs Raoni Barcelos",
+      "title": "Natalia Silva vs Wang Cong",
       "items": [
         {
-          "fight_news": "The premium read starts with five-round pacing. Rosas can bank early control if his chain wrestling is clean, but a 25-minute fight asks whether he can re-shoot after Barcelos has timed the level change and forced him to carry veteran resistance in clinches."
+          "fight_news": "Silva's championship path depends on whether she can keep Wang turning rather than planted. Her lateral exits, calf-kick timing, and stance-switching looks can make Wang reset, but every exit has to be disciplined because Wang's counter windows are most dangerous when opponents admire their work."
         },
         {
-          "fight_news": "Barcelos' best tactical window is not simply stuffing the first takedown; it is making Rosas reset in open space after failed entries. If Barcelos can frame, angle off, and make Rosas restart without a grip, the veteran can turn the fight into repeated striking exchanges."
+          "fight_news": "Wang needs to make the fight less about chasing and more about trapping. If she can cut the cage, jab to the body, and make Silva exchange after the second layer, the title fight shifts from movement control into a power-and-durability test."
         },
         {
-          "fight_news": "Rosas' top-control threat creates judging gravity even when damage is limited. Barcelos needs visible defensive wins: hip escapes, underhooks, and immediate stand-ups that tell judges the grappling exchanges are being neutralized rather than merely survived."
+          "fight_news": "Five rounds create the biggest model question for Silva. Her best three-round version can win on activity and distance management, but championship minutes ask whether she can keep enough pop on counters to stop Wang from walking through late entries."
         },
         {
-          "fight_news": "Live reads should focus on Barcelos' first layer of hand fighting. If he is losing wrist control and giving up body locks near the fence, Rosas' round-winning path is live; if Barcelos is turning Rosas before the hips connect, the veteran's attritional plan becomes stronger."
+          "fight_news": "The live tell is Wang's reaction to Silva's first clean angle change. If Wang pivots with her and keeps her lead hand active, she can pressure without overreaching; if she follows in straight lines, Silva's kick-and-exit game can build a lead fast."
         }
       ]
     },
     {
-      "title": "Rodolfo Vieira vs Robert Bryczek",
+      "title": "Deiveson Figueiredo vs Payton Talbott",
       "items": [
         {
-          "fight_news": "Vieira's fastest route is a clinch-to-trip sequence rather than naked shots from range, because Bryczek's striking threat is most dangerous when Vieira has to cross open space. If Vieira gets chest contact early, Bryczek's power becomes secondary to mat-return defense."
+          "fight_news": "Figueiredo's best premium lane is making Talbott respect layered threats early: calf kicks, sudden level changes, and clinch breaks that interrupt Talbott's preferred rhythm. If Talbott gets to build volume without defensive resets, the younger fighter's pace becomes harder to slow."
         },
         {
-          "fight_news": "Bryczek's premium key is punishing entries without overloading on one-shot counters. A hard first layer can make Vieira hesitant, but wide swings that leave Bryczek squared up give Vieira the underhook or body lock he needs."
+          "fight_news": "Talbott should target efficiency over spectacle. Figueiredo is still dangerous in compressed exchanges, so Talbott's cleanest path is long combinations, immediate exits, and forcing the former champion to restart rather than giving him pocket moments to explode through."
         },
         {
-          "fight_news": "Cardio matters more than reputation here. Vieira can dominate once he is on top, but failed grappling bursts are expensive at middleweight; if Bryczek forces multiple clinch breaks in round one, later striking exchanges may tilt toward him."
+          "fight_news": "The grappling threat may matter even if neither fighter spends long stretches on the mat. Figueiredo can use takedown looks to make Talbott hesitate, while Talbott can answer by winning underhook battles and turning breaks into volume."
         }
       ]
     },
     {
-      "title": "Mehemmedeli Osmanli vs Ilimbek Akylbek Uulu",
+      "title": "King Green vs Esteban Ribovics",
       "items": [
         {
-          "fight_news": "Osmanli's cleaner record matters less than whether his first UFC-stage reads stay disciplined. Fighters coming out of tournament environments can hunt a statement too quickly, and Akylbek Uulu's upset path improves if Osmanli gives him counter windows."
+          "fight_news": "Green's defensive style rewards him when opponents attack one beat at a time. Ribovics has to combine body work, low kicks, and layered entries so Green cannot simply read the shoulders and counter from his preferred pocket rhythm."
         },
         {
-          "fight_news": "Akylbek Uulu needs to stress transitions rather than concede a rhythm fight. If he turns striking exchanges into fence battles and fence battles into scrambles, he can make the bout less about Osmanli's form and more about messy-minute management."
+          "fight_news": "Ribovics' aggression is valuable only if it stays organized. If he overextends after early success, Green can turn the fight into a timing lesson with pull counters, short exits, and scoreable jabs that make pressure look inefficient."
+        },
+        {
+          "fight_news": "The judging hinge is optics versus impact. Green often wins clean-looking exchanges even at lower damage, while Ribovics can sway rounds with visible force if he lands to the body and legs before hunting the head."
         }
       ]
     },
     {
-      "title": "Melissa Amaya vs Valesca Machado",
+      "title": "Khaos Williams vs Roberto Soldic",
       "items": [
         {
-          "fight_news": "Amaya's unbeaten label can hide the real question: how she handles experienced pressure when the first clean sequence does not settle the round. Machado should test her with resets, clinch interruptions, and tempo changes that make Amaya rebuild offense."
+          "fight_news": "Williams' right hand is most dangerous when opponents retreat in straight lines, so Soldic's footwork after his own left hand is the first premium read. If Soldic exits square, Williams can close fast; if he exits on angles, he can make Williams chase."
         },
         {
-          "fight_news": "Machado's veteran edge is most useful if she makes the fight ugly before Amaya builds confidence. Long-range exchanges favor the cleaner athlete; fence ties, half-breaks, and late-round flurries give Machado a better chance to turn experience into scoreable moments."
+          "fight_news": "Soldic's debut risk is tempo shock. He has the tools to win exchanges, but Williams' bursts force immediate defensive responsibility; any slow read in the first round can become a momentum swing before Soldic settles into his preferred rhythm."
+        },
+        {
+          "fight_news": "The fight may be decided by who touches the body first. Body work can blunt both men's explosive counters, and the fighter who invests downstairs early can make the later pocket exchanges less coin-flip dependent."
         }
       ]
     },
     {
-      "title": "Brady Hiestand vs Rinya Nakamura",
+      "title": "Ateba Gautier vs Roman Kopylov",
       "items": [
         {
-          "fight_news": "Nakamura's athletic wrestling gives him early control equity, but the premium concern is efficiency. If he needs explosive doubles every time rather than chaining from strikes into body locks, Hiestand can make him spend too much energy for each minute of top time."
+          "fight_news": "Gautier's finishing upside is real, but Kopylov is not the opponent to chase recklessly. Gautier should pressure behind feints and fence position, because straight-line blitzes give Kopylov the clean counter lanes he needs to slow the favorite's momentum."
         },
         {
-          "fight_news": "Hiestand should be judged by scramble quality rather than simple takedown defense. Even if Nakamura lands early shots, Hiestand can change the fight by forcing ride-breaks, building to his knees quickly, and making Nakamura choose between control and exposure."
+          "fight_news": "Kopylov's best path is making Gautier work at kicking range before the pocket exchanges begin. If he lands to the body and exits before the return fire, he can turn a power matchup into a technical striking contest."
+        },
+        {
+          "fight_news": "The grappling layer is the swing variable. Gautier can make Kopylov defend more than strikes if he mixes clinch pressure, but failed tie-ups would leave him in the exact mid-range where Kopylov's counters become cleaner."
         }
       ]
     },
     {
-      "title": "Josiah Harrell vs Elves Brener",
+      "title": "Imanol Rodriguez vs Alden Coria",
       "items": [
         {
-          "fight_news": "Harrell's physical tools are most valuable if he can define where the fight happens. Brener is comfortable in broken exchanges, so Harrell should prefer pressure that ends in controlled fence positions rather than pocket trades."
+          "fight_news": "Rodriguez's unbeaten record becomes more meaningful if he handles Coria's second and third looks. The premium question is not whether Rodriguez can start fast, but whether he can keep making correct reads after Coria changes rhythm."
         },
         {
-          "fight_news": "Brener's edge is his ability to stay dangerous after losing early minutes. If Harrell wins the first layer but cannot discourage return fire, Brener can pull him into the type of lightweight fight where one defensive lapse outweighs clean control."
+          "fight_news": "Coria should test the prospect with phase changes rather than a single-note pace fight. Clinch interruptions, stance switches, and late-round flurries can make Rodriguez prove that his clean record is backed by composure under layered pressure."
         }
       ]
     },
     {
-      "title": "Rodolfo Bellato vs Christian Edwards",
+      "title": "Damian Pinas vs Andrey Pulyaev",
       "items": [
         {
-          "fight_news": "Bellato's danger is strongest when he layers pressure without rushing the finish. Edwards has enough athletic offense to punish a reckless chase, so Bellato's best version is measured damage, forced retreats, and grappling threats that make Edwards defend first."
+          "fight_news": "Pinas' projection improves if he controls the center without loading up. He has enough finishing appeal that Pulyaev will be waiting for big entries, so Pinas needs patient pressure that turns Pulyaev before the power shots come."
         },
         {
-          "fight_news": "Edwards needs early boundary control. If he spends round one with his back near the fence, Bellato can mix body work, clinches, and takedown feints; if Edwards holds center, his speed gives him a better chance to reset Bellato."
+          "fight_news": "Pulyaev's upset case is built around making the cleaner-record fighter uncomfortable early. If he can force Pinas to defend takedown looks, clinch returns, or awkward pocket exits, the matchup becomes less about record quality and more about adjustment speed."
         }
       ]
     },
     {
-      "title": "Montel Jackson vs Ricky Simon",
+      "title": "Marcus McGhee vs Benardo Sopaj",
       "items": [
         {
-          "fight_news": "Jackson's length only matters if he keeps Simon entering from too far away. If Simon can jab or feint into level changes, Jackson's reach becomes less protective and more of a lever Simon can crowd against the fence."
+          "fight_news": "McGhee's power and finishing history are most useful when he controls the first exchange after a reset. Sopaj can survive the headline weapons if he denies clean restarts and makes McGhee strike while turning or defending grips."
         },
         {
-          "fight_news": "Simon should not need clean takedowns to make his game work; repeated clinch entries can reduce Jackson's volume and narrow the striking gap. The question is whether Simon can do that without eating enough long straight shots to lose the visual scoring battle."
+          "fight_news": "Sopaj's tactical route is to stretch the fight into layered minutes. If he can make McGhee defend kicks, clinch touches, and changing entries, he can test whether McGhee's ranked position is backed by defensive consistency."
         },
         {
-          "fight_news": "Jackson's best adjustment is punishing Simon's second effort. Simon often wins through persistence, so the highest-value counters are on the re-shot, mat return, or clinch break where Simon expects opponents to pause."
+          "fight_news": "The live signal is McGhee's reaction after Sopaj's first clean counter or level change. If McGhee stays patient, his power remains bankable; if he chases the response, Sopaj can make the fight swingier than the ranking suggests."
         }
       ]
     },
     {
-      "title": "Norma Dumont vs Ailin Perez",
+      "title": "Anthony Wint vs Lucas Armand",
       "items": [
         {
-          "fight_news": "Dumont's clinch strength gives her a route to mute Perez's wrestling, but only if she wins head position first. Perez is dangerous when she gets beneath frames; Dumont needs underhooks that force Perez to work laterally instead of driving straight through."
+          "fight_news": "Unbeaten heavyweight fights often punish overconfidence, and this one is no different. Wint's extra pro experience helps only if he uses it to manage risk; trading clean in the first two minutes gives Armand the same chaos lane."
         },
         {
-          "fight_news": "Perez's best path is pace layering: shots, clinch returns, and mat pressure that make Dumont defend repeatedly. A single failed takedown does not hurt Perez if it leads to a second and third effort, but stalled entries let Dumont bank cleaner breaks."
-        },
-        {
-          "fight_news": "The premium scoring question is whether Perez's activity creates control or only motion. Judges usually reward visible advances, so Dumont can win close rounds if Perez is busy but not improving position."
+          "fight_news": "Armand's best read is whether Wint's quick turnaround leaves defensive gaps. If Wint starts fast but exits high, Armand can make him pay on counters; if Wint keeps the fight structured, Armand may have to prove his cardio and clinch defense."
         }
       ]
     },
     {
-      "title": "John Castaneda vs Alateng Heili",
+      "title": "Johnny Walker vs Mick Parkin",
       "items": [
         {
-          "fight_news": "Castaneda's roundedness gives him multiple paths, but that can become a problem if he lets Alateng Heili dictate a low-volume durability fight. Castaneda needs layered offense that clearly separates him before late counters make rounds feel closer."
+          "fight_news": "Walker is most dangerous before the fight has a stable rhythm, so Parkin's first job is denying the wild opening. Low-risk jabs, clinch frames, and exits away from the power side can turn Walker's athletic chaos into isolated bursts."
         },
         {
-          "fight_news": "Alateng Heili's upset lane is timing over volume. If he can make Castaneda overextend while trying to show activity, single clean counters and late-round surges could outweigh stretches where Castaneda is busier but not landing with authority."
+          "fight_news": "Parkin's steadiness can win minutes, but he cannot let steadiness become passivity. Walker's highlight threat changes how judges and opponents react, so Parkin needs visible offense after defensive wins to make control feel like scoring."
+        },
+        {
+          "fight_news": "The premium tell is Walker's balance after missed offense. If he resets cleanly, his length and power stay live; if he falls across his stance, Parkin can clinch, mat return, or counter in the moments where Walker is historically most vulnerable."
         }
       ]
     },
     {
-      "title": "Mickey Gall vs Sedriques Dumas",
+      "title": "Rafael Dos Anjos vs Alexander Hernandez",
       "items": [
         {
-          "fight_news": "Gall's grappling is most useful if he reaches dominant positions without accepting long clinch stalemates. At middleweight, failed body locks against a bigger athlete can cost energy fast, so he needs clean transitions from entry to mat."
+          "fight_news": "Dos Anjos' veteran path is pressure with purpose: force Hernandez backward, win underhooks, and make the younger athlete defend in layers. If he marches in without cutting angles, Hernandez still has the explosiveness to make entries costly."
         },
         {
-          "fight_news": "Dumas should make Gall pay for linear entries. Gall's historical success has come when he can connect phases quickly; if Dumas uses front kicks, frames, and short counters to interrupt that bridge, Gall's best weapon becomes harder to access."
+          "fight_news": "Hernandez needs to avoid fighting in short emotional bursts. His athletic edge matters if he can touch, exit, and re-enter on his terms; it fades if Dos Anjos turns the bout into a grinding fence-and-clinch rhythm."
+        },
+        {
+          "fight_news": "The rematch-style variable is patience. Dos Anjos can win by making the fight feel old and physical, while Hernandez needs fresh looks across all three rounds rather than one early speed advantage."
         }
       ]
     },
     {
-      "title": "Vanessa Demopoulos vs Yazmin Jauregui",
+      "title": "Marvin Vettori vs Ismail Naurdiev",
       "items": [
         {
-          "fight_news": "Jauregui's favorite status depends on keeping the bout in open striking layers. Her output can overwhelm Demopoulos if she exits at angles, but extended pocket exchanges give Demopoulos chances to grab, trip, or create scramble threats."
+          "fight_news": "Vettori's pressure only works if he can make Naurdiev exchange after defending. Walking forward is not enough; he needs fence position, clinch touches, and return combinations that keep Naurdiev from simply circling into clean kicks."
         },
         {
-          "fight_news": "Demopoulos should not chase low-percentage shots from too far out. Her better grappling opportunities likely come off Jauregui's combinations, especially if she can catch Jauregui squared after throwing rather than wrestling through prepared footwork."
+          "fight_news": "Naurdiev's premium route is variety without wasted motion. If he layers kicks, body shots, and quick pivots, he can make Vettori chase; if he throws single shots and backs straight up, Vettori's durability and pressure become the safer read."
         },
         {
-          "fight_news": "The live tell is Jauregui's discipline after landing early. If she builds volume without overcommitting, the matchup can become one-way; if she gets eager for a finish, Demopoulos' submission awareness becomes more relevant."
+          "fight_news": "Scorecards may hinge on who owns the last 90 seconds of each round. Vettori often makes rounds feel hard late, while Naurdiev needs early technical success to remain visible once the exchanges get more physical."
+        }
+      ]
+    },
+    {
+      "title": "Court McGee vs Eric Nolan",
+      "items": [
+        {
+          "fight_news": "McGee's veteran game is built to make opponents solve repeated pace questions. Nolan has to hurt him, clinch him, or clearly separate with counters; otherwise McGee can turn the opener into familiar volume and pressure rounds."
+        },
+        {
+          "fight_news": "Nolan's finishing upside matters most in transition. Clean pocket exchanges are harder to sustain against McGee's experience, so Nolan should look for damage when McGee exits clinches, resets after shots, or squares up after combinations."
+        },
+        {
+          "fight_news": "The late-round read is cardio under resistance. If Nolan's output drops after McGee forces contact, the veteran's minute-winning profile becomes stronger; if Nolan keeps his power after defending pressure, the underdog case stays alive."
         }
       ]
     }

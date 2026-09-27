@@ -1,146 +1,184 @@
 {
   "feed_version": 1,
-  "event": "UFC Fight Night: Rosas Jr. vs. Barcelos",
-  "event_date": "September 26, 2026",
-  "venue": "Meta APEX, Las Vegas, NV, United States",
+  "event": "UFC 332: Silva vs. Wang",
+  "event_date": "October 3, 2026",
+  "venue": "Delta Center, Salt Lake City, UT, United States",
   "tier": "free",
   "spotlight_image": "/images/hero-fight.jpg",
   "bouts": [
     {
-      "title": "Raul Rosas Jr. vs Raoni Barcelos",
+      "title": "Natalia Silva vs Wang Cong",
       "items": [
         {
-          "fight_news": "The bantamweight main event pairs media-ranked No. 12 Raul Rosas Jr. with No. 13 Raoni Barcelos, giving the winner a clean argument for a bigger divisional assignment. Both arrive on five-fight winning streaks, so the public story is momentum against momentum rather than a prospect tune-up."
+          "fight_news": "Natalia Silva and Wang Cong headline UFC 332 for the vacant women's flyweight title, giving the October 3 card a championship centerpiece in Salt Lake City. Silva enters as the No. 1 contender at 20-5-1, while Wang enters as the No. 8 contender at 10-1."
         },
         {
-          "fight_news": "Rosas is being framed by the UFC as the youngest fighter to headline an event, adding a real spotlight variable to his first five-round assignment. His March win over Rob Font moved him from curiosity to contender track, and this booking asks whether that progress holds against a veteran in form."
+          "fight_news": "Silva brings one of the division's longest active surges into her first UFC title fight, with speed, movement, and layered kicking at the center of her rise. The broad public read is whether her consistency over three-round fights carries into a five-round championship pace."
         },
         {
-          "fight_news": "Barcelos enters at 39 in the best phase of his Octagon run, with recent wins over Montel Jackson, Ricky Simon, Cody Garbrandt, and Payton Talbott. That context matters because Rosas is not meeting a faded name; he is facing a veteran whose current results rebuilt his ranking case."
+          "fight_news": "Wang's appeal is cleaner than her ranking suggests: she is a sharp striker with finishing power and enough composure to make exchanges feel dangerous immediately. A win would move her from fast-rising challenger to champion in one step."
         },
         {
-          "fight_news": "The simple style contrast is Rosas' control-heavy grappling against Barcelos' seasoned all-around game. Rosas has made top pressure central to his identity, while Barcelos brings enough strength, experience, and composure to test whether those entries stay reliable over longer stretches."
+          "fight_news": "The main event also starts a new chapter at women's flyweight, because neither fighter is trying to defend an old title reign. This is a fresh belt fight between a long-building contender and a challenger whose striking has made her hard to ignore."
         }
       ]
     },
     {
-      "title": "Rodolfo Vieira vs Robert Bryczek",
+      "title": "Deiveson Figueiredo vs Payton Talbott",
       "items": [
         {
-          "fight_news": "Rodolfo Vieira and Robert Bryczek occupy the co-main slot at middleweight, giving the card a clear grappler-versus-puncher turn after the bantamweight headliner. Vieira enters at 11-5 and Bryczek at 18-7, so both bring enough professional mileage for this to be decided by execution rather than novelty."
+          "fight_news": "Deiveson Figueiredo vs Payton Talbott is the ranked bantamweight co-main event, with Figueiredo around No. 9 and Talbott around No. 11. Figueiredo enters at 25-7-1 with championship experience from flyweight, while Talbott enters at 11-1 as one of the division's newer ranked threats."
         },
         {
-          "fight_news": "Vieira remains the recognizable submission threat, with his reputation built around elite Brazilian jiu-jitsu and top control. Bryczek's public case is the opposite: keep the fight standing long enough for his striking to make Vieira pay before the grappling can take over."
+          "fight_news": "Figueiredo gives the card a proven former champion against a fighter still shaping his top-15 identity. His name value, finishing history, and big-fight experience make this a real step up from ordinary contender sorting."
+        },
+        {
+          "fight_news": "Talbott is the younger bantamweight with the cleaner recent projection, built around pace, confidence, and offensive comfort. A win over Figueiredo would be his strongest proof that his rise belongs near the division's established names."
         }
       ]
     },
     {
-      "title": "Mehemmedeli Osmanli vs Ilimbek Akylbek Uulu",
+      "title": "King Green vs Esteban Ribovics",
       "items": [
         {
-          "fight_news": "Mehemmedeli Osmanli vs Ilimbek Akylbek Uulu is a TUF bantamweight final, which gives the matchup immediate stakes. Osmanli enters at 11-1 and Akylbek Uulu at 9-3, creating a final between fighters with enough regional experience to treat this as more than a showcase."
+          "fight_news": "King Green vs Esteban Ribovics gives the main card a lightweight veteran-versus-action-fighter slot. Green enters at 36-17-1 with far more UFC experience, while Ribovics enters at 16-3 and has built his reputation on physical exchanges and forward pressure."
         },
         {
-          "fight_news": "Osmanli has the cleaner listed record and the stronger momentum profile, while Akylbek Uulu carries the disruption angle. For casual users, the fight is a contract-era statement bout: one fighter trying to confirm favorite status, the other trying to turn the tournament platform into a fast reset of expectations."
+          "fight_news": "Green remains one of the division's most recognizable rhythm fighters, using shoulder rolls, counters, and constant conversation in the pocket. For public users, the question is whether his experience can still slow a younger opponent who wants to make the fight uncomfortable."
+        },
+        {
+          "fight_news": "Ribovics has the kind of style that can turn a veteran test into a breakout moment. If he beats Green clearly, the win carries more weight than a normal mid-card lightweight result because Green has spent years measuring UFC-level timing."
         }
       ]
     },
     {
-      "title": "Melissa Amaya vs Valesca Machado",
+      "title": "Khaos Williams vs Roberto Soldic",
       "items": [
         {
-          "fight_news": "Melissa Amaya vs Valesca Machado is a women's strawweight TUF final, with Amaya entering at 8-0 against Machado at 15-4. The public frame is unbeaten prospect against the more seasoned professional."
+          "fight_news": "Khaos Williams vs Roberto Soldic is a welterweight power matchup between fighters with clear finishing reputations. Williams enters at 16-5 and Soldic at 21-4, giving the bout a simple public hook: two dangerous strikers with little room for defensive mistakes."
         },
         {
-          "fight_news": "Amaya's undefeated record is the easiest headline, but Machado, also known by the Tina Black moniker, brings the deeper career ledger. That experience edge gives the bout a useful contrast between upside and tested composure under a tournament spotlight."
+          "fight_news": "Williams is familiar as a sudden-damage threat whose fights can change on one clean connection. His UFC run has made him easy to understand for casual users: if opponents give him a pocket exchange, he can end the conversation quickly."
+        },
+        {
+          "fight_news": "Soldic brings a decorated European profile and a southpaw power game into his UFC debut environment. Beating Williams would immediately tell users that his reputation transfers against a proven Octagon puncher."
         }
       ]
     },
     {
-      "title": "Brady Hiestand vs Rinya Nakamura",
+      "title": "Ateba Gautier vs Roman Kopylov",
       "items": [
         {
-          "fight_news": "Brady Hiestand vs Rinya Nakamura keeps the main card in the bantamweight lane, matching two fighters still trying to turn prospect credibility into ranked relevance. Hiestand enters at 8-2 and Nakamura at 10-1, so both have room to move without the bout feeling like a last-chance assignment."
+          "fight_news": "Ateba Gautier vs Roman Kopylov rounds out the main card at middleweight. Gautier enters at 11-1 and Kopylov at 15-5, creating a matchup between a rising finisher and a more experienced UFC striker."
         },
         {
-          "fight_news": "Nakamura's profile is built around athletic wrestling and explosive entries, while Hiestand brings enough grappling comfort to make the matchup more competitive than a simple wrestler-versus-striker label. The fight should quickly show whose scrambles and pace translate better."
+          "fight_news": "Gautier's momentum is built on power and a fast-developing finishing profile, so this is the kind of main-card spot that can accelerate a middleweight name quickly. A convincing win would make him more than an undercard prospect."
+        },
+        {
+          "fight_news": "Kopylov brings proven striking craft and enough UFC seasoning to ask harder questions than a pure showcase opponent. His public case is that experience, timing, and shot selection can slow Gautier's momentum before the fight turns into a power contest."
         }
       ]
     },
     {
-      "title": "Josiah Harrell vs Elves Brener",
+      "title": "Imanol Rodriguez vs Alden Coria",
       "items": [
         {
-          "fight_news": "Josiah Harrell vs Elves Brener rounds out the listed main card at lightweight. Brener enters at 16-6 and Harrell at 11-1, giving the fight a familiar UFC shape: a proven action fighter against a less exposed athlete trying to climb quickly."
+          "fight_news": "Imanol Rodriguez vs Alden Coria opens the prelim run at flyweight, with Rodriguez entering unbeaten at 7-0 and Coria entering at 13-3. The matchup gives the lighter divisions a clean prospect-versus-more-tested-opponent frame."
         },
         {
-          "fight_news": "Brener's reputation is tied to chaos tolerance and hard rounds, while Harrell's record keeps him in the prospect lane. A win over Brener would give Harrell a stronger credential than a protected step, and a Brener win would underline his value as a tough lightweight filter."
+          "fight_news": "Rodriguez's undefeated record is the broad hook, but Coria has the deeper professional ledger and more losses to learn from. That makes the fight a useful early-card read on whether Rodriguez's upside is ready for a more experienced pace."
         }
       ]
     },
     {
-      "title": "Rodolfo Bellato vs Christian Edwards",
+      "title": "Damian Pinas vs Andrey Pulyaev",
       "items": [
         {
-          "fight_news": "Rodolfo Bellato vs Christian Edwards opens the preliminary run in a light heavyweight matchup. Bellato enters at 13-3-1 and Edwards at 8-5, pairing the steadier recent profile with an opponent who has enough athletic offense to change the read quickly."
+          "fight_news": "Damian Pinas vs Andrey Pulyaev is a middleweight prelim between fighters with matching physical stakes and different career lines. Pinas enters at 10-1, while Pulyaev enters at 10-5 with more visible adversity on his record."
         },
         {
-          "fight_news": "Bellato brings the broader finishing reputation and the higher-upside public case at 205 pounds. Edwards enters as the volatility side, the kind of underdog who can make paper advantages less useful if the early exchanges get loose."
+          "fight_news": "Pinas carries the cleaner record and the fresher upside, which makes him the easier fighter to project for a fast climb. Pulyaev's value is as the spoiler with enough professional experience to test whether that record has already been stress-tested."
         }
       ]
     },
     {
-      "title": "Montel Jackson vs Ricky Simon",
+      "title": "Marcus McGhee vs Benardo Sopaj",
       "items": [
         {
-          "fight_news": "Montel Jackson vs Ricky Simon is one of the strongest preliminary bouts, matching experienced bantamweights who have both operated near the division's tough middle tier. Jackson enters at 15-4 and Simon at 22-7-1, making this a meaningful form check for both."
+          "fight_news": "Marcus McGhee vs Benardo Sopaj is a ranked bantamweight prelim, with McGhee holding the No. 15 tag at 11-2 and Sopaj entering at 13-3. It gives the prelims a meaningful 135-pound fight with direct implications for the bottom of the rankings."
         },
         {
-          "fight_news": "Jackson's length and measured offense are the easy public talking points, while Simon is familiar as a pressure wrestler and pace fighter. The matchup has a clean contrast: distance control against repeat entries and clinch pressure."
+          "fight_news": "McGhee has already shown UFC finishing ability and enough toughness to stay relevant after a setback. Defending a ranking against Sopaj would help keep him attached to the division's next wave."
+        },
+        {
+          "fight_news": "Sopaj gets a chance to convert a strong record into a ranked result. The public stakes are straightforward: beat McGhee and he likely takes over the kind of ladder position that changes his next booking."
         }
       ]
     },
     {
-      "title": "Norma Dumont vs Ailin Perez",
+      "title": "Anthony Wint vs Lucas Armand",
       "items": [
         {
-          "fight_news": "Norma Dumont vs Ailin Perez is a ranked women's bantamweight fight, with Dumont around No. 4 and Perez around No. 5. That gives the prelims a divisional bout with direct implications for the short list of challengers."
+          "fight_news": "Anthony Wint vs Lucas Armand is a heavyweight prelim between unbeaten fighters, with Wint entering at 8-0 and Armand at 6-0. That kind of record pairing gives the bout instant volatility even before style is considered."
         },
         {
-          "fight_news": "Dumont is the more established ranked name, built around physical strength, clinch control, and reliable round-winning habits. Perez brings louder momentum and a more aggressive wrestling-forward identity, making this a clear test of status against surge."
+          "fight_news": "Wint has the slightly deeper pro ledger and is returning quickly to the Octagon, while Armand arrives with a perfect record of his own. The simple public hook is that one undefeated heavyweight record has to absorb its first loss."
         }
       ]
     },
     {
-      "title": "John Castaneda vs Alateng Heili",
+      "title": "Johnny Walker vs Mick Parkin",
       "items": [
         {
-          "fight_news": "John Castaneda vs Alateng Heili adds another veteran bantamweight pairing to a card heavy on 135-pound fights. Castaneda enters at 21-8-1 and Heili Alateng at 17-10-2, so this is about holding position in a crowded division rather than introducing prospects."
+          "fight_news": "Johnny Walker vs Mick Parkin is listed at heavyweight and brings a familiar name into the early prelims. Walker enters at 22-10 with years of high-profile UFC experience, while Parkin enters at 10-1 as the steadier recent profile."
         },
         {
-          "fight_news": "Castaneda's public appeal is his rounded game and willingness to mix phases, while Alateng Heili remains a sturdy test because he is difficult to remove from a fight. That makes the bout a useful read on Castaneda's ability to separate on volume and decisions."
+          "fight_news": "Walker remains a high-variance athlete whose power, length, and unpredictability can make any fight feel unstable. That volatility is the public story against Parkin, who has generally been framed as the more measured heavyweight."
+        },
+        {
+          "fight_news": "Parkin gets a recognizable opponent at the right moment. A win over Walker would be a bigger name result than his record alone can provide, especially if he handles the early danger without letting the fight become chaotic."
         }
       ]
     },
     {
-      "title": "Mickey Gall vs Sedriques Dumas",
+      "title": "Rafael Dos Anjos vs Alexander Hernandez",
       "items": [
         {
-          "fight_news": "Mickey Gall vs Sedriques Dumas gives both middleweights a chance to reset a narrative rather than protect a winning streak. Gall enters at 7-7 with the more familiar UFC name, while Dumas enters at 10-5 with the size and offense to make the first phase decisive."
+          "fight_news": "Rafael Dos Anjos vs Alexander Hernandez revisits a lightweight matchup with very different career mileage on each side. Dos Anjos enters at 32-17 as a former champion, while Hernandez enters at 18-9 with the athletic profile of a fighter still dangerous in bursts."
         },
         {
-          "fight_news": "Gall is the more familiar UFC name and carries the grappling-first identity, while Dumas has size and offense despite an uneven UFC run. The public read is a momentum grab for whichever fighter can impose his preferred phase first."
+          "fight_news": "Dos Anjos gives the early prelims a veteran anchor and a familiar all-phase test. Even late in his career, his pressure, clinch craft, and southpaw experience make him a difficult opponent to treat like a simple name fight."
+        },
+        {
+          "fight_news": "Hernandez has the chance to turn a familiar matchup into a course correction. Beating Dos Anjos would carry more value than a standard prelim win because it would come against a former champion who still asks disciplined questions."
         }
       ]
     },
     {
-      "title": "Vanessa Demopoulos vs Yazmin Jauregui",
+      "title": "Marvin Vettori vs Ismail Naurdiev",
       "items": [
         {
-          "fight_news": "Vanessa Demopoulos vs Yazmin Jauregui is a women's strawweight matchup that closes the 12-bout feed card. Demopoulos enters at 11-8 and Jauregui at 11-2, giving the bout a veteran-underdog-versus-younger-striker shape."
+          "fight_news": "Marvin Vettori vs Ismail Naurdiev adds veteran middleweight depth to the early prelims. Vettori enters at 19-10-1 with years near the top tier of the division, while Naurdiev enters at 25-8 with a broad professional background."
         },
         {
-          "fight_news": "Jauregui carries the stronger projection because her striking volume and youth are easy to map in a three-round fight. Demopoulos keeps the bout from being only a striking showcase with veteran toughness and opportunistic submission awareness."
+          "fight_news": "Vettori's public identity is durability, pressure, and stubborn round-winning effort. That makes him a difficult measuring stick for Naurdiev, because opponents usually have to beat him repeatedly across phases rather than win one clean moment."
+        },
+        {
+          "fight_news": "Naurdiev brings enough experience to make this more than a veteran showcase. His opportunity is to show that his athleticism and striking variety can create separation against a fighter known for dragging opponents into hard minutes."
+        }
+      ]
+    },
+    {
+      "title": "Court McGee vs Eric Nolan",
+      "items": [
+        {
+          "fight_news": "Court McGee vs Eric Nolan opens the card at welterweight, with McGee entering at 22-14 and Nolan at 8-5. The matchup pairs a long-tenured veteran with a less established opponent trying to use a big platform to reset expectations."
+        },
+        {
+          "fight_news": "McGee's story is experience and volume over flash. He has seen enough UFC rounds that Nolan will need more than one strong exchange to convince users he can control the full fight."
+        },
+        {
+          "fight_news": "Nolan has the finishing-leaning profile and the lower-mileage career, which gives him the underdog intrigue. If he can create early damage or force McGee backward, he can make the opener feel very different from a veteran pace fight."
         }
       ]
     }
