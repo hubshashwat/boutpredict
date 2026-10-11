@@ -1,161 +1,178 @@
 {
   "feed_version": 1,
-  "event": "UFC Fight Night: Allen vs. Duncan",
-  "event_date": "October 10, 2026",
-  "venue": "Meta APEX, Las Vegas, NV, United States",
+  "event": "UFC Fight Night: Buckley vs. Malott",
+  "event_date": "October 17, 2026",
+  "venue": "Rogers Place, Edmonton, Alberta, Canada",
   "tier": "premium",
   "spotlight_image": "/images/hero-fight.jpg",
   "bouts": [
     {
-      "title": "Brendan Allen vs Christian Leroy Duncan",
+      "title": "Joaquin Buckley vs Mike Malott",
       "items": [
         {
-          "fight_news": "Allen's most useful entry could be a jab that drives Duncan toward the fence before he connects his hands. Shooting from open space would leave more room for Duncan to angle away or intercept him. The first clinch should reveal whether Allen can secure head position without taking damage on the approach."
+          "fight_news": "Buckley's path improves when he can finish an exchange and regain open space before Malott establishes a grip. Malott's best opportunities may come from attaching a clinch to Buckley's committed punches, then forcing a second defensive action. The useful early read is whether Buckley escapes immediately or remains tied up after stopping the first entry."
         },
         {
-          "fight_news": "Duncan's creative kicking game creates opportunities only if he can recover his stance before Allen closes distance. A missed spinning attack or an extended combination could give Allen a body-lock entry. Shorter attacks followed by a pivot would make Duncan harder to hold and force Allen to build a second approach."
+          "fight_news": "Malott should distinguish between a takedown and a sustainable top position. Chasing a submission before controlling Buckley's hips could give the explosive welterweight a route back to his feet. Conversely, short ground strikes that force Buckley to post may create safer back-taking opportunities than a prolonged squeeze on a defended choke."
         },
         {
-          "fight_news": "If Allen reaches top position, Duncan's first stand-up attempt may matter more than the initial takedown. Turning away before clearing Allen's upper-body grips could expose the back; building a frame and recovering an underhook would offer a safer exit. Allen could trade immediate ground strikes for a more durable riding position."
+          "fight_news": "Rounds four and five remain an important uncertainty for Malott. His recent Burns finish came in round three, so it does not establish a proven 25-minute pace. Repeated failed takedowns and extended submission attempts would increase the cost of his early offense; relaxed clinch work and clean resets would make a later-round fade less convincing."
         },
         {
-          "fight_news": "A five-round pace model should track the cost of unsuccessful wrestling as well as landed strikes. Repeated failed entries could drain Allen even when he is advancing; extended defensive clinches could reduce Duncan's kicking output. Sustained control after the second round would be a stronger signal than a brief opening burst."
+          "fight_news": "Buckley does not have to match every minute of positional control if he produces the more damaging offense, but isolated bursts may be insufficient against productive grappling. Watch whether Malott turns holds into strikes or credible submission threats. If he only contains Buckley, the fight may remain much closer than cage position suggests."
         }
       ]
     },
     {
-      "title": "Matheus Camilo vs Jai Herbert",
+      "title": "Erin Blanchfield vs Jasmine Jasudavicius",
       "items": [
         {
-          "fight_news": "Herbert's 77-inch reach makes Camilo's entry distance a central variable. Camilo could draw the jab, step underneath the return, and connect a clinch rather than cross open space behind a single punch. Herbert's ability to pivot after jabbing would determine whether that length remains usable once Camilo advances."
+          "fight_news": "The first completed takedown is less informative than the next scramble. Blanchfield can threaten submissions after the position changes, while Jasudavicius has built considerable success from sustained top control. If Jasudavicius has to disengage to protect her neck or arms, her initial wrestling success may not translate into a lasting advantage."
         },
         {
-          "fight_news": "Camilo's historical takedown activity suggests repeated entries are plausible, but the finish and follow-up matter more than the attempt count. If Herbert posts against the fence and immediately stands, Camilo could spend energy without gaining meaningful offense. A mat return followed by wrist control would make the same entry substantially more productive."
+          "fight_news": "Blanchfield's entries need cover from her striking. Reaching for a clinch from too far away would let Jasudavicius frame, land, and reset before the grappling begins. Closing distance behind combinations could instead force the Canadian to defend the cage approach and the takedown in sequence, reducing her time to establish strong grips."
         },
         {
-          "fight_news": "Herbert should have a clearer striking lane if Camilo starts reaching for contact after failed shots. Body jabs and a short retreat could draw that overextension without inviting a prolonged pocket exchange. If Camilo keeps his feet underneath him and re-enters behind feints, the distance advantage may become harder to exploit."
+          "fight_news": "This co-main event offers only three rounds, so a slow opening carries a greater cost than in Blanchfield's previous five-round assignments. A first round spent testing entries without producing effective offense could leave her needing both remaining rounds. An early successful adjustment matters more here than the ability to sustain a long rally."
         }
       ]
     },
     {
-      "title": "Loopy Godinez vs Ketlen Souza",
+      "title": "Kyle Nelson vs Cristian Perez Gonzalez",
       "items": [
         {
-          "fight_news": "Godinez could make Souza defend a second wrestling action after the initial shot is stopped. A transition from a single leg to a body lock would test whether Souza can keep her hips clear while protecting her head. Souza needs separation after the first defense, not merely a momentary sprawl."
+          "fight_news": "Nelson's accumulated striking rates show more significant strikes absorbed than landed, suggesting that a prolonged exchange-heavy contest is not automatically his safest route. Perez Gonzalez can test that vulnerability by ending combinations with an exit instead of staying for a return trade. Nelson needs his forward movement to produce clean contact or positional gains."
         },
         {
-          "fight_news": "Souza's best punching windows may come before Godinez settles into clinch range. An uppercut after a level-change feint could discourage a direct entry, but loading up would leave her available for the next shot. Short combinations with an immediate frame would better preserve the space she needs."
-        },
-        {
-          "fight_news": "If Godinez secures top position, active offense would distinguish useful control from stalled time. Souza's ability to build a knee shield and recover to the fence could limit that offense. The matchup may turn on whether Godinez can reconnect her grips as Souza stands rather than accepting repeated clean resets."
+          "fight_news": "Perez Gonzalez's transition to UFC opposition is a reason to keep confidence modest, even if his opening offense looks sharp. Nelson can test him with clinch pressure followed by strikes on the break. The revealing sequence is whether the newcomer restores his stance and guard after physical exchanges, rather than only how fast he starts."
         }
       ]
     },
     {
-      "title": "Andre Fili vs Kai Kamaka III",
+      "title": "Marc-Andre Barriault vs Kyle Daukaus",
       "items": [
         {
-          "fight_news": "Fili could use his longer frame to make Kamaka cross a jab-and-kick barrier, but leaving his feet planted after the second strike would invite a pocket exchange. A pivot after the jab could preserve distance; retreating straight back could allow Kamaka to close before Fili can reset."
+          "fight_news": "Barriault's close-range offense creates a specific hazard against Daukaus: leaning forward to continue punching can expose the neck and near arm to a front-headlock attack. Daukaus may not need a clean takedown if he can redirect a clinch into that position. Barriault's head posture and underhook recovery will matter whenever the exchange compresses."
         },
         {
-          "fight_news": "Kamaka could change the rhythm with a body attack followed by a clinch touch rather than repeatedly chasing Fili's head. If Fili responds by widening his stance, a takedown entry may become available. If he frames and circles immediately, Kamaka would need to avoid spending long stretches pursuing empty contact."
+          "fight_news": "Daukaus can improve his chances by making Barriault defend several connected attacks instead of repeatedly shooting from distance. A failed entry that becomes a clinch or snap-down still asks a question; a failed entry followed by a stationary reset invites Barriault's volume. Watch whether Daukaus can interrupt combinations without spending the whole round backing up."
         },
         {
-          "fight_news": "Fili's wrestling provides an adjustment if the striking exchanges become too costly. A takedown after Kamaka commits to a combination could interrupt his offense, but Fili would still need strikes or advances on the mat. Kamaka's first escape would show whether that adjustment can produce sustained impact."
+          "fight_news": "Barriault's pace can become an advantage if he keeps the exchanges upright and denies long grappling pauses. However, sustained output is expensive when every break requires a hard escape. A drop in combination length after successive clinches would suggest that Daukaus is imposing a larger workload than the visible strike totals capture."
         }
       ]
     },
     {
-      "title": "Julius Walker vs Gerald Meerschaert",
+      "title": "Louis Jourdain vs Timmy Cuamba",
       "items": [
         {
-          "fight_news": "Walker should be cautious about following a hurt Meerschaert into an unsecured top position. Posture and hand placement would matter before ground strikes: reaching across the neck or leaving an arm isolated could turn an apparent finishing opportunity into a submission threat. Remaining upright after a knockdown is a viable adjustment."
+          "fight_news": "Jourdain's lead-leg attacks can do more than accumulate damage: they can slow Cuamba's exits and make follow-up punches easier to line up. Cuamba needs to answer or reposition before the kicks become uncontested. If Jourdain can kick without absorbing a clean return, his range control becomes more credible as the fight develops."
         },
         {
-          "fight_news": "Meerschaert could improve his entry by forcing Walker to defend a clinch before seeking the mat. A failed open-space shot would expose him to another striking exchange; an underhook and head position against the fence could let him work incrementally. Walker's ability to separate without exposing his back is the key response."
+          "fight_news": "Cuamba should protect the position before trying to explode out of a scramble. Turning away without controlling Jourdain's hands could allow a transition onto the back; staying square with frames preserves a route to standing. Jourdain's grappling advantage would be easier to trust if he can retain control after Cuamba's first escape attempt."
         },
         {
-          "fight_news": "Moving the fight to 205 pounds makes strength in the first extended tie-up a useful live read. If Walker can peel grips without losing position, Meerschaert may need a more technical transition to create control. If Walker relies on a hard escape every time, the energy cost could accumulate across rounds."
+          "fight_news": "Cuamba's distance striking has produced more significant strikes absorbed than landed across his UFC sample. A patient countering approach therefore needs visible clean returns to justify low activity. If Jourdain supplies both initiative and effective contact, Cuamba may need to increase output earlier than a finish-focused game plan would prefer."
         }
       ]
     },
     {
-      "title": "Malcolm Wellmaker vs Otari Tanzilovi",
+      "title": "Mandel Nallo vs Nate Landwehr",
       "items": [
         {
-          "fight_news": "Tanzilovi's recorded takedown activity makes Wellmaker's defensive recovery an important variable beyond the first sprawl. If Wellmaker stops an entry but leaves his hips close, Tanzilovi could reconnect at the fence. Clearing the underhook and taking a lateral exit would make the next wrestling attempt more expensive."
+          "fight_news": "Nallo has a three-inch listed reach advantage, but that helps only if he makes Landwehr cross dangerous space before exchanging. Straight shots and lateral exits can separate clean offense from a mutual pocket trade. If Landwehr repeatedly reaches chest-to-chest range without taking a meaningful shot, Nallo's length is not controlling the matchup."
         },
         {
-          "fight_news": "Wellmaker could punish an entry with a short counter rather than a wide power swing. Overcommitting to the head would leave him available for a body lock underneath; a compact strike followed by a frame could create damage while preserving his base. Tanzilovi's response to the first feint would help identify that window."
+          "fight_news": "Landwehr's pressure can expose Nallo's responses under a sustained workload, yet forward movement also risks walking onto knees or uppercuts. The key distinction is whether Landwehr closes behind offense or simply absorbs contact to get near him. Nallo's early power should carry more predictive weight if he stays balanced enough to defend the next rush."
         },
         {
-          "fight_news": "A close round could turn on offense after separation. Tanzilovi would need meaningful strikes or positional advances from his wrestling, while Wellmaker would need to make his counters count rather than simply defend. Repeated takedown attempts and forward motion alone should not be treated as decisive scoring evidence."
+          "fight_news": "Nallo's career wins have all been finishes, leaving less evidence for his ability to secure a close UFC decision over three rounds. If the early finish does not materialize, watch whether his output and defensive footwork remain organized. Landwehr can make the later rounds competitive by maintaining effective offense rather than merely surviving."
         }
       ]
     },
     {
-      "title": "Francisco Prado vs Ismael Bonfim",
+      "title": "Tanner Boser vs Jhonata Diniz",
       "items": [
         {
-          "fight_news": "Bonfim's boxing could become more effective if he draws Prado's overhand before answering with a compact combination. Meeting every forward burst with a simultaneous exchange would increase the risk for both men. A small angle change after the jab could make Prado reset and give Bonfim a cleaner second attack."
+          "fight_news": "Diniz has a four-inch listed reach advantage, creating a difficult entry problem for Boser. Boser may need to make him reset with feints and lateral movement before stepping into punching range. If Boser advances straight behind a single shot, Diniz has more opportunity to meet him with a counter before he can exit."
         },
         {
-          "fight_news": "Prado could change the matchup by connecting a clinch after striking, but reaching for a neck while off balance would be a costly shortcut. Establishing hip position before attacking a choke would offer a more reliable transition. Bonfim's ability to separate or establish top position would determine whether Prado gains anything from that phase change."
+          "fight_news": "Boser's movement should be judged by whether it creates unanswered scoring exchanges. Circling without landing leaves Diniz free to occupy the center and choose his attacks. Diniz, in turn, needs to cut off exits rather than follow Boser around the perimeter; repeated direction changes would reveal whether that pressure is economical."
+        },
+        {
+          "fight_news": "Neither fighter's UFC statistical profile shows an established offensive takedown game. A sudden wrestling attempt is therefore a tactical possibility rather than a dependable baseline. If one does complete a takedown, the ability to hold position and land strikes will matter more than assuming the fight has permanently changed into a grappling contest."
         }
       ]
     },
     {
-      "title": "Niko Price vs Leon Shahbazyan",
+      "title": "Julien Leblanc vs Nick Galanti",
       "items": [
         {
-          "fight_news": "Shahbazyan's guillotine history makes Price's posture on a takedown attempt particularly important. A low head with a separated elbow could offer the neck even if Price reaches the hips. Connecting his hands and maintaining head position before driving would reduce the chance of turning his own entry into Shahbazyan's attack."
+          "fight_news": "Galanti's contract-winning right hook came from close range, making an unprotected clinch entry a meaningful risk for Leblanc. Leblanc can reduce that exposure by connecting his approach to a jab or a level change. Galanti's timing is more threatening if Leblanc repeatedly arrives upright with his hands occupied reaching for grips."
         },
         {
-          "fight_news": "Price can create damage from unusual positions, but accepting a scramble without first clearing grips would add unnecessary risk. If Shahbazyan reaches for the neck, Price could prioritize hand fighting and a stable base before answering with strikes. The first broken clinch would reveal whether Shahbazyan can threaten without sacrificing position."
+          "fight_news": "A 35-second showcase provides little evidence about Galanti's response to extended resistance. If Leblanc can survive the first exchanges and force successive clinch breaks, Galanti's recovery between efforts becomes a useful read. Leblanc also needs to preserve safe head position when those breaks become scrambles instead of rushing to stand."
         }
       ]
     },
     {
-      "title": "Felipe Franco vs Brendson Ribeiro",
+      "title": "Javad Mahjoub vs Joel Faglier",
       "items": [
         {
-          "fight_news": "Franco's grappling background offers a route through Ribeiro's long striking range if he can enter behind a credible punch. Driving at the hips without first occupying Ribeiro's hands would make the approach easier to intercept. A connection to the fence could turn the bout into repeated grip battles rather than isolated shots."
+          "fight_news": "Mahjoub's judo experience suggests a route through body locks and off-balancing, but MMA removes the jacket grips and adds strikes. The first clinch will test that translation. Faglier can make throws harder by keeping his hips back and fighting for inside position; Mahjoub needs to establish control before committing his weight to a turn."
         },
         {
-          "fight_news": "Ribeiro could make his 81-inch reach useful by striking while Franco is still outside clinch range and moving immediately after the combination. If Franco gets chest-to-chest, reaching for a submission before securing defensive frames could concede position. The priority would be to separate safely and restore distance."
+          "fight_news": "A throw that lands Mahjoub on top would be more informative than an isolated burst of aggression. If he can stabilize and strike, Faglier must solve both the takedown and the ground position. If Faglier immediately stands or reverses, the clinch advantage is less decisive and Mahjoub may pay repeatedly for each attempt."
         }
       ]
     },
     {
-      "title": "Allen Frye Jr. vs RJ Harris",
+      "title": "Katlyn Cerminara vs Mackenzie Stiller",
       "items": [
         {
-          "fight_news": "Frye's longer reach could help him force Harris to enter behind more than a single punch. A jab followed by an angle would preserve the outside lane; a stationary combination could let Harris connect a blast double underneath. Harris needs to finish the entry in a stable position rather than assume contact guarantees control."
+          "fight_news": "Cerminara can ask Stiller to cross repeated jabs and kicks before she reaches a usable grip. Stiller's submission threat becomes more relevant once she settles into a controlling position, so the entry and stabilization matter separately. Cerminara should be favored by long stretches of clean distance work, but fewer exchanges alone would not demonstrate effective range control."
         },
         {
-          "fight_news": "If Harris reaches top position, the first stand-up attempt could show whether he can hold a heavyweight opponent without exhausting his arms. Frye could use the fence to build a base, but standing with his back exposed would invite a mat return. Both men would benefit from controlled transitions after the opening burst."
+          "fight_news": "Cerminara's lengthy absence creates uncertainty about timing rather than proof of physical decline. Watch her reactions after Stiller's first feints and level changes: balanced counters and immediate exits would reduce that concern. Delayed resets or retreating straight to the fence would give Stiller access to the clinch without requiring a refined distance attack."
+        },
+        {
+          "fight_news": "Stiller's recent regional bouts were at strawweight, while this assignment is at flyweight. The move may reduce the weight-cut burden but also expose her to a larger, experienced opponent. If she reaches the clinch yet cannot turn or displace Cerminara, her submission skills may remain difficult to bring into play."
         }
       ]
     },
     {
-      "title": "Alice Pereira vs Daria Zhelezniakova",
+      "title": "Chad Anheliger vs Steven Koslow",
       "items": [
         {
-          "fight_news": "Pereira's 71-inch reach exceeds Zhelezniakova's listed 68 inches despite the latter's greater height. Pereira could use a straight lead hand to make Zhelezniakova cross the gap; reaching for a looping follow-up would reduce that advantage. The first two exchanges should show whether Pereira can finish a combination without staying available for a counter."
+          "fight_news": "Koslow's most important task is securing a position he can retain after Anheliger's first escape. Advancing immediately toward a submission can surrender top control if the veteran creates space. Anheliger, meanwhile, needs to make Koslow restart the entry rather than allowing a failed shot to become an uninterrupted chain of grappling attacks."
         },
         {
-          "fight_news": "Zhelezniakova could disrupt Pereira's range by attacking the body and stepping off after the return shot. A head-hunting exchange at the end of Pereira's jab would favor the longer-reaching fighter. If either woman connects a clinch, underhook control and a safe exit could matter more than briefly holding the opponent against the fence."
+          "fight_news": "Both men return after long UFC absences, which makes old per-minute rates a weak basis for a confident pace forecast. The second round should reveal more: does Koslow keep connecting takedowns after the initial submission opportunity passes, and can Anheliger still create clean combinations after repeated escapes? Those responses matter more than early activity alone."
         }
       ]
     },
     {
-      "title": "Ernesta Kareckaitė vs Melissa Gatto",
+      "title": "Melissa Croden vs Chelsea Chandler",
       "items": [
         {
-          "fight_news": "Kareckaitė's high-output striking could force Gatto to defend repeatedly, but long combinations may also provide a timed wrestling entry. Finishing with an angle would help Kareckaitė maintain space; remaining square after the final punch could let Gatto connect her hands and bring the fight toward the fence."
+          "fight_news": "Croden can test Chandler's defense by pairing straight punches with an angle change before the return exchange. Chandler needs to turn that movement into a physical clinch or force Croden to reset without scoring. If Croden repeatedly lands and leaves untouched, Chandler's forward pressure may be consuming energy without narrowing the striking gap."
         },
         {
-          "fight_news": "Gatto's submission options become more relevant if she can establish control before hunting an arm or the neck. Kareckaitė could use a frame and knee shield to slow that transition, but turning away too early would expose another grip. The first escape attempt would show whether Gatto can convert contact into sustained attacking positions."
+          "fight_news": "Chandler's armbar threat makes extended posting during a scramble hazardous for Croden. Croden should first recover her elbow position and base before trying to stand explosively. Conversely, Chandler risks losing a useful top position if she falls back on an attack without securing the arm; the transition can change both finish risk and round momentum."
+        },
+        {
+          "fight_news": "Croden has previous late finishes and five-round experience, but that does not guarantee a pace advantage against this opponent. The stronger live indicator is whether she can maintain clean offense after clinch exchanges. Chandler can alter that trajectory by making Croden carry weight and defend grips between the striking exchanges."
+        }
+      ]
+    },
+    {
+      "title": "Cody Chovancek vs SuYoung You",
+      "items": [
+        {
+          "fight_news": "You's repeated takedown attempts can test Chovancek's ability to defend beyond the first sprawl. Chovancek needs an underhook and a clear separation, not just a momentary stop, to resume striking on his terms. If You keeps attaching to the hips after being denied, his persistence may matter more than the success rate of individual shots."
+        },
+        {
+          "fight_news": "Chovancek's debut makes his response to prolonged UFC wrestling difficult to project. Early striking success would be less reassuring if each defensive sequence takes longer to escape. You should improve his prospects if he converts pressure into useful ground offense; ineffective holding would leave Chovancek opportunities to win exchanges after each reset."
         }
       ]
     }

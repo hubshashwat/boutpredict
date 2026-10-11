@@ -1,152 +1,163 @@
 {
   "feed_version": 1,
-  "event": "UFC Fight Night: Allen vs. Duncan",
-  "event_date": "October 10, 2026",
-  "venue": "Meta APEX, Las Vegas, NV, United States",
+  "event": "UFC Fight Night: Buckley vs. Malott",
+  "event_date": "October 17, 2026",
+  "venue": "Rogers Place, Edmonton, Alberta, Canada",
   "tier": "free",
   "spotlight_image": "/images/hero-fight.jpg",
   "bouts": [
     {
-      "title": "Brendan Allen vs Christian Leroy Duncan",
+      "title": "Joaquin Buckley vs Mike Malott",
       "items": [
         {
-          "fight_news": "Brendan Allen and Christian Leroy Duncan headline the October 10 Fight Night at Meta APEX in Las Vegas. Allen enters at 27-7 and Duncan at 15-2, putting two established middleweight contenders in the evening's main event rather than a title fight."
+          "fight_news": "Joaquin Buckley and Mike Malott headline in Edmonton on October 17. Buckley enters at 21-8 and Malott at 14-2-1, with the No. 10 and No. 13 welterweights meeting in a non-title main event."
         },
         {
-          "fight_news": "Allen arrives on a three-fight winning streak after defeating Edmen Shahbazyan in June. His recent run also includes victories over Marvin Vettori and Reinier de Ridder, giving him a strong platform to pursue another step toward the middleweight championship picture."
+          "fight_news": "Buckley is looking to end a two-fight losing streak after facing Kamaru Usman and Sean Brady. Before those setbacks, he won six consecutive welterweight bouts, including stoppages of Stephen Thompson and Colby Covington."
         },
         {
-          "fight_news": "Duncan brings five consecutive wins into the matchup. His last three victories came against Marco Tulio, Roman Dolidze, and Jared Cannonier, making Allen the next substantial test in a run that has moved him into the division's leading contender group."
+          "fight_news": "Malott has won four straight since his loss to Neil Magny. His latest victory was a third-round stoppage of Gilbert Burns in April, and Edmonton marks his second consecutive main-event assignment in Canada."
         },
         {
-          "fight_news": "The main card starts at 8pm Eastern on October 10, following prelims at 5pm Eastern. In India, those starts fall on October 11 at 5:30am and 2:30am respectively. The event streams on Paramount+ in the United States."
+          "fight_news": "The October 17 prelims begin at 5pm Eastern and the main card at 8pm Eastern. In India, those starts are October 18 at 2:30am and 5:30am respectively. The United States broadcast is on Paramount+."
         }
       ]
     },
     {
-      "title": "Matheus Camilo vs Jai Herbert",
+      "title": "Erin Blanchfield vs Jasmine Jasudavicius",
       "items": [
         {
-          "fight_news": "Matheus Camilo faces Jai Herbert in the lightweight bout immediately beneath the headliner. Camilo enters at 11-3 and Herbert at 14-6-1, pairing a newer UFC competitor with an opponent who has been part of the promotion since 2020."
+          "fight_news": "Erin Blanchfield returns after submitting Tracy Cortez in November 2025. She previously defeated Rose Namajunas in Edmonton, giving the American another opportunity to build on a successful appearance in the same city."
         },
         {
-          "fight_news": "Herbert returns after stopping Mandel Nallo in the first round in April. The former Cage Warriors lightweight champion has a recognizable European pedigree, and this assignment gives him an opportunity to extend his recent success against another developing lightweight."
+          "fight_news": "Jasmine Jasudavicius rebounded from her loss to Manon Fiorot with a unanimous-decision victory over Karine Silva in April. Blanchfield is her next chance to establish herself among the division's leading championship candidates."
         },
         {
-          "fight_news": "Camilo's UFC record includes a decision victory over Viacheslav Borshchev in November 2025. Facing Herbert on a featured main-card slot offers a different veteran test and a larger platform for a fighter still building his place in the lightweight division."
+          "fight_news": "Blanchfield brings an 8-1 UFC record into this matchup, while Jasudavicius is 9-3 in the promotion. With Natalia Silva having won the flyweight title earlier this month, this meeting carries significant contender stakes."
         }
       ]
     },
     {
-      "title": "Loopy Godinez vs Ketlen Souza",
+      "title": "Kyle Nelson vs Cristian Perez Gonzalez",
       "items": [
         {
-          "fight_news": "Loopy Godinez meets Ketlen Souza in a women's strawweight main-card matchup. Godinez enters at 14-6 and holds the No. 8 position, while Souza enters at 17-6. A victory over a ranked opponent would give Souza a meaningful foothold in the division."
+          "fight_news": "Kyle Nelson returns after Terrance McKinney stopped him in 24 seconds in March. He had beaten Matt Frevola by unanimous decision the previous October, making this a chance to restart his lightweight momentum."
         },
         {
-          "fight_news": "Godinez returns after a submission loss to Tatiana Suarez at UFC 327 in April. She previously defeated Jessica Andrade and Julia Polastri, so this booking offers a chance to restart her progress against an opponent outside the current top-ranked group."
-        },
-        {
-          "fight_news": "Souza comes off a first-round stoppage of Ariane Carnelossi in June, following a decision win over Bruna Brasil in February. Those results give her positive momentum entering a matchup with a more established ranked strawweight on the October 10 main card."
+          "fight_news": "Cristian Perez Gonzalez makes his UFC debut against an opponent who first entered the promotion in 2018. The Mexican lightweight receives a veteran test on a main card featuring several established Canadian competitors."
         }
       ]
     },
     {
-      "title": "Andre Fili vs Kai Kamaka III",
+      "title": "Marc-Andre Barriault vs Kyle Daukaus",
       "items": [
         {
-          "fight_news": "Andre Fili and Kai Kamaka III meet at featherweight on the main card. Fili enters at 25-14 and Kamaka at 18-8-1, making this one of the card's more experienced pairings rather than a debut or unbeaten-prospect matchup."
+          "fight_news": "Marc-Andre Barriault enters at 17-11 after consecutive decision losses to Shara Magomedov and Michal Oleksiejczuk. The Canadian middleweight's last win was a first-round knockout of Bruno Silva in May 2025."
         },
         {
-          "fight_news": "Fili has competed in the UFC since 2013 and returns after a June stoppage loss to Vinicius Oliveira. The Kamaka assignment gives the long-serving featherweight a chance to rebuild his momentum against another fighter with extensive professional experience."
+          "fight_news": "Kyle Daukaus looks to rebound after Bo Nickal stopped him in June. His return to the UFC had begun with quick wins over Michel Pereira and Gerald Meerschaert, bringing him back into contention for meaningful middleweight assignments."
         }
       ]
     },
     {
-      "title": "Julius Walker vs Gerald Meerschaert",
+      "title": "Louis Jourdain vs Timmy Cuamba",
       "items": [
         {
-          "fight_news": "Julius Walker faces Gerald Meerschaert at light heavyweight, with Walker entering at 7-3 and Meerschaert at 37-22. The booking brings a veteran best known for his long middleweight career into a matchup with a much less experienced 205-pound opponent."
+          "fight_news": "Louis Jourdain earned his UFC contract by submitting Magno Dias in the third round of their September 2025 Contender Series bout. He joins older brother Charles on the roster and now faces Timmy Cuamba at bantamweight."
         },
         {
-          "fight_news": "Walker returns after two stoppage defeats in 2026, most recently against Abdul Rakhman Yakhyaev in June. A win over Meerschaert would help him regain momentum while adding a recognizable veteran name to his developing UFC record."
+          "fight_news": "Cuamba returns after a second-round submission loss to Benardo Sopaj in May. That defeat followed victories over Roberto Romero and ChangHo Lee, giving the American a chance to resume the progress he made in 2025."
         }
       ]
     },
     {
-      "title": "Malcolm Wellmaker vs Otari Tanzilovi",
+      "title": "Mandel Nallo vs Nate Landwehr",
       "items": [
         {
-          "fight_news": "Malcolm Wellmaker and Otari Tanzilovi meet at bantamweight with matching 10-2 professional records. Their main-card placement gives both fighters a visible opportunity to establish momentum without the immediate stakes of a ranked contender matchup."
+          "fight_news": "Mandel Nallo seeks his first UFC win after Jai Herbert stopped him in April. The Canadian lightweight earned his contract with a first-round finish of Samuel Silva on Contender Series and enters this assignment at 14-4."
         },
         {
-          "fight_news": "Both men are looking to respond to recent UFC setbacks. Wellmaker was submitted by Juan Diaz in May, while Tanzilovi lost a decision to Shane Collins in June. This pairing gives one of them a route back to the win column."
+          "fight_news": "Nate Landwehr moves into this lightweight matchup after three consecutive stoppage defeats at featherweight. His most recent loss came against Cub Swanson in April, making Edmonton a rebuilding opportunity for the longtime action fighter."
         }
       ]
     },
     {
-      "title": "Francisco Prado vs Ismael Bonfim",
+      "title": "Tanner Boser vs Jhonata Diniz",
       "items": [
         {
-          "fight_news": "Francisco Prado faces Ismael Bonfim in the lightweight preliminary-card feature. Prado enters at 12-5 and Bonfim at 20-7, giving both fighters a chance to repair recent results in a division where sustained momentum is difficult to build."
+          "fight_news": "Tanner Boser returns after a second-round stoppage loss to Gokhan Saricam in April. The Bonnyville-born heavyweight gets another Canadian appearance as he looks for a win in his second UFC stint."
         },
         {
-          "fight_news": "Prado has lost four consecutive fights, while Bonfim comes off three consecutive stoppage defeats. The booking therefore carries rebuilding stakes for both men, with a victory offering a practical reset rather than an immediate route into title contention."
+          "fight_news": "Jhonata Diniz brings a 9-2 MMA record and a substantial professional kickboxing background. His two MMA defeats have come inside the UFC, and this matchup pairs him with an opponent who has competed professionally since 2012."
         }
       ]
     },
     {
-      "title": "Niko Price vs Leon Shahbazyan",
+      "title": "Julien Leblanc vs Nick Galanti",
       "items": [
         {
-          "fight_news": "Niko Price meets Leon Shahbazyan at welterweight in the prelims. Price enters at 16-11 with two no-contests, while Shahbazyan enters at 12-5. Price's long UFC tenure makes this a recognizable veteran assignment for an opponent early in his promotional run."
+          "fight_news": "Julien Leblanc returns after Robert Valentin submitted him in the first round of his April UFC debut. The Canadian middleweight previously won a regional championship against former UFC fighter Darion Weeks."
         },
         {
-          "fight_news": "Shahbazyan seeks a better second UFC appearance after a first-round stoppage loss to Levan Chokheli in June. Price also arrives after a defeat, having been submitted by Michael Chiesa in March, so both men have an immediate reason to rebuild momentum."
+          "fight_news": "Nick Galanti earned his UFC contract with a 35-second knockout of Carlos Petruzzella in August. The former regional middleweight champion now faces Leblanc in his first UFC appearance."
         }
       ]
     },
     {
-      "title": "Felipe Franco vs Brendson Ribeiro",
+      "title": "Javad Mahjoub vs Joel Faglier",
       "items": [
         {
-          "fight_news": "Felipe Franco and Brendson Ribeiro meet in an all-Brazilian light heavyweight preliminary bout. Franco enters at 11-2 and Ribeiro at 17-11 with one no-contest, pairing a newer UFC competitor with an opponent who has accumulated substantially more professional appearances."
+          "fight_news": "Javad Mahjoub brings an Olympic judo background to his UFC debut. Born in Iran and later based in Canada, he competed for the Refugee Olympic Team in Tokyo before pursuing his MMA career."
         },
         {
-          "fight_news": "Franco earned a second-round stoppage over Levi Rodrigues Jr. in July. Ribeiro lost a decision to Magomed Tuchalov later that month, giving the matchup contrasting recent results: Franco aims to build on a victory while Ribeiro seeks to halt his losing run."
+          "fight_news": "Joel Faglier is also scheduled for his first UFC appearance. At 25, he faces the 35-year-old Mahjoub in a heavyweight pairing that gives both newcomers an immediate opportunity to establish themselves."
         }
       ]
     },
     {
-      "title": "Allen Frye Jr. vs RJ Harris",
+      "title": "Katlyn Cerminara vs Mackenzie Stiller",
       "items": [
         {
-          "fight_news": "Allen Frye Jr. faces RJ Harris at heavyweight in the prelims. Frye enters at 6-1 and Harris at 6-0, with Harris defending an unbeaten professional record against an opponent who has already experienced a full-length UFC contest."
+          "fight_news": "Katlyn Cerminara returns for her first fight since a March 2024 decision loss to Maycee Barber. The former flyweight title challenger enters at 18-6 and has faced many of the division's leading names."
         },
         {
-          "fight_news": "Harris won his UFC debut by stopping Alvin Hines in the first round in July. Frye seeks his first promotional victory after a decision loss to Guilherme Pat in December 2025, giving the matchup clear but different career milestones for each heavyweight."
+          "fight_news": "Mackenzie Stiller makes her UFC debut as the replacement for Jamey-Lyn Horth. She submitted Kendra McIntyre by first-round armbar in February and has also appeared on The Ultimate Fighter."
         }
       ]
     },
     {
-      "title": "Alice Pereira vs Daria Zhelezniakova",
+      "title": "Chad Anheliger vs Steven Koslow",
       "items": [
         {
-          "fight_news": "Alice Pereira meets Daria Zhelezniakova in a women's bantamweight preliminary bout. Pereira enters at 7-1 and Zhelezniakova at 10-3, placing a young Brazilian prospect against a more experienced opponent on the October 10 Las Vegas card."
+          "fight_news": "Chad Anheliger returns after a November 2024 decision loss to Cody Gibson. The Canadian bantamweight enters at 13-8 and previously defeated Charalampos Grigoriou over three rounds."
         },
         {
-          "fight_news": "Pereira earned her first UFC victory by stopping Hailey Cowan in April after losing her debut to Montserrat Rendon. Zhelezniakova returns from a decision defeat to Melissa Croden, so Pereira aims to extend a breakthrough while her opponent seeks a rebound."
+          "fight_news": "Steven Koslow returns to the UFC after Cameron Saaiman stopped him in December 2022. His six professional wins all came by first-round submission, while his only UFC appearance reached the third round."
         }
       ]
     },
     {
-      "title": "Ernesta Kareckaitė vs Melissa Gatto",
+      "title": "Melissa Croden vs Chelsea Chandler",
       "items": [
         {
-          "fight_news": "Ernesta Kareckaitė and Melissa Gatto open the preliminary card at women's flyweight. Kareckaitė enters at 6-2-1 and Gatto at 9-3-2, giving the October 10 event an experienced international pairing between fighters from Lithuania and Brazil."
+          "fight_news": "Melissa Croden enters at 8-3 after a unanimous-decision win over Daria Zhelezniakova in April. That result followed a loss to Luana Santos, giving the Canadian bantamweight a chance to build consecutive UFC victories."
         },
         {
-          "fight_news": "Both return after decision defeats earlier this year. Kareckaitė lost to Regina Tarin in February, while Gatto lost a majority decision to Dione Barbosa in April. A win would help either fighter regain momentum before seeking a more prominent divisional assignment."
+          "fight_news": "Chelsea Chandler returned to the win column by submitting Priscila Cachoeira with a first-round armbar in June. She enters at 7-4 after previously dropping consecutive fights to Yana Santos and Joselyne Edwards."
+        },
+        {
+          "fight_news": "Croden has six knockout victories, while Chandler has wins by both strikes and submission. Both have experience beyond the UFC, with Croden having challenged for a regional title over five rounds and Chandler developing through an all-women's promotion."
+        }
+      ]
+    },
+    {
+      "title": "Cody Chovancek vs SuYoung You",
+      "items": [
+        {
+          "fight_news": "Cody Chovancek makes his UFC debut after developing on the Canadian regional circuit. The Niagara Top Team bantamweight joins a card also featuring teammates Mike Malott and Jasmine Jasudavicius."
+        },
+        {
+          "fight_news": "SuYoung You returns after Elijah Smith submitted him in March. The Road to UFC bantamweight tournament winner had previously earned decision victories over Jieleyisi Baergeng, AJ Cunningham, and Xiao Long."
         }
       ]
     }
